@@ -18,7 +18,6 @@ for i in range(2,len(sys.argv)):
     f = open(sys.argv[i], "r")
     for line in f:
         if "=" in line:
-            if all(ord(ch) < 128 for ch in line):
                 if line[0] != "#":
                     count = count+1
                     parts = line.partition("=")
