@@ -289,6 +289,7 @@ Drevnejsije Gosudarstva na territorii SSSR (Les états les plus anciens sur le t
 Dumbarton Oaks Papers = DOP
 Durham University Journal = DUJ
 East and West = E&W
+Échos du monde classique (Classical Views) = EMC
 Egitto e Vicino Oriente = EVO
 Eikasmos: quaderni bolognesi di filologia classica = Eikasmos
 English Historical Review = EHR
@@ -835,4 +836,3 @@ Zeitschrift für ägyptische Sprache und Altertumskunde = ZAS
 Zentralblatt für Bibliothekswesen = ZBB
 Ziva Antika (Antiquité vivante) = ZAnt
 Zprávy Jednoty Klasickaych Filologu = ZJKF
-Échos du monde classique (Classical Views) = EMC
