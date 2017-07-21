@@ -7,6 +7,8 @@ This requires that you keep one or more lists of journal names and their respect
 To set up these lists, choose Options -> Manage journal abbreviations.
 See also <https://help.jabref.org/en/JournalAbbreviations>.
 
+Currently, only [journal lists](journals/) are offered.
+
 ## Format of the file
 
     <full name> = <abbreviation>;[<shortest unique abbreviation>[;<frequency>]]
