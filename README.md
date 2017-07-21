@@ -14,7 +14,7 @@ Currently, only [journal lists](journals/) are offered.
     <full name> = <abbreviation>;[<shortest unique abbreviation>[;<frequency>]]
 
 The two last fields are not currently used, and you can actually safely omit them.
-The intention of the third field is to contain the "shortest unique abbreviation" and the fourth field gives frequency (e.g., `M` for monthly.
+The intention of the third field is to contain the "shortest unique abbreviation" and the fourth field gives frequency (e.g., `M` for monthly).
 
 For instance:
 
