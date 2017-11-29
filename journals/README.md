@@ -4,6 +4,7 @@
 * [American Mathematical Society](journal_abbreviations_ams.txt) by Tzu-Hao Wei.
 * [Année philologique](journal_abbreviations_annee-philologique.txt) by Domenico Cufalo.
 * [Astronomy](https://raw.githubusercontent.com/timstaley/jabref-astro-abbreviations/master/MNRAS_abbreviations.txt) by Tim Staley. _Note: Please contribute using [github](https://github.com/timstaley/jabref-astro-abbreviations)._
+* [Deutsches Archäologisches Institut](journal_abbreviations_dainst.txt) by [Lukas C. Bossert](http://digitales-altertum.de).
 * [Economics](https://raw.github.com/jrnold/jabref-econ-journal-abbrevs/master/aea-abbrevs.txt) by Jeff Arnold (as as posted on the AEA website).
 * [Entrez](journal_abbreviations_entrez.txt) by Emmanuel Charpentier. _Note: provides Medline (dotless) abbr. only._
 * [Geology and Physics](journal_abbreviations_geology_physics.txt) by an [anonymous user](https://sourceforge.net/p/jabref/patches/164/).
