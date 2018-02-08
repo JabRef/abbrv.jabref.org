@@ -11,7 +11,7 @@ Currently, only [journal lists](journals/) are offered.
 
 ## Format of the file
 
-    <full name> = <abbreviation>;[<shortest unique abbreviation>[;<frequency>]]
+    <full name> = <abbreviation>[;<shortest unique abbreviation>[;<frequency>]]
 
 The two last fields are not currently used, and you can actually safely omit them.
 The intention of the third field is to contain the "shortest unique abbreviation" and the fourth field gives frequency (e.g., `M` for monthly).
