@@ -1,7 +1,7 @@
 # Journal Abbreviations
 
 * [General](journal_abbreviations_general.txt)
-* [American Chemical Society] (Journal_abbreviations_ACS.txt) by J. Gutow
+* [American Chemical Society](Journal_abbreviations_ACS.txt) by J. Gutow
 * [American Mathematical Society](journal_abbreviations_ams.txt) by Tzu-Hao Wei.
 * [Année philologique](journal_abbreviations_annee-philologique.txt) by Domenico Cufalo.
 * [Astronomy](https://raw.githubusercontent.com/timstaley/jabref-astro-abbreviations/master/MNRAS_abbreviations.txt) by Tim Staley. _Note: Please contribute using [github](https://github.com/timstaley/jabref-astro-abbreviations)._
