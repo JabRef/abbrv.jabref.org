@@ -14,6 +14,7 @@
 * [ISI Web of Science (with dots)](journal_abbreviations_webofscience-dots.txt) by Alistair Auffret.
 * [ISI Web of Science (dotless)](journal_abbreviations_webofscience.txt) by Alistair Auffret.
 * [Life Science](journal_abbreviations_lifescience.txt) by Zé Roberto Ribeiro.
+* [Mathematics](journal_abbreviations_mathematics.txt) from [MathSciNet](https://mathscinet.ams.org/msnhtml/annser.csv).
 * [Mechanical and biomechanical](journal_abbreviations_mechanical.txt) by an [anonymous user](https://sourceforge.net/p/jabref/patches/151/).
 * [Meteorology](journal_abbreviations_meteorology.txt) by Thijs Heus.
 * [Sociology](journal_abbreviations_sociology.txt) by Ronggui Huang.
