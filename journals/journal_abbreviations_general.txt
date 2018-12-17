@@ -392,7 +392,6 @@ Astronomicheskii Zhurnal = Astron. Zh.
 Astronomische Nachrichten = Astron. Nachr.
 Astronomy & Astrophysics, Supplement Series = Astron. Astrophys., Suppl. Ser.
 Astronomy and Astrophysics = Astron. Astrophys.
-Astronomy Journal = Astron. J.
 Astronomy Letters = Astron. Lett.
 Astrophysical Journal = Astrophys. J.
 Astrophysics and Space Science = Astrophys. Space Sci.
