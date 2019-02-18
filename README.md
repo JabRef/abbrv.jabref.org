@@ -18,7 +18,7 @@ The intention of the third field is to contain the "shortest unique abbreviation
 
 For instance:
 
-      Accounts of Chemical Research=Acc. Chem. Res.;ACHRE4;M
+      Accounts of Chemical Research = Acc. Chem. Res.;ACHRE4;M
 
 This was done in old versions of the "general journals list" primarily because the information was available.
 In the current version shipped with jabref (<https://github.com/JabRef/jabref/blob/master/src/main/resources/journals/journalList.txt>), this is not the case any more.
