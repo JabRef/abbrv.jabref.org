@@ -1438,6 +1438,7 @@ Fiziologiya Rastenii (Moscow) = Fiziol. Rast. (Moscow)
 Flora = Flora
 Florida Scientist = Fla. Sci.
 Floristische Rundbriefe = Florist. Rd.br.
+Flow, Turbulence and Combustion = Flow Turbul. Combust.
 Fluid Phase Equilibria = Fluid Phase Equilib.
 Fluid/Particle Separation Journal = Fluid/Part. Sep. J.
 Folding and Design = Fold Des.
