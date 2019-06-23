@@ -1345,6 +1345,7 @@ European Journal of Pharmacology, Molecular Pharmacology Section = Eur. J. Pharm
 European Journal of Physics = Eur. J. Phys.
 European Journal of Soil Science = Eur. J. Soil Sci.
 European Journal of Solid State and Inorganic Chemistry = Eur. J. Solid State Inorg. Chem.
+European Physical Journal Special Topics = Eur. Phys. J. Spec. Top.
 European Mass Spectrometry = Eur. Mass Spectrom.
 European Molecular Biology Organization Journal = Eur. Mol. Biol. Organ. J.
 European Neuropsychopharmacology = Eur. Neuropsychopharmacol.
