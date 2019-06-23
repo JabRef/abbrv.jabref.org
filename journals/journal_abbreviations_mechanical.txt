@@ -459,6 +459,7 @@ Beitraege zur Chemischen Physiologie und Pathologie = Beitr. Chem. Physiol. Path
 Beitraege zur Gerichtlichen Medizin = Beitr. Gerichtl. Med.
 Bell Laboratories Record = Bell Lab. Rec.
 Bell Labs Technical Journal = Bell Labs Tech. J.
+Bell System Technical Journal = Bell Syst. Tech. J.
 Berg- und Huettenmaennische Monatshefte = Berg- Huettenmaenn. Monatsh.
 Berichte der Bunsen-Gesellschaft = Ber. Bunsen Ges.
 Berichte der Bunsen-Gesellschaft fur Physikalische Chemie = Ber. Bunsen Ges. Phys. Chem.
