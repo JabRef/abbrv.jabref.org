@@ -2999,6 +2999,7 @@ Journal of Seismology = J. Seismolog.
 Journal of Semiconductors = J. Semicond.
 Journal of Sensory Studies = J. Sens. Stud.
 Journal of Separation Science = J. Sep. Sci.
+Journal of Signal Processing Systems = J. Signal Process. Syst.
 Journal of Soil Science = J. Soil Sci.
 Journal of Soil and Water Conservation = J. Soil Water Conserv.
 Journal of Soils and Sediments = J. Soils Sediments
