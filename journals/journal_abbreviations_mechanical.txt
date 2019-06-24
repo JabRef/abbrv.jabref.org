@@ -4040,6 +4040,7 @@ Proceedings of the Royal Society of London Series B = Proc. R. Soc. London, Ser.
 Proceedings of the Society for Analytical Chemistry = Proc. Soc. Anal. Chem.
 Proceedings of the Society for Experimental Biology and Medicine = Proc. Soc. Exp. Biol. Med.
 Proceedings of the Zoological Society = Proc. Zool. Soc.
+Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science = Proc. Inst. Mech. Eng. C
 Process Biochemistry = Process Biochem.
 Process Control and Quality = Process Control Qual.
 Process Safety Progress = Process Saf. Prog.
