@@ -509,8 +509,8 @@
  Chicago Journal of Theoretical Computer Science = Chicago J. Theoret. Comput. Sci.
  Chicago Lectures in Physics = Chicago Lectures Phys.
  Chicago Lectures in Mathematics = Chicago Lectures in Math.
- Chinese Annals of Mathematics = Chinese Ann. Math. Ser. A
- Chinese Annals of Mathematics = Chinese Ann. Math. Ser. B
+ Chinese Annals of Mathematics, Series A = Chinese Ann. Math. Ser. A
+ Chinese Annals of Mathematics, Series B = Chinese Ann. Math. Ser. B
  Chinese Astronomy and Astrophysics = Chinese Astronom. Astrophys.
  Chinese Journal of Applied Mechanics = Chinese J. Appl. Mech.
  Chinese Journal of Applied Probability and Statistics = Chinese J. Appl. Probab. Statist.
