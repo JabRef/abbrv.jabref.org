@@ -861,6 +861,7 @@ Clinics In Podiatric Medicine and Surgery=Clin Podiatr Med Surg;;
 Clinics In Sports Medicine=Clin Sports Med;;
 Clio Medica=Clio Med;;
 CMAJ=CMAJ;;
+Cognitive Computation = Cognit. Comput.
 Cold Spring Harbor Symposia on Quantitative Biology=Cold Spring Harb Symp Quant Biol;;
 Collegium Antropologicum=Coll Antropol;;
 Communicable Disease Report. CDR Review=Commun Dis Rep CDR Rev;;
