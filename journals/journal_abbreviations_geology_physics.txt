@@ -19,6 +19,7 @@ Analytical Letters = Anal. Lett.
 Analytical Methods = Anal. Methods
 Analytical Sciences = Anal. Sci.
 Andean Geology = Andean Geol.
+Annual Review of Astronomy and Astrophysics = Annu. Rev. Astron. Astrophys.
 Annals of GIS = Ann. Gis
 Annals of Glaciology = Ann. Glaciol.
 Annals of Physics = Ann. Phys.
