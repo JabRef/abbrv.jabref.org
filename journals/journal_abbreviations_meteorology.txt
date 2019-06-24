@@ -64,6 +64,7 @@ Journal of Climatology = J. Climatol.
 Journal of Computational Physics = J. Comput. Phys.
 Journal of Fluid Mechanics = J. Fluid Mech.
 Journal of Geophysical Research = J. Geophys. Res.
+Journal of Geophysical Research: Oceans = J. Geophys. Res. Oceans
 Journal of Glaciology = J. Glaciol.
 Journal of Hydrology = J. Hydrol.
 Journal of Marine Research = J. Mar. Res.
