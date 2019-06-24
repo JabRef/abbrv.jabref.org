@@ -3518,6 +3518,7 @@ Philosophical Magazine B: Physics of Condensed Matter: Statistical Mechanics, El
 Philosophical Magazine B: Physics of Condensed Matter: Structural, Electronic, Optical and Magnetic Properties = Philos. Mag. B
 Philosophical Magazine Letters = Philos. Mag. Lett.
 Philosophical Transactions of the Royal Society of London = Philos. Trans. R. Soc. Lond.
+Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences = Philos. Trans. Royal Soc. A
 Philosophical Transactions of the Royal Society of London, Series A = Philos. Trans. R. Soc. London, Ser. A
 Philosophical Transactions of the Royal Society of London, Series B = Philos. Trans. R. Soc. London, Ser. B
 Phosphorus, Sulfur and Silicon and the Related Elements = Phosphorus, Sulfur Silicon Relat. Elem.
