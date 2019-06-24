@@ -503,7 +503,7 @@
  Centaurus = Centaurus
  Centre for Pure and Applied Differential Geometry (PADGE) = Centre Pure Appl. Differential Geom. (PADGE)
  Chaos = Chaos
- Chaos, Solitons and Fractals = Chaos Solitons Fractals
+ Chaos, Solitons & Fractals = Chaos Soliton Fract.
  Chapman & Hall Probability Series = Chapman & Hall Probab. Ser.
  Chapman and Hall Mathematics Series = Chapman and Hall Math. Ser.
  Chicago Journal of Theoretical Computer Science = Chicago J. Theoret. Comput. Sci.
