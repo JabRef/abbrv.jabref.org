@@ -2751,6 +2751,7 @@ Journal of the Optical Society of America A: Optics, Image Science, and Vision =
 Journal of the Optical Society of America B: Optical Physics = J. Opt. Soc. Am. B
 Journal of the Physical Society of Japan = J. Phys. Soc. Jpn.
 Journal of the Royal Statistical Society = J. R. Stat. Soc.
+Journal of the Royal Statistical Society: Series B (Statistical Methodology) = J. R. Stat. Soc. B
 Journal of the Russell Society = J. Russell Soc.
 Journal of the Science of Food and Agriculture = J. Sci. Food Agric.
 Journal of the Serbian Chemical Society = J. Serb. Chem. Soc.
