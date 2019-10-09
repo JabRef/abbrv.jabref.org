@@ -5,7 +5,7 @@ Python script for combining several journal abbreviation lists
 and producing an alphabetically sorted list. If the same journal
 names are repeated, only the version found last is retained.
 
-Usage: combineJournalLists.py out_file in_file1 in_file2 ...
+Usage: combine_journal_lists.py out_file in_file1 in_file2 ...
 """
 
 import sys
