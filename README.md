@@ -1,4 +1,6 @@
 # Abbreviations
+[![Build Status](https://travis-ci.org/JabRef/abbrv.jabref.org.svg?branch=master)](https://travis-ci.org/JabRef/abbrv.jabref.org)
+
 
 A repository of abbreviations for references, e.g., for conferences, journals, institutes, etc.
 
