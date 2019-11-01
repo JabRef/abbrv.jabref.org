@@ -11,7 +11,7 @@ Currently, only [journal lists](journals/) are offered.
 
 ## Format of the file
 
-Now the data files are in CSV format (using semicolons as separators):
+Since October 2019, the data files are in CSV format (using semicolons as separators):
 
     <full name>;<abbreviation>[;<shortest unique abbreviation>[;<frequency>]]
 
