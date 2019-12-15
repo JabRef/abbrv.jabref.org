@@ -17,9 +17,9 @@ for in_file in sys.argv[2:]:
     count = 0
     f = open(in_file, "r")
     for line in f:
-        if "=" in line and line[0] != "#":
+        if ";" in line and line[0] != "#":
             count = count+1
-            parts = line.partition("=")
+            parts = line.partition(";")
             journal_dict[parts[0].strip()] = line.strip()
     f.close()
     print(f"{in_file}: {count}")
