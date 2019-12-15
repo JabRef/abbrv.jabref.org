@@ -5,7 +5,7 @@ A repository of abbreviations for references, e.g., for conferences, journals, i
 JabRef can help you refactor your reference list by automatically abbreviating or unabbreviating journal names.
 This requires that you keep one or more lists of journal names and their respective abbreviations.
 To set up these lists, choose Options -> Manage journal abbreviations.
-See also <https://help.jabref.org/en/JournalAbbreviations>.
+See also <hhttps://docs.jabref.org/fields/journalabbreviations>.
 
 Currently, only [journal lists](journals/) are offered.
 
