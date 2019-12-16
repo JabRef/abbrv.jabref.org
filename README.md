@@ -1,13 +1,7 @@
 # Abbreviations
 
 A repository of abbreviations for references, e.g., for conferences, journals, institutes, etc.
-
-JabRef can help you refactor your reference list by automatically abbreviating or unabbreviating journal names.
-This requires that you keep one or more lists of journal names and their respective abbreviations.
-To set up these lists, choose Options -> Manage journal abbreviations.
-See also <https://docs.jabref.org/fields/journalabbreviations>.
-
-Currently, only [journal lists](journals/) are offered.
+Currently, [journal lists](journals/) are offered.
 
 ## Format of the file
 
@@ -23,5 +17,12 @@ For instance:
 
     Accounts of Chemical Research;Acc. Chem. Res.;ACHRE4;M
 
-This was done in old versions of the "general journals list" primarily because the information was available.
-In the current version shipped with JabRef (<https://github.com/JabRef/jabref/blob/master/src/main/resources/journals/journalList.csv>), this is not the case any more.
+## Relation to JabRef
+
+JabRef can help you refactor your reference list by automatically abbreviating or unabbreviating journal names.
+This requires that you keep one or more lists of journal names and their respective abbreviations.
+To set up these lists, choose Options -> Manage journal abbreviations.
+See <https://docs.jabref.org/fields/journalabbreviations> for an extensive documentation.
+
+At each release of JabRef, all available journal lists are combined into one and made available to the users.
+For more inforamtion see https://app.gitbook.com/@jabref/s/jabref/~/drafts/-LwFEP7BAMSOI10uPlmB/fields/journalabbreviations
