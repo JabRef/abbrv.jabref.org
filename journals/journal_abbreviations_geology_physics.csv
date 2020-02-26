@@ -1,3 +1,4 @@
+2D Materials;2D Mater.
 AAPG Bulletin;AAPG Bull.
 AAPG Memoir;AAPG Mem.
 AGSO Journal of Australian Geology and Geophysics;AGSO J. Aust. Geol. Geophys.
@@ -10,6 +11,7 @@ Advances in Physics;Adv. Phys.
 Advances in Space Research;Adv. Space Res.
 Advances in Water Resources;Adv. Water Res.
 Advances in X-Ray Analysis;Adv. X-Ray Anal.
+AIP Advances;AIP Adv.
 American Association of Petroleum Geologists Bulletin;Am. Assoc. Pet. Geol. Bull.
 American Journal of Physics;Am. J. Phys.
 American Journal of Science;Am. J. Sci.
@@ -22,12 +24,16 @@ Andean Geology;Andean Geol.
 Annual Review of Astronomy and Astrophysics;Annu. Rev. Astron. Astrophys.
 Annals of GIS;Ann. Gis
 Annals of Glaciology;Ann. Glaciol.
-Annals of Physics;Ann. Phys.
+Annalen der Physik;Ann. Phys. (Berl.)
+Annals of Physics;Ann. Phys. (NY)
 Annals of the New York Academy of Sciences;Ann. N.Y. Acad. Sci.
 Annual Review of Earth and Planetary Sciences;Annu. Rev. Earth Planet. Sci.
 Annual Review of Fluid Mechanics;Annu. Rev. Fluid Mech.
 Antarctic Science;Antarct. Sci.
 Anticancer Research;Anticancer Res.
+APL Bioengineering;APL Bioeng.
+APL Materials;APL Mater.
+APL Photonics;APL Photonics
 Applied Geochemistry;Appl. Geochem.
 Applied Geography;Appl. Geogr.
 Applied Geophysics;Appl. Geophys.
@@ -324,8 +330,10 @@ JETP Letters;JETP Lett.
 Jahrbuch Oberflachentechnik;Jahrb. Oberflachentech.
 Japanese Journal of Applied Physics Part 1;Jpn. J. Appl. Phys., Part 1
 Japanese Journal of Applied Physics Part 2;Jpn. J. Appl. Phys., Part 2
+Japanese Journal of Applied Physics;Jpn. J. Appl. Phys.
 Japanese Journal of Phycology;Jpn. J. Phycol.
 Journal American Water Works Association;J. Am. Water Works Assn.
+Journal de Physique IV; J. Phys. IV
 Journal of AOAC International;J. AOAC Int.
 Journal of ASTM International;J. ASTM Int.
 Journal of Applied Geophysics;J. Appl. Geophys.
@@ -375,7 +383,7 @@ Journal of Marine Research;J. Mar. Res.
 Journal of Marine Science and Application;J. Mar. Sci. Appl.
 Journal of Marine Systems;J. Mar. Sys.
 Journal of Mathematical Fluid Mechanics;J. Math. Fluid Mech.
-Journal of Mathematics and Physics;J. Math. Phys.
+Journal of Mathematical Physics;J. Math. Phys.
 Journal of Metamorphic Geology;J. Metamorph. Geol.
 Journal of Mineralogical and Petrological Sciences;J. Mineral. Petrol. Sci.
 Journal of Mining Science;J. Min. Sci.
@@ -397,10 +405,17 @@ Journal of Phase Equilibrium and Diffusion;J. Phase Equilib. Diffus.
 Journal of Physics A: General Physics;J. Phys. A: Gen. Phys.
 Journal of Physics A: Mathematical and General;J. Phys. A: Math. Gen.
 Journal of Physics A: Mathematical and Theoretical;J. Phys. A: Math. Theor.
+Journal of Physics B: Atomic, Molecular and Optical Physics;. Phys. B: At. Mol. Opt. Phys.
 Journal of Physics C: Solid State Physics;J. Phys. C: Solid State Phys.
+Journal of Physics Communications;J. Phys. Commun.
 Journal of Physics D: Applied Physics;J. Phys. D: Appl. Phys.
-Journal of Physics: Condensed Matter;J. Phys. Condens. Matter
-Journal of Physics: Conference Series;J. Phys. Conf. Ser.
+Journal of Physics G: Nuclear and Particle Physics;J. Phys. G: Nucl. Part. Phys.
+Journal of Physics and Chemistry of Solids;J. Phys. Chem. Solids
+Journal of Physics: Condensed Matter;J. Phys.: Condens. Matter
+Journal of Physics: Conference Series;J. Phys.: Conf. Ser.
+Journal of Physics: Energy;J. Phys. Energy
+Journal of Physics: Materials;J. Phys. Mater.
+Journal of Physics: Photonics;J. Phys. Photonics
 Journal of Plasma Physics;J. Plasma Phys.
 Journal of Porphyrins and Phthalocyanines;J. Porphyrins Phthalocyanines
 Journal of Rheology;J. Rheol.
@@ -415,6 +430,7 @@ Journal of Statistical Computation and Simulation;J. Stat. Comput. Simul.
 Journal of Statistical Mechanics: Theory and Experiment;J. Stat. Mech: Theory Exp.
 Journal of Statistical Physics;J. Stat. Phys.
 Journal of Structural Geology;J. Struct. Geol.
+Journal of Synchrotron Radiation;J. Synchrotron Radiat.
 Journal of Systematic Palaeontology;J. Syst. Paleontol.
 Journal of Terramechanics;J. Terramech.
 Journal of Thermophysics and Heat Transfer;J. Thermophys Heat Transfer
@@ -449,6 +465,7 @@ Marine Observer;Mar. Obs.
 Marine Structures;Mar. struct.
 Marine and Freshwater Research;Mar. Freshwater Res.
 Marine and Petroleum Geology;Mar. Pet. Geol.
+Materials Research Society Symposium Proceedings;Mater. Res. Soc. Symp. Proc.
 Mathematical Geology;Math. Geol.
 Mathematical Geosciences;Math. Geosci.
 Mathematical Models and Methods in Applied Sciences;Math. Models Method Appl. Sci.
@@ -468,12 +485,19 @@ Mining Magazine;Min. Mag.
 Mining and Scientific Press;Min. Sci. Press
 Modern Physics Letters A;Mod. Phys. Lett. A
 Modern Physics Letters B;Mod. Phys. Lett. B
+MRS Bulletin;MRS Bull.
 NACTA Journal;NACTA J.
 NATO ASI Series, Series A Life Sciences;NATO ASI Ser., Ser. A
 NATO ASI Series, Series B Physics;NATO ASI Ser., Ser. B
 NATO ASI Series, Series C Mathematical and Physical Sciences;NATO ASI Ser., Ser. C
 NATO ASI Series, Series E Applied Physics;NATO ASI Ser., Ser. E
 NDT International;NDT Int.
+Nano Energy;Nano Energy
+Nano Express;Nano Express
+Nano Futures;Nano Futures
+Nano Letters;Nano Lett.
+Nano Research;Nano Res.
+Nanotechnology;Nanotechnology
 Nature Geoscience;Nat. Geosci.
 Nature Physics;Nat. Phys.
 Naval Research Logistics;Nav. Res. Logist.
@@ -513,14 +537,30 @@ Physica B: Condensed Matter;Physica B
 Physica D: Nonlinear Phenomena;Physica D
 Physica Scripta;Phys. Scr.
 Physica Scripta, T.;Phys. Scr. T.
-Physica Status Solidi B Basic Solid State Physics;Phys. Status Solidi B
-Physica Status Solidi C Current Topics in Solid State Physics;Phys. Status Solidi C
-Physica Status Solidi Rapid Research Letters;Phys. Status Solidi RRL
+Physica Status Solidi A: Applications and Materials Science;Phys. Status Solidi A
+physica status solidi (a);Phys. Status Solidi B
+Physica Status Solidi B: Basic Solid State Physics;Phys. Status Solidi B
+physica status solidi (b);Phys. Status Solidi C
+Physica Status Solidi C: Current Topics in Solid State Physics;Phys. Status Solidi C
+physica status solidi (c);Phys. Status Solidi C
+Physica Status Solidi RRL: Rapid Research Letters;Phys. Status Solidi RRL
+physica status solidi (RRL) – Rapid Research Letters;Phys. Status Solidi RRL
 Physical Mesomechanics;Phys. Mesomech.
+Physical Review A;Phys. Rev. A
+Physical Review Accelerators and Beams;Phys. Rev. Accel. Beams
+Physical Review B;Phys. Rev. B
 Physical Review B: Condensed Matter;Phys. Rev. B: Condens. Matter
+Physical Review C;Phys. Rev. C
+Physical Review D;Phys. Rev. D
+Physical Review E;Phys. Rev. E
 Physical Review E: Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics;Phys. Rev. E: Stat. Phys. Plasmas Fluids Relat. Interdisciplin. Top.
 Physical Review E: Statistical, Nonlinear, and Soft Matter Physics;Phys. Rev. E: Stat. Nonlinear Soft Matter Phys.
 Physical Review Letters;Phys. Rev. Lett.
+Physical Review Materials;Phys. Rev. Materials
+Physical Review Fluids;Phys. Rev. Fluids
+Physical Review Physics Education Research;Phys. Rev. Phys. Educ. Res.
+Physical Review Research;Phys. Rev. Research
+Physical Review X;Phys. Rev. X
 Physics Letters A;Phys. Lett. A
 Physics Letters B;Phys. Lett. B
 Physics Teacher;Phys. Teach.
@@ -570,6 +610,8 @@ Quaternary International;Quat. Int.
 Quaternary Research;Quat. Res.
 Quaternary Science Reviews;Quat. Sci. Rev.
 Regulatory Peptides;Regul. Pept.
+Remote Sensing of Environment;Remote Sens. Environ.
+Reports on Progress in Physics;Rep. Prog. Phys.
 Research in Astronomy and Astrophysics;Res. Astron. Astrophys.
 Research in Nondestructive Evaluation;Res. Nondestr. Eval.
 Resource Geology;Resour. Geol.
