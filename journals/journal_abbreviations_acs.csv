@@ -1,10 +1,12 @@
 ACS Applied Materials & Interfaces;ACS Appl. Mater. Interfaces
+ACS Applied Nano Materials;ACS Appl. Nano Mater.
 ACS Biomaterials Science & Engineering;ACS Biomater. Sci. Eng.
 ACS Catalysis;ACS Catal.
 ACS Central Science;ACS Cent. Sci.
 ACS Chemical Biology;ACS Chem. Biol.
 ACS Chemical Neuroscience;ACS Chem. Neurosci.
 ACS Combinatorial Science;ACS Comb. Sci.
+ACS Energy Letters;ACS Energy Lett.
 ACS Infectious Diseases;ACS Infect. Dis.
 ACS Macro Letters;ACS Macro Lett.
 ACS Medicinal Chemistry Letters;ACS Med. Chem. Lett.
@@ -38,7 +40,9 @@ Advanced Electronic Materials;Adv. Electron. Mater.
 Advanced Energy Materials;Adv. Energy Mater.
 Advanced Functional Materials;Adv. Funct. Mater.
 Advanced Healthcare Materials;Adv. Healthcare Mater.
+Advanced Materials;Adv. Mater.
 Advanced Materials (Weinheim, Germany);Adv. Mater. (Weinheim, Ger.)
+Advances Materials Technologies;Adv. Mat. Technol.
 Advanced Optical Materials;Adv. Opt. Mater.
 Advanced Synthesis & Catalysis;Adv. Synth. Catal.
 Advances in Applied Ceramics;Adv. Appl. Ceram.
@@ -1261,12 +1265,14 @@ Natural Product Sciences;Nat. Prod. Sci.
 Natural Products Journal;Nat. Prod. J.
 Nature (London, United Kingdom);Nature (London, U. K.)
 Nature Biotechnology;Nat. Biotechnol.
+Nature Catalysis;Nat. Catal.
 Nature Cell Biology;Nat. Cell Biol.
 Nature Chemical Biology;Nat. Chem. Biol.
 Nature Chemistry;Nat. Chem.
 Nature Communications;Nat. Commun.
 Nature Genetics;Nat. Genet.
 Nature Geoscience;Nat. Geosci.
+Nature Energy;Nat. Energy
 Nature Immunology;Nat. Immunol.
 Nature Materials;Nat. Mater.
 Nature Medicine (New York, NY, United States);Nat. Med. (N. Y., NY, U. S.)
@@ -1280,6 +1286,7 @@ Nature Reviews Cancer;Nat. Rev. Cancer
 Nature Reviews Drug Discovery;Nat. Rev. Drug Discovery
 Nature Reviews Genetics;Nat. Rev. Genet.
 Nature Reviews Immunology;Nat. Rev. Immunol.
+Nature Reviews Materials;Nat. Rev. Mater.
 Nature Reviews Microbiology;Nat. Rev. Microbiol.
 Nature Reviews Molecular Cell Biology;Nat. Rev. Mol. Cell Biol.
 Nature Reviews Neuroscience;Nat. Rev. Neurosci.
