@@ -1,4 +1,3 @@
-2D Materials;2D Mater.
 ACS Applied Materials & Interfaces;ACS Appl. Mater. Interfaces
 ACS Biomaterials Science & Engineering;ACS Biomater. Sci. Eng.
 ACS Catalysis;ACS Catal.
@@ -16,8 +15,6 @@ ACS Sustainable Chemistry & Engineering;ACS Sustainable Chem. Eng.
 ACS Symposium Series;ACS Symp. Ser.
 ACS Synthetic Biology;ACS Synth. Biol.
 AIChE Journal;AIChE J.
-AIP Advances;AIP Adv.
-APL Materials;APL Mater.
 ARKIVOC (Gainesville, FL, United States);ARKIVOC (Gainesville, FL, U. S.)
 Accounts of Chemical Research;Acc. Chem. Res.
 Acta Biochimica Polonica;Acta Biochim. Pol.
@@ -77,8 +74,6 @@ Annales Pharmaceutiques Francaises;Ann. Pharm. Fr.
 Annales de Chimie (Cachan, France);Ann. Chim. (Cachan, Fr.)
 Annals of Nuclear Energy;Ann. Nucl. Energy
 Annals of Nutrition & Metabolism;Ann. Nutr. Metab.
-Annalen der Physik;Ann. Phys. (Berl.)
-Annals of Physics;Ann. Phys. (NY)
 Annals of Plastic Surgery;Ann. Plast. Surg.
 Annual Review of Biochemistry;Annu. Rev. Biochem.
 Annual Review of Biomedical Engineering;Annu. Rev. Biomed. Eng.
@@ -112,9 +107,6 @@ Antimicrobial Agents and Chemotherapy;Antimicrob. Agents Chemother.
 Antioxidants;Antioxidants
 Antioxidants & Redox Signaling;Antioxid. Redox Signaling
 Antiviral Research;Antiviral Res.
-APL Bioengineering;APL Bioeng.
-APL Materials;APL Mater.
-APL Photonics;APL Photonics
 Applied Biochemistry and Biotechnology;Appl. Biochem. Biotechnol.
 Applied Biochemistry and Microbiology;Appl. Biochem. Microbiol.
 Applied Catalysis, A: General;Appl. Catal., A
@@ -812,7 +804,6 @@ JETP Letters;JETP Lett.
 Japanese Journal of Applied Physics;Jpn. J. Appl. Phys.
 Jinshu Xuebao;Jinshu Xuebao
 Jisuanji Yu Yingyong Huaxue;Jisuanji Yu Yingyong Huaxue
-Journal de Physique IV; J. Phys. IV
 Journal of AOAC International;J. AOAC Int.
 Journal of Adhesion;J. Adhes.
 Journal of Adhesion Science and Technology;J. Adhes. Sci. Technol.
@@ -962,7 +953,6 @@ Journal of Materials Science;J. Mater. Sci.
 Journal of Materials Science: Materials in Electronics;J. Mater. Sci.: Mater. Electron.
 Journal of Materials Science: Materials in Medicine;J. Mater. Sci.: Mater. Med.
 Journal of Mathematical Chemistry;J. Math. Chem.
-Journal of Mathematical Physics;J. Math. Phys.
 Journal of Medicinal Chemistry;J. Med. Chem.
 Journal of Membrane Biology;J. Membr. Biol.
 Journal of Membrane Science;J. Membr. Sci.
@@ -1023,17 +1013,10 @@ Journal of Physical Chemistry C;J. Phys. Chem. C
 Journal of Physical Chemistry Letters;J. Phys. Chem. Lett.
 Journal of Physical Organic Chemistry;J. Phys. Org. Chem.
 Journal of Physical and Chemical Reference Data;J. Phys. Chem. Ref. Data
-Journal of Physics A: Mathematical and Theoretical;J. Phys. A: Math. Theor.
-Journal of Physics B: Atomic, Molecular and Optical Physics;. Phys. B: At. Mol. Opt. Phys.
-Journal of Physics Communications;J. Phys. Commun.
 Journal of Physics D: Applied Physics;J. Phys. D: Appl. Phys.
 Journal of Physics G: Nuclear and Particle Physics;J. Phys. G: Nucl. Part. Phys.
 Journal of Physics and Chemistry of Solids;J. Phys. Chem. Solids
 Journal of Physics: Condensed Matter;J. Phys.: Condens. Matter
-Journal of Physics: Conference Series;J. Phys.: Conf. Ser.
-Journal of Physics: Energy;J. Phys. Energy
-Journal of Physics: Materials;J. Phys. Mater.
-Journal of Physics: Photonics;J. Phys. Photonics
 Journal of Physiology (Oxford, United Kingdom);J. Physiol. (Oxford, U. K.)
 Journal of Pineal Research;J. Pineal Res.
 Journal of Planar Chromatography--Modern TLC;J. Planar Chromatogr.--Mod. TLC
@@ -1073,7 +1056,6 @@ Journal of Supercritical Fluids;J. Supercrit. Fluids
 Journal of Surface Investigation: X-Ray, Synchrotron and Neutron Techniques;J. Surf. Invest.: X-Ray, Synchrotron Neutron Tech.
 Journal of Surfactants and Detergents;J. Surfactants Deterg.
 Journal of Sustainable Cement-Based Materials;J. Sustainable Cem.-Based Mater.
-Journal of Synchrotron Radiation;J. Synchrotron Radiat.
 Journal of Theoretical and Computational Chemistry;J. Theor. Comput. Chem.
 Journal of Thermal Analysis and Calorimetry;J. Therm. Anal. Calorim.
 Journal of Thermodynamics & Catalysis;J. Thermodyn. Catal.
@@ -1138,7 +1120,6 @@ Liquid Crystals;Liq. Cryst.
 Liquid Crystals Reviews;Liq. Cryst. Rev.
 Lithos;Lithos
 Lung Cancer Management;Lung Cancer Manage.
-MRS Bulletin;MRS Bull.
 MRS Communications;MRS Commun.
 MRS Online Proceedings Library;MRS Online Proc. Libr.
 Macromolecular Bioscience;Macromol. Biosci.
@@ -1174,7 +1155,6 @@ Materials Science & Engineering, B: Advanced Functional Solid-State Materials;Ma
 Materials Science & Engineering, C: Materials for Biological Applications;Mater. Sci. Eng., C
 Materials Science and Technology;Mater. Sci. Technol.
 Materials Science in Semiconductor Processing;Mater. Sci. Semicond. Process.
-Materials Research Society Symposium Proceedings;Mater. Res. Soc. Symp. Proc.
 Materials Transactions;Mater. Trans.
 Materials and Corrosion;Mater. Corros.
 Materials and Manufacturing Processes;Mater. Manuf. Processes
@@ -1275,7 +1255,6 @@ Nanomaterials;Nanomaterials
 Nanomedicine (London, United Kingdom);Nanomedicine (London, U. K.)
 Nanomedicine (New York, NY, United States);Nanomedicine (N. Y., NY, U. S.)
 Nanoscale;Nanoscale
-Nanotechnology;Nanotechnology
 Natural Product Reports;Nat. Prod. Rep.
 Natural Product Research;Nat. Prod. Res.
 Natural Product Sciences;Nat. Prod. Sci.
@@ -1402,22 +1381,21 @@ Physica C: Superconductivity and Its Applications (Amsterdam, Netherlands);Phys.
 Physica Scripta;Phys. Scr.
 Physica Scripta, T;Phys. Scr., T
 Physica Status Solidi A: Applications and Materials Science;Phys. Status Solidi A
+physica status solidi (a);Phys. Status Solidi B
 Physica Status Solidi B: Basic Solid State Physics;Phys. Status Solidi B
+physica status solidi (b);Phys. Status Solidi C
 Physica Status Solidi C: Current Topics in Solid State Physics;Phys. Status Solidi C
+physica status solidi (c);Phys. Status Solidi C
 Physica Status Solidi RRL: Rapid Research Letters;Phys. Status Solidi RRL
+physica status solidi (RRL) – Rapid Research Letters;Phys. Status Solidi RRL
 Physical Chemistry Chemical Physics;Phys. Chem. Chem. Phys.
 Physical Review A: Atomic, Molecular, and Optical Physics;Phys. Rev. A: At., Mol., Opt. Phys.
-Physical Review Accelerators and Beams;Phys. Rev. Accel. Beams
 Physical Review Applied;Phys. Rev. Appl.
 Physical Review B: Condensed Matter and Materials Physics;Phys. Rev. B: Condens. Matter Mater. Phys.
 Physical Review C: Nuclear Physics;Phys. Rev. C: Nucl. Phys.
 Physical Review D: Particles, Fields, Gravitation, and Cosmology;Phys. Rev. D: Part., Fields, Gravitation, Cosmol.
 Physical Review E: Statistical, Nonlinear, and Soft Matter Physics;Phys. Rev. E: Stat., Nonlinear, Soft Matter Phys.
 Physical Review Letters;Phys. Rev. Lett.
-Physical Review Materials;Phys. Rev. Materials
-Physical Review Fluids;Phys. Rev. Fluids
-Physical Review Physics Education Research;Phys. Rev. Phys. Educ. Res.
-Physical Review Research;Phys. Rev. Research
 Physical Review X;Phys. Rev. X
 Physics Letters A;Phys. Lett. A
 Physics Letters B;Phys. Lett. B
@@ -1541,13 +1519,10 @@ Recent Patents on Inflammation & Allergy Drug Discovery;Recent Pat. Inflammation
 Recent Patents on Nanotechnology;Recent Pat. Nanotechnol.
 Redox Biology;Redox Biol.
 Regenerative Medicine;Regener. Med.
-Remote Sensing of Environment;Remote Sens. Environ.
 Rengong Jingti Xuebao;Rengong Jingti Xuebao
-Reports on Progress in Physics;Rep. Prog. Phys.
 Reproduction (Bristol, United Kingdom);Reproduction (Bristol, U. K.)
 Reproductive Toxicology;Reprod. Toxicol.
 Research on Chemical Intermediates;Res. Chem. Intermed.
-Reviews of Modern Physics;Rev. Mod. Phys.
 Review of Scientific Instruments;Rev. Sci. Instrum.
 Reviews in Analytical Chemistry;Rev. Anal. Chem.
 Reviews in Inorganic Chemistry;Rev. Inorg. Chem.
