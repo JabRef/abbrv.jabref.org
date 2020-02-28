@@ -15,6 +15,7 @@ Acta Geophysica;Acta Geophys.
 Acta Geotechnica;Acta Geotech.
 Acta Seismologica Sinica;Acta Seismol. Sin.
 Advances in Fluid Mechanics;Adv. Fluid Mech.
+Advanced Materials;Adv. Mater.
 Advanced Materials Interfaces;Adv. Mater. Interfaces
 Advanced Materials Technologies;Adv. Mater. Technol.
 Advances in Optics and Photonics;Adv. Opt. Photonics
@@ -42,6 +43,7 @@ Annual Review of Astronomy and Astrophysics;Annu. Rev. Astron. Astrophys.
 Annual Review of Condensed Matter Physics;Annu. Rev. Condens. Matter Phys.
 Annual Review of Earth and Planetary Sciences;Annu. Rev. Earth Planet. Sci.
 Annual Review of Fluid Mechanics;Annu. Rev. Fluid Mech.
+Annual Review of Material Science;Ann. Rev. Mater. Sci.
 Antarctic Science;Antarct. Sci.
 Anticancer Research;Anticancer Res.
 Applied Geochemistry;Appl. Geochem.
@@ -52,6 +54,7 @@ Applied Mathematics and Computation;Appl. Math. Comput.
 Applied Mathematics Letters;Appl. Math. Lett.
 Applied Mathematical Modelling;Appl. Math. Modell.
 Applied Mechanics Reviews;Appl. Mech. Rev.
+Applied Optics;Appl. Opt.
 Applied Physics A;Appl. Phys. A
 Applied Physics B;Appl. Phys. B
 Applied Physics Express;Appl. Phys. Express
@@ -88,6 +91,7 @@ Basin Research;Basin Res.
 Bayer CropScience Journal;Bayer CropSci J.
 Beilstein Journal of Nanotechnology;Beilstein J. Nanotechnol.
 Bell Laboratories Record;Bell Lab. Rec.
+Biometrika;Biometrika
 Boundary-Layer Meteorology;Boundary Layer Meteorol.
 British Journal of Applied Physics;Br. J. Appl. Phys.
 Bulletin of Alloy Phase Diagrams;Bull. Alloy Phase Diagr.
@@ -154,6 +158,7 @@ Earth Science Informatics;Earth Sci. Inf.
 Earth Sciences Research Journal;Earth Sci. Res. J.
 Earth-Science Reviews;Earth Sci. Rev.
 Electron Backscatter Diffraction in Materials Science;Electron Backscatter Diffr. Mater. Sci.
+Energy Policy;Energy Policy
 European Journal of Applied Mathematics;Eur. J. Appl. Math.
 European Journal of Mechanics - A/Solids;Eur. J. Mech. A. Solids
 European Journal of Mechanics - B/Fluids;Eur. J. Mech. B. Fluids
@@ -429,6 +434,7 @@ Journal of Hydro-environment Research;J. Hydro-environ. Res.
 Journal of Hydrodynamics, Series B;J. Hydrodyn. Ser. B
 Journal of Hydrology;J. Hydrol.
 Journal of the Institute of Petroleum;J. Inst. Pet.
+Journal of the Korean Physical Society;J. Korean Phys. Soc.
 Journal of Lightwave Technology;J. Light. Technol.
 Journal of Luminescence;J. Lumin.
 Journal of the Magnetics Society of Japan;J. Magn. Soc. Jpn.
@@ -516,6 +522,7 @@ Journal of VLSI Signal Processing;J. VLSI Sig. Proc.
 Journal of Vacuum Science & Technology B;J. Vac. Sci. Tech. B
 Journal of Vacuum Science & Technology A;J. Vac. Sci. Technol. A
 Journal of Vacuum Science & Technology B;J. Vac. Sci. Technol. B
+Journal of Vacuum Science and Technology B: Microelectronics and Nanometer Structures;J. Vac. Sci. Technol., B
 Journal of Volcanology and Geothermal Research;J. Volcanol. Geotherm. Res.
 Journal of Volcanology and Seismology;J. Volcanol. Seismolog.
 JETP Letters;JETP Lett.
@@ -682,17 +689,21 @@ Physical Review X;Phys. Rev. X
 Physica Scripta;Phys. Scr.
 Physica Scripta, T.;Phys. Scr. T.
 Physics of the Solid State;Phys. Solid State
-physica status solidi (RRL) – Rapid Research Letters;Phys. Status Solidi - Rapid Res. Lett.
-physica status solidi (a);Phys. Status Solidi A
 Physica Status Solidi A: Applications and Materials Science;Phys. Status Solidi Appl. Mater. Sci.
-physica status solidi (b);Phys. Status Solidi B
+Physica Status Solidi A - Applied Research;Phys. Status Solidi A
+physica status solidi (a);Phys. Status Solidi A
 Physica Status Solidi B: Basic Solid State Physics;Phys. Status Solidi B Basic Res.
-physica status solidi (c);Phys. Status Solidi C
+Physica Status Solidi B - Basic Solid State Physics;Phys. Status Solidi B
+physica status solidi (b);Phys. Status Solidi B
 physica status solidi (c);Phys. Status Solidi C Conf.
 Physica Status Solidi C: Current Topics in Solid State Physics;Phys. Status Solidi C Curr. Top. Solid State Phys.
-physica status solidi (RRL) – Rapid Research Letters;Phys. Status Solidi RRL
+Physica Status Solidi C - Current Topics in Solid State Physics;Phys. Status Solidi C Curr. Top. Solid State Phys.
+physica status solidi (c);Phys. Status Solidi C
+physica status solidi (RRL);phys. status solidi RRL
+physica status solidi (RRL) – Rapid Research Letters;phys. status solidi RRL - Rapid Res. Lett.
 physica status solidi (RRL) – Rapid Research Letters;Phys. Status Solidi RRL - Rapid Res. Lett.
 physica status solidi (RRL) – Rapid Research Letters;Phys. Status Solidi Rapid Res. Lett.
+physica status solidi (RRL) - Rapid Research Letters;Phys. Status Solidi RRL
 Physics Teacher;Phys. Teach.
 Physics Today;Phys. Today
 Physics World;Phys. World
@@ -701,6 +712,7 @@ Physics-Uspekhi;Phys.-Uspekhi
 Physica A: Statistical Mechanics and its Applications;Physica A
 Physica B: Condensed Matter;Physica B
 Physica D: Nonlinear Phenomena;Physica D
+Physica E-low-dimensional Systems & Nanostructures;Physica E
 Pramana;Pramana
 Pramana – Journal of Physics;Pramana - J. Phys.
 Proceedings in Applied Mathematics and Mechanics;Proc. Appl. Math. Mech.
@@ -732,6 +744,7 @@ Progress in Crystal Growth and Characterization;Prog. Cryst. Growth Charact.
 Progress in Histochemistry and Cytochemistry;Prog. Histochem. Cytochem.
 Progress in Lipid Research;Prog. Lipid Res.
 Progress in Natural Science: Materials International;Prog. Nat. Sci. Mater. Int.
+Progress in Photovoltaics: Research and Applications;Prog. Photovoltaics Res. Appl.
 Progress in Reaction Kinetics;Prog. React. Kinet.
 Progress of Theoretical Physics Supplements;Prog. Theor. Phys. Suppl.
 Propellants, Explosives, Pyrotechnics;Propellants Explos. Pyrotech.
@@ -753,6 +766,7 @@ Radiation Effects and Defects in Solids;Radiat. Eff. Defects Solids
 Regulatory Peptides;Regul. Pept.
 Remote Sensing of Environment;Remote Sens. Environ.
 Renewable & Sustainable Energy Reviews;Renew. Sustain. Energy Rev.
+Renewable and Sustainable Energy Reviews;Renewable Sustainable Energy Rev.
 Reports on Progress in Physics;Rep. Prog. Phys.
 Research in Astronomy and Astrophysics;Res. Astron. Astrophys.
 Research in Nondestructive Evaluation;Res. Nondestr. Eval.
@@ -786,9 +800,11 @@ Semiconductor Science and Technology;Semicond Sci. Technol.
 Semiconductor Today;Semicond. Today
 Sensors and Actuators B: Chemical;Sens. Actuators B Chem.
 Signal Processing;Signal Process.
+Solar Energy Materials and Solar Cells;Sol. Energ. Mat. Sol.
 Solar Energy Materials amd Solar Cells;Sol. Energy Mater. Sol. Cells.
 Solar Physics;Sol. Phys.
 Solar System Research;Sol. Syst. Res.
+Solar Cells;Solar Cells
 Solid State Ionics;Solid State Ionics
 Solid State Sciences;Solid State Sci.
 Solid-state Electronics;Solid-state Electron.
@@ -820,6 +836,7 @@ Water Resources Research;Water Resour. Res.
 Wiley Interdisciplinary Reviews: Computational Statistics;Wiley Interdiscip. Rev. Comput. Stat.
 Zeitschrift für Kristallographie;Z. Für Krist.
 Zeitschrift für Physik;Z. Für Phys.
+Zeitschrift fuer Physik A Hadrons and Nuclei;Z. Phys. A: Hadrons Nucl.
 Journal of Experimental and Theoretical Physics;Zh. Eksp. Teor. Fiz
 arXiv.org, e-Print Archive Astrophysics;arXiv.org, e-Print Arch. Astrophys.
 arXiv.org, e-Print Archive Condensed Matter;arXiv.org, e-Print Arch. Condens. Matter
