@@ -40,6 +40,7 @@ Advances in Magnetic Resonance;Adv. Magn. Reson.
 Advanced Materials;Adv. Mater.
 Advanced Materials Interfaces;Adv. Mater. Interfaces
 Advanced Materials Technologies;Adv. Mater. Technol.
+Advanced Quantum Technologies;Adv. Quantum Technol.
 Advances in Nuclear Physics;Adv. Nucl. Phys.
 Advances in Optics and Photonics;Adv. Opt. Photonics
 Advances in Physics;Adv. Phys.
@@ -361,7 +362,9 @@ IEEE Transactions on Microwave Theory and Techniques;IEEE Trans. Microw. Theory 
 IEEE Transactions on Microwave Theory and Techniques;IEEE Trans. Microwave Theory Tech.
 IEEE Transactions on Nuclear Science;IEEE Trans. Nucl. Sci.
 IEEE Transactions on Sonics and Ultrasonics;IEEE Trans. Sonics Ultrason.
+IEEE Transactions on Terahertz Science and Technology;IEEE Trans. Terahertz Sci. Technol.
 IEEE Proceedings I - Solid-State and Electron Devices;IEER Proc. Solid State Electron Devices
+IEEJ Transactions on Sensors and Micromachines;IEEJ Trans. Sens. Micromachines
 IEICE Electronics Express;IEICE Electron. Express
 IET Image Processing;IET Image Proc.
 Icarus;Icarus
@@ -911,11 +914,15 @@ Photonics Research;Photon. Res.
 Physics of Atomic Nuclei;Phys. At. Nucl.
 Physica B;Phys. B
 Physica B: Condensed Matter;Phys. B Condens. Matter
+Physica C;Phys. C
+Physica C: Superconductivity and its Applications;Phys. C Supercond. Its Appl.
+Physica D;Phys. D
+Physica D: Nonlinear Phenomena;Phys. D: Nonlinear Phenom.
+Physica E;Phys. E
+Physica E: Low-dimensional Systems and Nanostructures;Phys. E Low-Dimens. Syst. Nanostructures
 Physical Chemistry Chemical Physics;Phys. Chem. Chem. Phys.
 Physical Chemistry Chemical Physics;Phys. Chem. Chem. Phys. PCCP
 Physics and Chemistry of Solids;Phys. Chem. Solids
-Physica E;Phys. E
-Physica E: Low-dimensional Systems and Nanostructures;Phys. E Low-Dimens. Syst. Nanostructures
 Physics of the Earth and Planetary Interiors;Phys. Earth Planet. In.
 Physics of Fluids;Phys. Fluids
 Physics of Fluids A;Phys. Fluids A
@@ -1188,6 +1195,8 @@ Zeitschrift für Physik;Z. Phys.
 Zeitschrift für Physik A: Atoms and Nuclei;Z. Phys. A
 Zeitschrift fuer Physik A Hadrons and Nuclei;Z. Phys. A: Hadrons Nucl.
 Zeitschrift für Physik B: Condensed Matter and Quanta;Z. Phys. B
+Zeitschrift für Physik B Condensed Matter and Quanta;Z. Für Phys. B Condens. Matter Quanta
+Zeitschrift für Physik B Condensed Matter;Z. Für Phys. B Condens. Matter
 Zeitschrift für Physik C: Particles and Fields;Z. Phys. C
 Zeitschrift für Physikalische Chemie (Frankfurt am Main);Z. Phys. Chem. (Frankurt am Main)
 Zeitschrift für Physikalische Chemie (Leipzig);Z. Phys. Chem. (Leipzig)
