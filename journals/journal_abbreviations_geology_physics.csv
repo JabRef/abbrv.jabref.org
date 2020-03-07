@@ -17,6 +17,7 @@ APL Bioengineering;APL Bioeng.
 APL Materials;APL Mater.
 APL Photonics;APL Photonics
 ASME Journal of Applied Mechanics;J. Appl. Mech. Trans. ASME
+AVS Quantum Science;AVS Quantum Sci.
 Accounts of Chemical Research;Acc. Chem. Res.
 Acta Chemica Scandinavica;Acta Chem. Scand.
 Acta Crystallographica, Section A: Crystal Physics, Diffraction,Theoretical and General Crystallography;Acta Crystallogr. Sec. A
@@ -152,6 +153,7 @@ Bell Laboratories Record;Bell Lab. Rec.
 Bell System Technical Journal;Bell Syst. Tech. J.
 Berichte der Bunsengesellschaft für Physikalische Chemie;Ber. Bunsenges. Phys. Chem.
 Biometrika;Biometrika
+Biomicrofluidics;Biomicrofluidics
 Boundary-Layer Meteorology;Boundary Layer Meteorol.
 British Journal of Applied Physics;Br. J. Appl. Phys.
 Bulletin of Alloy Phase Diagrams;Bull. Alloy Phase Diagr.
@@ -221,7 +223,10 @@ Computational Mathematics and Mathematical Physics;Comput. Math. Math. Phys.
 Computational Mechanics;Comput. Mech.
 Computational Science & Discovery;Comput. Sci. Discovery
 Computational Statistics and Data Analysis;Comput. Stat. Data Anal.
+Computers in Physics;Comput. Phys.
+Computer Physics Communications;Comput. Phys. Commun.
 Computing Letters;Comput. Lett.
+Computing in Science & Engineering;Comput. Sci. Eng.
 Condensed Matter Physics;Condens. Matter Phys.
 Condensed Matter Theories;Condens. Matter Theor.
 Contemporary Physics;Contemp. Phys.
@@ -671,6 +676,7 @@ Journal of Polymer Science;J. Polym. Sci.
 Journal of Porphyrins and Phthalocyanines;J. Porphyrins Phthalocyanines
 Journal of Quantitative Spectroscopy & Radiative Transfer;J. Quant. Spectrosc. Radiat. Transf.
 Journal of Quantitative Spectroscopy & Radiative Transfer;J. Quant. Spectrosc. Radiat. Transfer
+Journal of Renewable & Sustainable Energy;J. Renew. Sustain. Energy
 Journal of Research of the National Bureau of Standards, Section A: Physics and Chemistry;J. Res. Natl. Bur. Stand. Sec. A
 Journal of Research of the National Bureau of Standards, Section B: Mathematical Sciences;J. Res. Natl. Bur. Stand. Sec. B
 Journal of Research of the National Bureau of Standards, Section C: Engineering and Instrumentation;J. Res. Natl. Bur. Stand. Sec. C
@@ -750,6 +756,7 @@ Lick Observatory Bulletin;Lick Obs. Bull.
 Light: Science & Applications;Light Sci. Appl.
 Lithology and Mineral Resources;Lithol. Min. Resour.
 Los Alamos National Laboratory, Preprint Archive, Physics;Los Alamos Nat. Lab. Prepr. Arch. Phys.
+Low Temperature Physics;Low Temp. Phys.
 MRS Advances;MRS Adv.
 MRS Bulletin;MRS Bull.
 MRS Internet Journal of Nitride Semiconductor Research;MRS Internet J. Nitride Semicond. Res.
@@ -782,6 +789,7 @@ Mathematical Physics and Applied Mathematics;Math. Phys. Appl. Math.
 Mathematical Proceedings of the Cambridge Philosophical Society;Math. Proc. Cambridge Philos. Soc.
 Mathematics of Computation;Math. Comput.
 Mathematicsl Methods in the Applied Sciences;Math. Methods Appl. Sci.
+Matter and Radiation at Extremes;Matter Radiat. at Extremes
 Mathematische Zeitschrift;Math. Z.
 Mechanical Systems and Signal Processing;Mech. Syst. Sig. Process.
 Mechanics of Solids;Mech. Solids
@@ -1076,6 +1084,7 @@ Reviews in Mineralogy and Geochemistry;Rev. Mineral. Geochem.
 Reviews of Geophysics and Space Physics;Rev. Geophys. Space Phys.
 Reviews of Geophysics;Rev. Geophys.
 Reviews of Modern Physics;Rev. Mod. Phys.
+Review of Scientific Instruments;Rev. Sci. Instrum.
 Revista Mexicana de Astronomica y Astrofisica;Rev. Mex. Astron. Astrofis.
 Revista Mexicana de Fisica;Rev. Mex. Fis.
 Revue dOptique, Théorique et Instrumentale;Rev. Opt. Theor. Instrum.
@@ -1096,6 +1105,7 @@ Science in China, Series G: Physics Mechanics and Astronomy;Sci. China, Ser. G
 Science;Science
 Scientific American;Sci. Am.
 Scientific Modeling and Simulation;Sci. Model. Simul.
+Scilight;Scilight
 Scripta Materialia;Scr. Mater.
 Sedimentary Geology;Sediment. Geol.
 Seismological Research Letters;Seismol. Res. Lett.
@@ -1145,6 +1155,7 @@ Spectrochimica Acta;Spectrochim. Acta
 Springer Series in Opical Sciences;Springer Ser. Opt. Sci.
 Springer Series in Solid-State Sciences;Springer Ser. Solid-State Sci.
 Stratigraphy and Geological Correlation;Stratigr. Geol. Correl.
+Structural Dynamics;Struct. Dyn.
 Structural Safety;Struct. Saf.
 Structure and Bonding;Struct. Bond.
 Studies in Conservation;Stud. Conserv.
@@ -1156,6 +1167,7 @@ Teplofizika Vysokikh Temperatur [High Temperature (USSR)];Teplofiz. Vys. Temp. [
 The European Physical Journal H;Eur. Phys. J. H
 The European Physical Journal Plus;Eur. Phys. J. Plus
 The European Physical Journal Special Topics;Eur. Phys. J. Special Topics
+The Journal of Chemical Physics;J. Chem. Phys.
 The London, Edinburgh and Dublin philosophical magazine and journal of science;Lond. Edinb. Dublin Philos. Mag. J. Sci.
 Theoretica Chimica Acta;Theor. Chim. Acta
 Thin Solid Films;Thin Solid Films
