@@ -29,9 +29,8 @@ Acta Geotechnica;Acta Geotech.
 Acta Mathematica Academiae Scientiarum Hungaricae;Acta Math. Acad. Sci. Hung.
 Acta Metallurgica;Acta Metall.
 Acta Physica Austriaca;Acta Phys. Austriaca
-Acta Physica Polonica A;Acta Phys. Pol. B
+Acta Physica Polonica A;Acta Phys. Pol. A
 Acta Physica Polonica B;Acta Phys. Pol. B
-Acta Physica Polonica-Series A General Physics;Acta Phys. Pol.-Ser. Gen. Phys.
 Acta Physica Polonica;Acta Phys. Pol.
 Acta Physica;Acta Phys.
 Acta Seismologica Sinica;Acta Seismol. Sin.
@@ -51,6 +50,7 @@ Advances in Atomic and Molecular Physics;Adv. At. Mol. Phys.
 Advances in Chemical Physics;Adv. Chem. Phys.
 Advances in Fluid Mechanics;Adv. Fluid Mech.
 Advances in Magnetic Resonance;Adv. Magn. Reson.
+Advances in Natural Sciences: Nanoscience and Nanotechnology;Adv. Nat. Sci: Nanosci. Nanotechnol.
 Advances in Nuclear Physics;Adv. Nucl. Phys.
 Advances in Optics and Photonics;Adv. Opt. Photonics
 Advances in Physics;Adv. Phys.
@@ -104,7 +104,6 @@ Applied Mathematics and Computation;Appl. Math. Comput.
 Applied Mechanics Reviews;Appl. Mech. Rev.
 Applied Optics;Appl. Opt.
 Applied Physics A: Materials Science & Processing;Appl. Phys. Mater. Sci. Process.
-Applied Physics A: Materials Science & Processing;Appl. Phys. Solids Surf.
 Applied Physics A;Appl. Phys. A
 Applied Physics B;Appl. Phys. B
 Applied Physics Express;Appl. Phys. Express
@@ -119,7 +118,6 @@ Archives of Mining Sciences;Arch. Min. Sci.
 Arkiv foer Fysik;Ark. Fys.
 Asian Journal of Experimental Sciences;Asian J. Exp. Sci.
 Asian Journal of Physics;Asian J. Phys.
-Astronomical Journal;Astron. J.
 Astronomicheskii Zhurnal [Soviet Astronomy];Astron. Zh. [Sov. Astron.]
 Astronomische Nachrichten;Astron. Nachr.
 Astronomy & Geophysics;Astron. Geophys.
@@ -128,11 +126,7 @@ Astronomy and Astrophysics Review;Astron. Astrophys. Rev.
 Astronomy and Astrophysics;Astron. Astrophys.
 Astroparticle Physics;Astropart. Phys.
 Astrophysical Bulletin;Astrophys. Bull.
-Astrophysical Journal, Letters to the Editor;Astrophys. J. Lett.
-Astrophysical Journal, Supplement Series;Astrophys. J. Suppl. Ser.
-Astrophysical Journal;Astrophys. J.
 Astrophysical Letters;Astrophys. Lett.
-Astrophysics and Space Science;Astrophy. Space Sci.
 Astrophysics and Space Science;Astrophys. Space Sci.
 Atomic Data and Nuclear Data Tables;At. Data. Nucl. Data Tables
 Atomization and Sprays;Atomization Sprays
@@ -148,10 +142,13 @@ Basin Research;Basin Res.
 Bayer CropScience Journal;Bayer CropSci J.
 Beilstein Journal of Nanotechnology;Beilstein J. Nanotechnol.
 Beiträge Zur Physik der Atmosphäre;Beitr. Zur Phys. Atmos.
-Beiträge Zur Physik der Atmosphäre;Beitr. Zur Phys. Atmosphäre
 Bell Laboratories Record;Bell Lab. Rec.
 Bell System Technical Journal;Bell Syst. Tech. J.
 Berichte der Bunsengesellschaft für Physikalische Chemie;Ber. Bunsenges. Phys. Chem.
+Biofabrication;Biofabrication
+Bioinspiration & Biomimetics;Bioinspir. Biomim.
+Biomedical Materials;Biomed. Mater.
+Biomedical Physics & Engineering Express;Biomed. Phys. Eng. Express
 Biometrika;Biometrika
 Biomicrofluidics;Biomicrofluidics
 Boundary-Layer Meteorology;Boundary Layer Meteorol.
@@ -206,44 +203,48 @@ Comments on Nuclear and Particle Physics;Comments Nucl. Part. Phys.
 Comments on Plasma Physics and Controlled Fusion;Comments Plasma Phys. Controlled Fusion
 Comments on Solid State Physics;Comments Solid State Phys.
 Communications in Mathematical Physics;Commun. Math. Phys.
+Communications in Theoretical Physics;Commun. Theor. Phys.
 Communications on Pure and Applied Mathematics;Commun. Pure Appl. Math.
 Complex Systems;Complex Syst.
 Composite Interfaces;Compos. Interfaces
 Composite Structures;Compos. Struct.
-Comptes Rendus Hebdomadaires des Séances de l’Académie des Sciences, Serie A: Sciences Mathématiques;C. R. Acad. Sci. Ser. A
-Comptes Rendus Hebdomadaires des Séances de l'Académie des Sciences, Serie B: Sciences Physiques;C. R. Acad. Sci. Ser. B
-Comptes Rendus Hebdomadaires des Séances de l’Académie des Sciences;C. R. Acad. Sci.
-Comptes Rendus Physique;Comptes Rendus Phys.
-Comptes Rendus Physique;C. R. Physique
+Comptes Rendus Hebdomadaires des Séances de l’Académie des Sciences;C. R. Hebd. Séances Acad. Sci.
+Comptes Rendus Chimie;C. R. Chim.
+Comptes Rendus Geoscience;C. R. Geosci.
 Comptes Rendus Physique;C. R. Phys.
-Comptes Rendus de l'Académie des Sciences - Series I - Mathematics;Comptes Rendus Académie Sci. - Ser. - Math.
-Comptes Rendus de l'Académie des Sciences - Series I - Mathematics;C. R. Acad. Sci. Paris, Ser. I
+Comptes Rendus de l'Académie des Sciences;C. R. Acad. Sci.
+Comptes Rendus de l’Académie des Sciences, Serie A: Sciences Mathématiques;C. R. Acad. Sci. Ser. A
+Comptes Rendus de l'Académie des Sciences, Serie B: Sciences Physiques;C. R. Acad. Sci. Ser. B
+Comptes Rendus de l'Académie des Sciences - Series I - Mathematics;Comptes Rendus Académie Sci. - Ser. I
+Comptes Rendus de l'Académie des Sciences - Series IV - Physique et Astrophysique;Comptes Rendus Académie Sci. - Ser. IV
 Computational Intelligence;Comput. Intell.
 Computational Mathematics and Mathematical Physics;Comput. Math. Math. Phys.
 Computational Mechanics;Comput. Mech.
 Computational Science & Discovery;Comput. Sci. Discovery
 Computational Statistics and Data Analysis;Comput. Stat. Data Anal.
-Computers in Physics;Comput. Phys.
 Computer Physics Communications;Comput. Phys. Commun.
+Computers in Physics;Comput. Phys.
 Computing Letters;Comput. Lett.
 Computing in Science & Engineering;Comput. Sci. Eng.
 Condensed Matter Physics;Condens. Matter Phys.
 Condensed Matter Theories;Condens. Matter Theor.
 Contemporary Physics;Contemp. Phys.
 Continental Shelf Research;Cont. Shelf Res.
+Convergent Science Physical Oncology;Converg. Sci. Phys. Oncol.
 Cosmic Research;Cosmic Res.
 Cryogenics;Cryogenics
 Current Applied Physics;Curr. Appl Phys.
-Czechoslovak Journal of Physics;Czechoslov. J. Phys.
 Czechoslovak Journal of Physics;Czech. J. Phys.
 Dalton Transactions;Dalton Trans.
 Diamond and Related Materials;Diam. Relat. Mater.
 Digital Signal Processing;Digital Signal Process.
 Discussions of the Faraday Society;Discuss. Faraday Soc.
 Doklady Akademii Nauk SSSR [Soviet Physics–Doklady];Dokl. Akad. Nauk SSSR [Sov. Phys. Dokl.]
-e-Journal of Surface Science and Nanotechnology;E-J. Surf. Sci. Nanotechnol.
 ECS Electrochemistry Letters;ECS Electrochem. Lett.
+ECS Journal of Solid State Science and Technology;ECS J. Solid State Sci. Technol.
+ECS Transactions;ECS Trans.
 EPL (Europhysics Letters);EPL
+e-Journal of Surface Science and Nanotechnology;E-J. Surf. Sci. Nanotechnol.
 Earth Planets Space [formerly Journal of Geomagnetism and Geoelectricity];Earth Planets Space
 Earth Science Frontiers;Earth Sci. Front.
 Earth Science Informatics;Earth Sci. Inf.
@@ -251,8 +252,12 @@ Earth Sciences Research Journal;Earth Sci. Res. J.
 Earth and Planetary Science Letters;Earth Planet. Sci. Lett.
 Earth-Science Reviews;Earth Sci. Rev.
 Electron Backscatter Diffraction in Materials Science;Electron Backscatter Diffr. Mater. Sci.
+Electronic Structure;Electron. Struct.
 Electronics Letters;Electron. Lett.
 Energy Policy;Energy Policy
+Engineering Research Express;Eng. Res. Express
+Environmental Research Communications;Environ. Res. Commun.
+Environmental Research Letters;Environ. Res. Lett.
 European Journal of Applied Mathematics;Eur. J. Appl. Math.
 European Journal of Mechanics - A/Solids;Eur. J. Mech. A. Solids
 European Journal of Mechanics - B/Fluids;Eur. J. Mech. B. Fluids
@@ -260,12 +265,22 @@ European Journal of Mineralogy;Eur. J. Mineral.
 European Journal of Phycology;Eur. J. Phycol.
 European Journal of Physics;Eur. J. Phys.
 European Physical Journal A: Hadrons and Nuclei;Eur. Phys. J. A
-European Physical Journal Applied Physics;Eur. Phys. J. Appl. Phys.
-European Physical Journal B: Condensed Matter and Complex Systems;Eur. Phys. J. B-Condens. Matter Complex Syst.
-European Physics Journal B: Condensed Matter;Eur. Phys. J. B
-European Physics Journal C: Particles and Fields;Eur. Phys. J. C
-European Physics Journal D: Atomic, Molecular, and Optical Physics;Eur. Phys. J. D
-European Physics Journal E: Soft Matter;Eur. Phys. J. E
+European Physical Journal AM: Applied Metamaterials;Eur. Phys. J. AM
+European Physical Journal AP: Applied Physics;Eur. Phys. J. AP
+European Physical Journal B: Condensed Matter and Complex Systems;Eur. Phys. J. B
+European Physical Journal C: Particles and Fields;Eur. Phys. J. C
+European Physical Journal D: Atomic, Molecular, Optical and Plasma Physics;Eur. Phys. J. D
+European Physical Journal DS: Data Science;Eur. Phys. J. DS
+European Physical Journal E: Soft Matter and Biological Physics;Eur. Phys. J. E
+European Physical Journal H: Historical Perspectives on Contemporary Physics;Eur. Phys. J. H
+European Physical Journal N: Nuclear Sciences and Technologies;Eur. Phys. J. N
+European Physical Journal NBP: Nonlinear Biomedical Physics;Eur. Phys. J. NBP
+European Physical Journal Plus;Eur. Phys. J. Plus
+European Physical Journal PV: Photovoltaics;Eur. Phys. J. PV
+European Physical Journal QT: Quantum Technology;Eur. Phys. J. QT
+European Physical Journal ST: Special Topics;Eur. Phys. J. ST
+European Physical Journal TI: Techniques and Instrumentation;Eur. Phys. J. TI
+European Physical Journal WOC: Web of Conferences;Eur. Phys. J. WOC
 Europhysics Letters;Europhys. Lett.
 Experimental Astronomy;Exp. Astron.
 Experimental Heat Transfer;Exp. Heat Transfer
@@ -288,15 +303,17 @@ Fizika Nizkikh Temperatur [Soviet Journal of Low Temperature Physics];Fiz. Nizk.
 Fizika Plazmy [Soviet Journal of Plasma Physics];Fiz. Plazmy [Sov. J. Plasma Phys.]
 Fizika Tverdogo Tela (Leningrad) [Soviet Physics–Solid State];Fiz. Tverd. Tela (Leningrad) [Sov. Phys. Solid State]
 Fizika i Tekhnika Poluprovodnikov [Soviet Physics–Semiconductors];Fiz. Tekh. Poluprovodn. [Sov. Phys. Semicond.]
+Flexible and Printed Electronics;Flex. Print. Electron.
+Fluid Dynamics Research;Fluid Dyn. Res.
 Fortschritte der Physik;Fortschr. Phys.
 Foundations of Physics;Found. Phys.
 Frontier Science Series;Front. Sci. Ser.
 Frontiers of Earth Science in China;Front Earth Sci. Chin.
+Functional Composites and Structures;Funct. Compos. Struct.
 Fuzzy Sets and Systems;Fuzzy Sets Syst.
 Gas Separation and Purification;Gas Sep. Purif.
 Gaswaerme International;Gaswaerme Int.
 General Relativity and Gravitation;Gen. Relativ. Gravit.
-General Relativity and Gravitation;Gen. Relativ. Gravitation
 Geo-Marine Letters;Geo-Mar. Lett.
 Geochemical Journal;Geochem. J.
 Geochemical Transactions;Geochem. Trans.
@@ -341,7 +358,6 @@ Heat Recovery Systems and CHP;Heat Recovery Syst. CHP
 Heat Transfer - Asian Research;Heat Transfer Asian Res.
 Heat and Mass Transfer;Heat Mass Transfer
 Helvetica Chimica Acta;Helv. Chim. Acta
-Helvetica Physica Acta;Helvetica Phys. Acta
 Helvetica Physica Acta;Helv. Phys. Acta
 High Temperature (USSR) [translation of Teplofizika Vysokikh Temperatur];High Temp. (USSR)
 Himalayan Geology;Himalayan Geol.
@@ -355,7 +371,6 @@ IBM Technical Disclosure Bulletin;IBM Tech. Discl. Bull.
 IEEE Electron Device Letters;IEEE Electron Device Lett.
 IEEE Geoscience and Remote Sensing Letters;IEEE Geosci. Remote Sens. Lett.
 IEEE Journal of Quantum Electronics;IEEE J. Quantum Electron.
-IEEE Journal of Selected Topics in Quantum Electronics;IEEE J. of Sel. Top. Quantum Electron.
 IEEE Journal of Selected Topics in Quantum Electronics;IEEE J. Sel. Top. Quantum Electron.
 IEEE Proceedings I - Solid-State and Electron Devices;IEEE Proc. Solid State Electron Devices
 IEEE Transactions on Electron Devices;IEEE Trans. Electron Devices
@@ -363,7 +378,6 @@ IEEE Transactions on Geoscience and Remote Sensing;IEEE Trans. Geosci. Remote Se
 IEEE Transactions on Information Theory;IEEE Trans. Inf. Theory
 IEEE Transactions on Instrumentation and Measurement;IEEE Trans. Instrum. Meas.
 IEEE Transactions on Magnetics;IEEE Trans. Magn.
-IEEE Transactions on Microwave Theory and Techniques;IEEE Trans. Microwave Theory Tech.
 IEEE Transactions on Microwave Theory and Techniques;IEEE Trans. Microw. Theory Tech.
 IEEE Transactions on Nuclear Science;IEEE Trans. Nucl. Sci.
 IEEE Transactions on Sonics and Ultrasonics;IEEE Trans. Sonics Ultrason.
@@ -371,6 +385,9 @@ IEEE Transactions on Terahertz Science and Technology;IEEE Trans. Terahertz Sci.
 IEEJ Transactions on Sensors and Micromachines;IEEJ Trans. Sens. Micromachines
 IEICE Electronics Express;IEICE Electron. Express
 IET Image Processing;IET Image Proc.
+IOP Conference Series: Earth and Environmental Science;IOP Conf. Ser.: Earth Environ. Sci.
+IOP Conference Series: Materials Science and Engineering;IOP Conf. Ser.: Mater. Sci. Eng.
+IOP SciNotes;IOP SciNotes
 Icarus;Icarus
 Industrial and Engineering Chemistry;Ind. Eng. Chem.
 Infrared Physics;Infrared Phys.
@@ -410,6 +427,7 @@ International Journal of Energy Research;Int. J. Energy Res.
 International Journal of Engine Research;Int. J. Engine Res.
 International Journal of Enterprise Information Systems;Int. J. Enterp. Inf. Syst.
 International Journal of Exergy;Int. J. Exergy
+International Journal of Extreme Manufacturing;Int. J. Extrem. Manuf.
 International Journal of Fatigue;Int. J. Fatigue
 International Journal of Fluid Mechanics Research;Int. J. Fluid Mech. Res.
 International Journal of Forming Processes;Int. J. Form. Processes
@@ -515,6 +533,7 @@ Izvestiya Akademii Nauk SSSR, Seriya Fizicheskaya [Bulletin of the Academy of Sc
 Izvestiya Physics of the Solid Earth;Izv. Phys. Solid Earth
 Izvestiya Vysshikh Uchebnykh Zavedenii, Fizika [Soviet Physics Journal];Izv. Vyssh. Uchebn. Zavad. Fiz. [Sov. Phys. J.]
 Izvestiya Vysshikh Uchebnykh Zavedenii, Radiofizika [Soviet Radiophysics];Izv. Vyssh. Uchebn. Zaved. Radiofiz. [Sov. Radiophys.]
+Izvestiya: Mathematics;Izv. Math.
 JETP Letters [translation of Pisma v Zhurnal Eksperimentalnoi i Teoreticheskoi Fiziki];JETP Lett.
 Jahrbuch Oberflachentechnik;Jahrb. Oberflachentech.
 Japanese Journal of Applied Physics, Part 1;Jpn. J. Appl. Phys., Part 1
@@ -528,7 +547,6 @@ Journal de Chimie Physique;J. Chim. Phys.
 Journal de Physique (Paris);J. Phys. (Paris)
 Journal de Physique Colloques;J. Phys. Colloq.
 Journal de Physique IV (Proceedings);J. Phys. IV Proc.
-Journal de Physique IV;J. Phys. IV Fr.
 Journal de Physique IV;J. Phys. IV
 Journal de Physique et le Radium;J. Phys. Radium
 Journal of AOAC International;J. AOAC Int.
@@ -549,22 +567,21 @@ Journal of Astronautical Sciences;J. Astronaut. Sci.
 Journal of Astrophysics and Astronomy;J. Astrophys. Astron.
 Journal of Atmospheric Sciences;J. Atmos. Sci.
 Journal of Atmospheric and Terrestrial Physics;J. Atmos. Terr. Phys.
-Journal of Chemical Physics;J. Chem. Phys.
+Journal of Breath Research;J. Breath Res.
 Journal of Colloid and Interface Science;J. Colloid Interface Sci.
 Journal of Computational Physics;J. Comput. Phys.
 Journal of Computational and Applied Mathematics;J. Comput. Appl. Math.
 Journal of Contemporary Physics;J. Contemp. Phys.
+Journal of Cosmology and Astroparticle Physics;J. Cosmol. Astropart. Phys.
 Journal of Crystal Growth;J. Cryst. Growth
 Journal of Display Technology;J. Display Technol.
 Journal of Earth Science;J. Earth Sci.
 Journal of Earth System Science;J. Earth Syst. Sci.
 Journal of Elasticity;J. Elast.
 Journal of Electroceramics;J. Electroceramics
-Journal of Electron Spectroscopy and Related Phenomenon;J. Electron. Spectrosc. Relat. Phenom.
-Journal of Electronic Materials;J. Electronic Mater.
+Journal of Electron Spectroscopy and Related Phenomenon;J. Electron Spectrosc. Relat. Phenom.
 Journal of Electronic Materials;J. Electron. Mater.
 Journal of Experimental and Theoretical Physics;J. Exp. Theor. Phys.
-Journal of Experimental and Theoretical Physics;Zh. Eksp. Teor. Fiz
 Journal of Fire Sciences;J. Fire Sci.
 Journal of Fluid Mechanics;J. Fluid Mech.
 Journal of Fluids and Structures;J. Fluids Struct.
@@ -593,6 +610,7 @@ Journal of Hydrodynamics, Series B;J. Hydrodyn. Ser. B
 Journal of Hydrology;J. Hydrol.
 Journal of Infrared, Millimeter, and Terahertz Waves;J. Infrared Millim. Terahertz Waves
 Journal of Inorganic and Nuclear Chemistry;J. Inorg. Nucl. Chem.
+Journal of Instrumentation;J. Instrum.
 Journal of Lightwave Technology;J. Light. Technol.
 Journal of Low Temperature Physics;J. Low Temp. Phys.
 Journal of Luminescence;J. Lumin.
@@ -615,6 +633,7 @@ Journal of Nanoparticle Research;J. Nanoparticle Res. Interdiscip. Forum Nanosca
 Journal of Nanophotonics;J. Nanophoton.
 Journal of Nature Conservation;J. Nat. Conserv.
 Journal of Navigation;J. Navig.
+Journal of Neural Engineering;J. Neural Eng.
 Journal of Non-Crystalline Solids;J. Non-Cryst. Solids
 Journal of Non-Equilibrium Thermodynamics;J. Non-Equilib. Thermodyn.
 Journal of Non-Newtonian Fluid Mechanics;J. Non-Newtonian Fluid Mech.
@@ -624,6 +643,7 @@ Journal of Nonlinear Science;J. Nonlinear Sci.
 Journal of Nuclear Energy, Part C: Plasma Physics, Accelerators, Thermonuclear Research;J. Nucl. Energy, Part C
 Journal of Nuclear Energy;J. Nucl. Energy
 Journal of Nuclear Materials;J. Nucl. Mater.
+Journal of Optics;J. Opt.
 Journal of Paleolimnology;J. Paleolimnol.
 Journal of Paleontology;J. Paleontol.
 Journal of Palynology;J. Palynol.
@@ -640,31 +660,26 @@ Journal of Physical and Chemical Reference Data;J. Phys. Chem. Ref. Data
 Journal of Physics (Moscow);J. Phys. (Moscow)
 Journal of Physics A: General Physics;J. Phys. A: Gen. Phys.
 Journal of Physics A: Mathematical and General;J. Phys. A: Math. Gen.
-Journal of Physics A: Mathematical and General;J. Phys. A
-Journal of Physics A: Mathematical and Theoretical;J. Phys. Math. Theor.
+Journal of Physics A: Mathematical, Nuclear and General;J. Phys. A: Math. Nucl. Gen.
 Journal of Physics A: Mathematical and Theoretical;J. Phys. A: Math. Theor.
 Journal of Physics A;J. Phys. A
 Journal of Physics B: Atomic, Molecular and Optical Physics;J. Phys. B: At. Mol. Opt. Phys.
-Journal of Physics B: Atomic, Molecular and Optical;J. Phys. B
+Journal of Physics B: Atomic and Molecular Physics;J. Phys. B: At. Mol. Phys.
 Journal of Physics B;J. Phys. B
 Journal of Physics C: Solid State Physics;J. Phys. C: Solid State Phys.
-Journal of Physics C: Solid State Physics;J. Phys. C Solid State Phys.
-Journal of Physics C: Solid State Physics;J. Phys. C
+Journal of Physics C;J. Phys. C
 Journal of Physics Communications;J. Phys. Commun.
-Journal of Physics D: Applied Physics;J. Phys. Appl. Phys.
 Journal of Physics D: Applied Physics;J. Phys. D: Appl. Phys.
-Journal of Physics D: Applied Physics;J. Phys. D
-Journal of Physics E: Scientific Instruments;J. Phys. E
+Journal of Physics D;J. Phys. D
+Journal of Physics E: Scientific Instruments;J. Phys. E: Sci. Instrum.
 Journal of Physics E;J. Phys. E
-Journal of Physics F: Metal Physics;J. Phys. F
+Journal of Physics F: Metal Physics;J. Phys. F: Met. Phys.
 Journal of Physics F;J. Phys. F
 Journal of Physics G: Nuclear and Particle Physics;J. Phys. G: Nucl. Part. Phys.
-Journal of Physics G: Nuclear and Particle Physics;J. Phys. G
 Journal of Physics G;J. Phys. G
 Journal of Physics and Chemistry of Solids;J. Phys. Chem. Solids
-Journal of Physics: Condensed Matter;J. Phys. Condens. Matter
+Journal of Physics: Complexity;J. Phys. Complexity
 Journal of Physics: Condensed Matter;J. Phys.: Condens. Matter
-Journal of Physics: Conference series;J. Phys. Conf. Series
 Journal of Physics: Conference Series;J. Phys.: Conf. Ser.
 Journal of Physics: Energy;J. Phys. Energy
 Journal of Physics: Materials;J. Phys. Mater.
@@ -675,7 +690,7 @@ Journal of Polymer Science, Polymer Physics Edition;J. Polym. Sci. Polym. Phys. 
 Journal of Polymer Science;J. Polym. Sci.
 Journal of Porphyrins and Phthalocyanines;J. Porphyrins Phthalocyanines
 Journal of Quantitative Spectroscopy & Radiative Transfer;J. Quant. Spectrosc. Radiat. Transf.
-Journal of Quantitative Spectroscopy & Radiative Transfer;J. Quant. Spectrosc. Radiat. Transfer
+Journal of Radiological Protection;J. Radiol. Prot.
 Journal of Renewable & Sustainable Energy;J. Renew. Sustain. Energy
 Journal of Research of the National Bureau of Standards, Section A: Physics and Chemistry;J. Res. Natl. Bur. Stand. Sec. A
 Journal of Research of the National Bureau of Standards, Section B: Mathematical Sciences;J. Res. Natl. Bur. Stand. Sec. B
@@ -691,11 +706,12 @@ Journal of Sedimentary Petrology;J. Sediment. Petrol.
 Journal of Sedimentary Research;J. Sediment. Res.
 Journal of Seismology;J. Seismolog.
 Journal of Semiconductor Technology and Science;J. Semicond. Technol. Sci.
+Journal of Semiconductors;J. Semicond.
 Journal of Sound and Vibration;J. Sound Vib.
 Journal of South American Earth Sciences;J. South Amer. Earth Sci.
 Journal of Southeast Asian Earth Sciences;J. Southeast Asian Earth Sci.
 Journal of Statistical Computation and Simulation;J. Stat. Comput. Simul.
-Journal of Statistical Mechanics: Theory and Experiment;J. Stat. Mech: Theory Exp.
+Journal of Statistical Mechanics: Theory and Experiment;J. Stat. Mech.: Theory Exp.
 Journal of Statistical Physics;J. Stat. Phys.
 Journal of Structural Geology;J. Struct. Geol.
 Journal of Superconductivity;J. Supercond.
@@ -708,11 +724,10 @@ Journal of Thermophysics and Heat Transfer;J. Thermophys Heat Transfer
 Journal of Ultrasound;J. Ultrasound
 Journal of Ultrastructure Research;J. Ultrastruct. Res.
 Journal of VLSI Signal Processing;J. VLSI Sig. Proc.
-Journal of Vacuum Science & Technology A: Vacuum, Surfaces, and Films;J. Vac. Sci. Technol. Vac. Surf. Films
+Journal of Vacuum Science & Technology A: Vacuum, Surfaces, and Films;J. Vac. Sci. Technol. A: Vac. Surf. Films
 Journal of Vacuum Science & Technology A;J. Vac. Sci. Technol. A
-Journal of Vacuum Science & Technology B;J. Vac. Sci. Technol. B Microelectron. Nanometer Struct.
-Journal of Vacuum Science & Technology B;J. Vac. Sci. Technol. B Nanotechnol. Microelectron. Mater. Process. Meas. Phenom.
-Journal of Vacuum Science and Technology B: Microelectronics and Nanometer Structures;J. Vac. Sci. Technol., B
+Journal of Vacuum Science & Technology B: Microelectronics Processing and Phenomena;J. Vac. Sci. Technol. B: Microelectron. Process. Phenom.
+Journal of Vacuum Science & Technology B: Microelectronics and Nanometer Structures;J. Vac. Sci. Technol. B: Microelectron. Nanometer Struct.
 Journal of Vacuum Science & Technology B;J. Vac. Sci. Technol. B
 Journal of Vacuum Science and Technology;J. Vac. Sci. Technol.
 Journal of Volcanology and Geothermal Research;J. Volcanol. Geotherm. Res.
@@ -742,9 +757,11 @@ Journal of the Roy Aeronautical Society;J. R. Aeronaut. Soc.
 Journal of the Royal Astronomical Society of Canada;J. R. Astron. Soc. Can.
 Journal of the Royal Society, Interface;J. R. Soc. Interface
 Kolloid Zeitschrift & Zeitschrift für Polymere;Kolloid Z. Z. Polym.
-Kongelige Danske Videnskabernes Selskab, Matematisk-Fysiske Meddelelser;K. Dan. Vidensk. Selsk. Mat. Fys. Medd.
+Kongelige Danske Videnskabernes Selskab, Matematisk-Fysiske Meddelelser;K. Dan. Vidensk. Selsk. Mater. Fys. Medd.
 Kristallografiya [Soviet Physics–Crystallography];Kristallografiya [Sov. Phys. Crystallogr.]
 Kvantovaya Elektronika (Moscow) [Soviet Journal of Quantum Electronics];Kvant. Elektron. (Moscow) [Sov. J. Quantum Electron.]
+Laser Physics Letters;Laser Phys. Lett.
+Laser Physics;Laser Phys.
 Laser and Particle Beams;Laser Part. Beams
 Lecture Notes in Earth Sciences;Lect. Notes Earth Sci.
 Lecture Notes in Mathematics;Lect. Notes Math.
@@ -761,6 +778,7 @@ MRS Advances;MRS Adv.
 MRS Bulletin;MRS Bull.
 MRS Internet Journal of Nitride Semiconductor Research;MRS Internet J. Nitride Semicond. Res.
 MRS Proceedings;MRS Proc.
+Machine Learning: Science and Technology;Mach. Learn.: Sci. Technol.
 Macromolecules;Macromolecules
 Marine Geology;Mar. Geol.
 Marine Geophysical Researches;Mar. Geophys. Res.
@@ -770,15 +788,16 @@ Marine Structures;Mar. struct.
 Marine and Freshwater Research;Mar. Freshwater Res.
 Marine and Petroleum Geology;Mar. Pet. Geol.
 Materials Research Bulletin;Mater. Res. Bull.
-Materials Research Society Symposium Proceedings;Mat. Res. Soc. Symp. Proc.
+Materials Research Express;Mater. Res. Express
 Materials Research Society Symposium Proceedings;Mater. Res. Soc. Symp. Proc.
 Materials Science & Engineering B: Solid-State Materials for Advanced Technology;Mater. Sci. Eng. B Solid-State Mater. Adv. Technol.
-Materials Science-Poland;Mater. Sci.-Pol.
 Materials Science and Engineering B;Mater. Sci. Eng. B
 Materials Science and Engineering R: Reports;Mater. Sci. Eng. R Rep.
 Materials Science and Engineering: C;Mater. Sci. Eng. C
 Materials Science and Engineering;Mater. Sci. Eng.
 Materials Science in Semiconductor Processing;Mater. Sci. Semicond. Process.
+Materials Science-Poland;Mater. Sci.-Pol.
+Materials for Quantum Technology;Mater. Quantum Technol.
 Materials;Materials
 Mathematical Biosciences;Math. Biosci.
 Mathematical Geology;Math. Geol.
@@ -789,25 +808,30 @@ Mathematical Physics and Applied Mathematics;Math. Phys. Appl. Math.
 Mathematical Proceedings of the Cambridge Philosophical Society;Math. Proc. Cambridge Philos. Soc.
 Mathematics of Computation;Math. Comput.
 Mathematicsl Methods in the Applied Sciences;Math. Methods Appl. Sci.
-Matter and Radiation at Extremes;Matter Radiat. at Extremes
 Mathematische Zeitschrift;Math. Z.
+Matter and Radiation at Extremes;Matter Radiat. at Extremes
+Measurement Science and Technology;Meas. Sci. Technol.
 Mechanical Systems and Signal Processing;Mech. Syst. Sig. Process.
 Mechanics of Solids;Mech. Solids
 Medical Physics;Med. Phys.
 Memoir - American Association of Petroleum Geologists;Mem. Am. Assoc. Pet. Geol.
 Memoirs of the Royal Astronomical Society;Mem. R. Astron. Soc.
 Metallurgical And Materials Transactions B-Process Metallurgy And Materials Processing Science ;Metall. Mater. Trans. B Process Metall. Mater. Process. Sci.
+Methods and Applications in Fluorescence;Methods Appl. Fluoresc.
+Metrologia;Metrologia
 Mineralium Deposita;Miner. Deposita
 Mineralogical Magazine;Mineral. Mag.
 Mineralogy and Petrology;Mineral. Petrol.
 Mining Journal;Min. J.
 Mining Magazine;Min. Mag.
 Mining and Scientific Press;Min. Sci. Press
+Modelling and Simulation in Materials Science and Engineering;Modelling Simul. Mater. Sci. Eng.
 Modern Physics Letters A;Mod. Phys. Lett. A
 Modern Physics Letters B;Mod. Phys. Lett. B
 Molecular Crystals and Liquid Crystals;Mol. Cryst. Liq. Cryst.
 Molecular Physics;Mol. Phys.
 Monthly Notices of the Royal Astronomical Society;Mon. Not. R. Astron Soc.
+Multifunctional Materials;Multifunct. Mater.
 NACTA Journal;NACTA J.
 NATO ASI Series, Series A Life Sciences;NATO ASI Ser., Ser. A
 NATO ASI Series, Series B Physics;NATO ASI Ser., Ser. B
@@ -818,7 +842,6 @@ NPG Asia Materials;NPG Asia Mater.
 Nano Energy;Nano Energy
 Nano Express;Nano Express
 Nano Futures;Nano Futur.
-Nano Futures;Nano Futures
 Nano Letters;Nano Lett.
 Nano Research;Nano Res.
 Nano Today;Nano Today
@@ -861,6 +884,7 @@ Non-Destructive Testing;Non-Destr. Test.
 Nonlinear Analysis: Hybrid Systems;Nonlinear Anal. Hybrid Syst
 Nonlinear Analysis: Real World Applications;Nonlinear Anal. Real World Appl.
 Nonlinear Analysis: Theory Methods & Applications;Nonlinear Anal. Theory Methods Appl.
+Nonlinearity;Nonlinearity
 Northwest Science;Northwest Sci.
 Norwegian Journal of Geology;Norw. J. Geol.
 Nuclear Data, Section A;Nucl. Data, Sec. A
@@ -905,76 +929,65 @@ Petroleum Science;Pet. Sci.
 Petroleum and Coal;Pet. Coal
 Phase Transition and Critical Phenomena;Phase Transit. Crit. Phenom.
 Phase Transitions;Phase Transit.
-Phase Transitions;Phase Transitions
 Philips Journal of Research;Philips J. Res.
 Philips Research Reports;Philips Res. Rep.
 Philosophical Mag. Abingdon England;Philos. Mag. Abingdon Engl.
 Philosophical Magazine Letters;Philos. Mag. Lett.
 Philosophical Magazine;Philos. Mag.
-Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences;Philos. Trans. R. Soc. Math. Phys. Eng. Sci.
-Philosophical Transactions of the Royal Society of London, Series A: Mathematical and Physical Sciences;Philos. Trans. R. Soc. London, Ser. A
-Philosophical Transactions of the Royal Society of London, Series B;Philos. Trans. R. Soc. London, Ser. B
-Philosophical Transactions of the Royal Society of London. Series A. Mathematical, Physical and Engineering Sciences;Philos. Trans. R. Soc. Lond. Ser. A Math. Phys. Eng. Sci.
-Philosophical Transactions of the Royal Society of London;Philos. Trans. R. Soc. London
+Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences;Philos. Trans. R. Soc. A: Math. Phys. Eng. Sci.
+Philosophical Transactions of the Royal Society A;Philos. Trans. R. Soc. A
+Philosophical Transactions of the Royal Society;Philos. Trans. R. Soc.
 Phosphorus Sulfur Silicon and the Related Elements;Phosphorus, Sulfur Silicon Relat. Elem.
 Phosphorus Sulfur and Related Elements;Phosphorus Sulfur Rel. Elem.
 Photonics Research;Photon. Res.
 Physica (Utrecht);Physica (Utrecht)
 Physica A;Phys. A
-Physica B: Condensed Matter;Phys. B Condens. Matter
-Physica B;Physica B
+Physica B: Condensed Matter;Phys. B: Condens. Matter
 Physica B;Phys. B
-Physica C: Superconductivity and its Applications;Phys. C Supercond. Its Appl.
+Physica C: Superconductivity and its Applications;Phys. C: Supercond. Its Appl.
 Physica C;Phys. C
 Physica D: Nonlinear Phenomena;Phys. D: Nonlinear Phenom.
-Physica D: Nonlinear Phenomena;Phys. Nonlinear Phenom.
-Physica D: Nonlinear Phenomena;Physica D
 Physica D;Phys. D
-Physica E-low-dimensional Systems & Nanostructures;Physica E
-Physica E: Low-dimensional Systems and Nanostructures;Phys. E Low-Dimens. Syst. Nanostructures
+Physica E: Low-dimensional Systems and Nanostructures;Phys. E: Low-Dimens. Syst. Nanostructures
 Physica E;Phys. E
-Physica Scripta, T.;Phys. Scr. T.
+Physica Scripta T;Phys. Scr. T
 Physica Scripta;Phys. Scr.
-Physica Status Solidi A: Applications and Materials Science;Phys. Status Solidi Appl. Mater. Sci.
-Physica Status Solidi A: Applied Research;Phys. Status Solidi A Appl. Res.
-Physica Status Solidi A;Phys. Status Solidi A
-Physica Status Solidi B: Basic Research;Phys. Status Solidi B Basic Res.
-Physica Status Solidi B: Basic Solid State Physics;Phys. Status Solidi B Basic Solid State Phys.
-Physica Status Solidi B;Phys. Status Solidi B
-Physica Status Solidi C: Current Topics in Solid State Physics;Phys. Status Solidi C Curr. Top. Solid State Phys.
-Physica Status Solidi C;Phys. Status Solidi C
-Physica Status Solidi;Phys. Status Solidi
-Physica Status Solidi (RRL) – Rapid Research Letters;Phys. Status Solidi RRL
 physica status solidi (RRL) – Rapid Research Letters;Phys. Status Solidi RRL
-physica status solidi (a);phys. status solidi (a)
-physica status solidi (b);phys. status solidi (b)
-physica status solidi (c);phys. status solidi (c)
+physica status solidi (a);Phys. Status Solidi A
+physica status solidi (b);Phys. Status Solidi B
+physica status solidi (c);Phys. Status Solidi C
+Physica Status Solidi A: Applied Research;Phys. Status Solidi A: Appl. Res.
+Physica Status Solidi B: Basic Research;Phys. Status Solidi B: Basic Res.
+Physica Status Solidi B: Basic Solid State Physics;Phys. Status Solidi B: Basic Solid State Phys.
+Physica Status Solidi C: Current Topics in Solid State Physics;Phys. Status Solidi C: Curr. Top. Solid State Phys.
+Physica Status Solidi;Phys. Status Solidi
 Physica;Physica
+Physical Biology;Phys. Biol.
 Physical Chemistry Chemical Physics;Phys. Chem. Chem. Phys.
-Physical Chemistry Chemical Physics;Phys. Chem. Chem. Phys. PCCP
 Physical Mesomechanics;Phys. Mesomech.
-Physical Review A: Atomic, Molecular, and Optical Physics;Phys. Rev. A
+Physical Review A: Atomic, Molecular, and Optical Physics;Phys. Rev. A: At. Mol. Opt. Phys.
+Physical Review A;Phys. Rev. A
 Physical Review Accelerators and Beams;Phys. Rev. Accel. Beams
 Physical Review Applied;Phys. Rev. Appl.
-Physical Review Applied;Phys. Rev. Applied
-Physical Review B: Condensed Matter;Phys. Rev. B Condens. Matter
+Physical Review B;Phys. Rev. B
 Physical Review B: Condensed Matter;Phys. Rev. B: Condens. Matter
-Physical Review B: Condensed Matter;Phys. Rev. B
-Physical Review C: Nuclear Physics;Phys. Rev. C
-Physical Review D: Particles and Fields;Phys. Rev. D
+Physical Review C;Phys. Rev. C
+Physical Review C: Nuclear Physics;Phys. Rev. C: Nucl. Phys.
+Physical Review D;Phys. Rev. D
+Physical Review D: Particles and Fields;Phys. Rev. D: Part. Fields
+Physical Review E;Phys. Rev. E
 Physical Review E: Statistical, Nonlinear, and Soft Matter Physics;Phys. Rev. E: Stat. Nonlinear Soft Matter Phys.
 Physical Review E: Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics;Phys. Rev. E: Stat. Phys. Plasmas Fluids Relat. Interdisciplin. Top.
-Physical Review E: Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics;Phys. Rev. E
 Physical Review Fluids;Phys. Rev. Fluids
 Physical Review Letters;Phys. Rev. Lett.
 Physical Review Materials;Phys. Rev. Mater.
-Physical Review Materials;Phys. Rev. Materials
 Physical Review Physics Education Research;Phys. Rev. Phys. Educ. Res.
 Physical Review Research;Phys. Rev. Research
 Physical Review Special Topics – Accelerators and Beams;Phys. Rev. Spec. Top. Accel. Beams
 Physical Review X;Phys. Rev. X
 Physical Review;Phys. Rev.
 Physics (New York);Physics (N.Y.)
+Physics Education;Phys. Educ.
 Physics Letters A;Phys. Lett. A
 Physics Letters B;Phys. Lett. B
 Physics Letters;Phys. Lett.
@@ -984,6 +997,7 @@ Physics Teacher;Phys. Teach.
 Physics Today;Phys. Today
 Physics World;Phys. World
 Physics and Chemistry of Solids;Phys. Chem. Solids
+Physics in Medicine & Biology;Phys. Med. Biol.
 Physics of Atomic Nuclei;Phys. At. Nucl.
 Physics of Fluids A;Phys. Fluids A
 Physics of Fluids B;Phys. Fluids B
@@ -996,18 +1010,21 @@ Physics-Uspekhi;Phys.-Uspekhi
 Physik der Kondensierten Materie;Phys. Kondens. Mater.
 Physikalische Zeitschrift der Sowjetunion;Phys. Z. Sowjetunion
 Physikalische Zeitschrift;Phys. Z.
+Physiological Measurement;Phys. Meas.
 Pis’ma v Astronomicheskii Zhurnal [Soviet Astronomy Letters];Pis’ma Astron. Zh. [Sov. Astron. Lett.]
 Pis’ma v Zhurnal Eksperimentalnoi i Teoreticheskoi Fiziki [JETP Letters];Pis’ma Zh. Eksp. Teor. Fiz. [JETP Lett.]
 Pis’ma v Zhurnal Tekhnicheskoi Fiziki [Soviet Technical Physics Letters];Pis’ma Zh. Tekh. Fiz. [Sov. Tech. Phys. Lett.]
 Planetary and Space Science;Planet. Space Sci.
 Plasma Physics and Controlled Fusion;Plasma Phys. Control. Fusion
 Plasma Physics;Plasma Phys.
+Plasma Research Express;Plasma Res. Express
+Plasma Science and Technology;Plasma Sci. Technol.
+Plasma Sources Science and Technology;Plasma Sources Sci. Technol.
 Pramana – Journal of Physics;Pramana - J. Phys.
 Pramana;Pramana
 Pribory i Tekhnika Eksperimenta [Instruments and Experimental Techniques (USSR)];Prib. Tekh. E ksp. [Instrum. Exp. Tech. (USSR)]
 Proceedings in Applied Mathematics and Mechanics;Proc. Appl. Math. Mech.
 Proceedings of SPIE;Proc. SPIE
-Proceedings of SPIE;SPIE Proc.
 Proceedings of the Cambridge Philosophical Society;Proc. Cambridge Philos. Soc.
 Proceedings of the Combustion Institute;Proc. Combust. Inst.
 Proceedings of the Estonian Academy of Sciences;Proc. Est. Acad. Sci.
@@ -1016,28 +1033,22 @@ Proceedings of the IEEE;Proc. IEEE
 Proceedings of the IRE;Proc. IRE
 Proceedings of the International Astronomical Congress;Proc. Int. Astron. Congr.
 Proceedings of the International Astronomical Union;Proc. Int. Astron. Union
-Proceedings of the National Academy of Sciences of the United States of America;PNAS
-Proceedings of the National Academy of Sciences of the United States of America;Proc. Natl. Acad. Sci. USA
-Proceedings of the National Academy of Sciences;Proc. Natl. Acad. Sci.
-Proceedings of the National academy of Sciences of the United States of America;Proc. Nat. Acad. Sci. U.S.A.
+Proceedings of the National Academy of Sciences of the United States of America;Proc. Natl. Acad. Sci. U.S.A.
 Proceedings of the Nutrition Society;Proc. Nutr. Soc.
-Proceedings of the Physical Society, London, Section A;Proc. Phys. Soc. London, Sec. A
-Proceedings of the Physical Society, London, Section B;Proc. Phys. Soc. London, Sec. B
-Proceedings of the Physical Society, London;Proc. Phys. Soc. London
-Proceedings of the Physical Society B;Proc. Phys. Soc. B
-Proceedings of the Physical Society. Section A;Proc. Phys. Soc. London, Sect. A
-Proceedings of the Physical Society. Section B;Proc. Phys. Soc. London, Sect. B
+Proceedings of the Physical Society of London;Proc. Phys. Soc. London
+Proceedings of the Physical Society, Section A;Proc. Phys. Soc., Sect. A
+Proceedings of the Physical Society, Section B;Proc. Phys. Soc., Sect. B
 Proceedings of the Physical Society;Proc. Phys. Soc.
-Proceedings of the Royal Society of London, Series A: Mathematical and Physical Sciences;Proc. R. Soc. London, Ser. A
+Proceedings of the Royal Society of London, Series A: Mathematical and Physical Sciences;Proc. R. Soc. London, Ser. A: Math. Phys. Sci.
 Proceedings of the Royal Society of London A;Proc. R. Soc. Lond. A
-Proceedings of the Royal Society of London A;Proc. R. Soc. Lond. Ser. Math. Phys. Sci.
-Proceedings of the Royal Society of London A;Proc. R. Soc. Math. Phys. Eng. Sci.
-Proceedings of the Royal Society of London Series B;Proc. R. Soc. London, Ser. B
+Proceedings of the Royal Society of London, Series B;Proc. R. Soc. London, Ser. B
 Proceedings of the Royal Society of London;Proc. R. Soc. London
 Proceedings of the Zoological Society;Proc. Zool. Soc.
 Process Safety Progress;Process Saf. Prog.
 Progress in Aerospace Sciences;Prog. Aerosp. Sci.
+Progress in Biomedical Engineering;Prog. Biomed. Eng.
 Progress in Crystal Growth and Characterization;Prog. Cryst. Growth Charact.
+Progress in Energy;Prog. Energy
 Progress in Histochemistry and Cytochemistry;Prog. Histochem. Cytochem.
 Progress in Lipid Research;Prog. Lipid Res.
 Progress in Natural Science: Materials International;Prog. Nat. Sci. Mater. Int.
@@ -1049,8 +1060,9 @@ Propellants, Explosives, Pyrotechnics;Propellants Explos. Pyrotech.
 Publications of the Astronomical Society of the Pacific;Publ. Astron. Soc. Pac.
 Pure and Applied Geophysics;Pure Appl. Geophys.
 Pure and Applied Physics;Pure Appl. Phys.
-Quantum Electronics;Quantum Electron. (UK) or Quantum Electron. (USA)
+Quantum Electronics;Quantum Electron.
 Quantum Optics;Quantum Opt.
+Quantum Science and Technology;Quantum Sci. Technol.
 Quarterly Journal of Mechanics and Applied Mathematics;Q. J. Mech. Appl. Math.
 Quarterly Journal of Science, Literature, and the Arts;Q. J. Sci. Lit. Arts
 Quarterly Journal of Studies on Alcohol;Q. J. Stud. Alcohol
@@ -1073,6 +1085,7 @@ Remote Sensing of Environment;Remote Sens. Environ.
 Renewable & Sustainable Energy Reviews;Renew. Sustain. Energy Rev.
 Renewable and Sustainable Energy Reviews;Renewable Sustainable Energy Rev.
 Reports on Progress in Physics;Rep. Prog. Phys.
+Research Notes of the AAS;Res. Notes AAS
 Research in Astronomy and Astrophysics;Res. Astron. Astrophys.
 Research in Nondestructive Evaluation;Res. Nondestr. Eval.
 Resource Geology;Resour. Geol.
@@ -1084,24 +1097,26 @@ Reviews in Mineralogy and Geochemistry;Rev. Mineral. Geochem.
 Reviews of Geophysics and Space Physics;Rev. Geophys. Space Phys.
 Reviews of Geophysics;Rev. Geophys.
 Reviews of Modern Physics;Rev. Mod. Phys.
-Review of Scientific Instruments;Rev. Sci. Instrum.
 Revista Mexicana de Astronomica y Astrofisica;Rev. Mex. Astron. Astrofis.
 Revista Mexicana de Fisica;Rev. Mex. Fis.
 Revue dOptique, Théorique et Instrumentale;Rev. Opt. Theor. Instrum.
 Rheologica Acta;Rheol. Acta
 Rice Science;Rice Sci.
 Rocky Mountain Geology;Rocky Mt Geol.
+Russian Chemical Reviews;Russ. Chem. Rev.
 Russian Journal of Physical Chemistry [translation of Zhurnal Fizicheskoi Khimii];Russ. J. Phys. Chem.
+Russian Mathematical Surveys;Russ. Math. Surv.
 SAMPE Journal;SAMPE J.
+Sbornik: Mathematics;Sb. Math.
 Scanning Microscopy for Nanotechnology;Scanning Microsc. Nanotechnol.
 Scanning;Scanning
 Science Advances;Sci. Adv.
 Science Foundation in China;Sci. Found. China
 Science Progress;Sci. Prog.
-Science in China, Series A: Mathematics;Sci. China, Ser. A Math.
-Science in China, Series C: Life Sciences;Sci. China, Ser. C Life Sci.
-Science in China, Series D: Earth Sciences;Sci. China, Ser. D Earth Sci.
-Science in China, Series G: Physics Mechanics and Astronomy;Sci. China, Ser. G
+Science in China, Series A: Mathematics;Sci. China A: Math.
+Science in China, Series C: Life Sciences;Sci. China C: Life Sci.
+Science in China, Series D: Earth Sciences;Sci. China D: Earth Sci.
+Science in China, Series G: Physics, Mechanics and Astronomy;Sci. China G: Phys. Mech. Astron.
 Science;Science
 Scientific American;Sci. Am.
 Scientific Modeling and Simulation;Sci. Model. Simul.
@@ -1116,10 +1131,11 @@ Sensors and Actuators A: Physical;Sens. Actuators Phys.
 Sensors and Actuators B: Chemical;Sens. Actuators B Chem.
 Sensors;Sens.
 Signal Processing;Signal Process.
+Smart Materials and Structures;Smart Mater. Struct.
 Solar Cells;Solar Cells
 Solar Energy Materials amd Solar Cells;Sol. Energy Mater. Sol. Cells.
-Solar Energy Materials and Solar Cells;Sol. Energ. Mat. Sol.
 Solar Physics;Sol. Phys.
+Solar RRL;Sol. RRL
 Solar System Research;Sol. Syst. Res.
 Solid State Communications;Solid State Commun.
 Solid State Ionics;Solid State Ionics
@@ -1159,22 +1175,29 @@ Structural Dynamics;Struct. Dyn.
 Structural Safety;Struct. Saf.
 Structure and Bonding;Struct. Bond.
 Studies in Conservation;Stud. Conserv.
+Superconductor Science and Technology;Supercond. Sci. Technol.
 Superlattices and Microstructures;Superlattices Microstruct.
 Surface Science;Surf. Sci.
+Surface Topography: Metrology and Properties;Surf. Topogr.: Metrol. Prop.
 Surveys in Geophysics;Surv. Geophys.
 Technical Physics Letters;Tech. Phys. Lett.
 Teplofizika Vysokikh Temperatur [High Temperature (USSR)];Teplofiz. Vys. Temp. [High Temp. (USSR)]
+The Astronomical Journal;Astron. J.
+The Astrophysical Journal Letters;Astrophys. J. Lett.
+The Astrophysical Journal Supplement Series;Astrophys. J. Suppl. Ser.
+The Astrophysical Journal;Astrophys. J.
+The Electrochemical Society Interface;Electrochem. Soc. Interface
 The European Physical Journal H;Eur. Phys. J. H
 The European Physical Journal Plus;Eur. Phys. J. Plus
 The European Physical Journal Special Topics;Eur. Phys. J. Special Topics
 The Journal of Chemical Physics;J. Chem. Phys.
 The London, Edinburgh and Dublin philosophical magazine and journal of science;Lond. Edinb. Dublin Philos. Mag. J. Sci.
+The Planetary Science Journal;Planet. Sci. J.
 Theoretica Chimica Acta;Theor. Chim. Acta
 Thin Solid Films;Thin Solid Films
 tm - Technisches Messen;Tm - Tech. Mess.
 Topics in Applied Physics;Top. Appl. Phys.
 Transactions of the American Crystallographic Association;Trans. Am. Crystallogr. Assoc.
-Transactions of the American Geophysical Union;Trans.-Am. Geophys. Union
 Transactions of the American Geophysical Union;Trans. Am. Geophys. Union
 Transactions of the American Institute of Mining, Metallurgical and Petroleum Engineers;Trans. Am. Inst. Min. Metall. Pet. Eng.
 Transactions of the American Nuclear Society;Trans. Am. Nucl. Soc.
@@ -1200,31 +1223,32 @@ Water Resources;Water Resour.
 Wiley Interdisciplinary Reviews: Computational Statistics;Wiley Interdiscip. Rev. Comput. Stat.
 Wuli Xuebao (Acta Physica Sinica) [Chinese Journal of Physics];Wuli Xuebao (Acta Phys. Sin.) [Chin. J. Phys.]
 Yadernaya Fizika [Soviet Journal of Nuclear Physics];Yad. Fiz. [Sov. J. Nucl. Phys.]
-Zeitschrift für Physik A Hadrons and Nuclei;Z. Phys. A: Hadrons Nucl.
 Zeitschrift für Analytische Chemie;Z. Anal. Chem.
 Zeitschrift für Angewandte Physik;Z. Angew. Phys.
 Zeitschrift für Anorganische und Allgemeine Chemie;Z. Anorg. Allg. Chem.
 Zeitschrift für Astrophysik;Z. Astrophys.
 Zeitschrift für Elektrochemie;Z. Elektrochem.
 Zeitschrift für Kristallographie, Kristallgeometrie, Kristallphysik, Kristallchemie;Z. Kristallogr. Kristallgeom. Kristallphys. Kristallchem.
-Zeitschrift für Kristallographie;Z. Für Krist.
-Zeitschrift für Kristallographie;Z. für Krist.
+Zeitschrift für Kristallographie;Z. Krist.
 Zeitschrift für Metallkunde;Z. Metallkd.
 Zeitschrift für Naturforschung, Teil A: Physik, Physikalische Chemie, Kosmophysik;Z. Naturforsch. Teil A
 Zeitschrift für Naturforschung;Z. Naturforsch.
-Zeitschrift für Physik A: Atoms and Nuclei;Z. Phys. A
-Zeitschrift für Physik B Condensed Matter and Quanta;Z. Phys. B Condens. Matter Quanta
-Zeitschrift für Physik B Condensed Matter;Z. Phys. B Condens. Matter
-Zeitschrift für Physik B: Condensed Matter and Quanta;Z. Phys. B
-Zeitschrift für Physik C: Particles and Fields;Z. Phys. C
-Zeitschrift für Physik;Z. Für Phys.
-Zeitschrift für Physik;Z. für Phys.
+Zeitschrift für Physik A: Atoms and Nuclei;Z. Phys. A: At. Nucl.
+Zeitschrift für Physik A;Z. Phys. A
+Zeitschrift für Physik B: Condensed Matter;Z. Phys. B: Condens. Matter
+Zeitschrift für Physik B: Condensed Matter and Quanta;Z. Phys. B: Condens. Matter Quanta
+Zeitschrift für Physik B;Z. Phys. B
+Zeitschrift für Physik C: Particles and Fields;Z. Phys. C: Part. Fields
+Zeitschrift für Physik C;Z. Phys. C
+Zeitschrift für Physik D: Atoms, Molecules and Clusters;Z. Phys. D: At. Mol. Clust.
+Zeitschrift für Physik D;Z. Phys. D
 Zeitschrift für Physik;Z. Phys.
 Zeitschrift für Physikalische Chemie, Abteilung A: Chemische Thermodynamik, Kinetik, Elektrochemie, Eigenschaftslehre;Z. Phys. Chem. Abt. A
 Zeitschrift für Physikalische Chemie, Abteilung B: Chemie der Elementarprozesse, Aufbau der Materie;Z. Phys. Chem. Abt. B
 Zeitschrift für Physikalische Chemie (Frankfurt am Main);Z. Phys. Chem. (Frankurt am Main)
 Zeitschrift für Physikalische Chemie (Leipzig);Z. Phys. Chem. (Leipzig)
 Zeitschrift für Physikalisch–Chemische Materialforschung;Z. Phys. Chem. Materialforsch.
+Zhurnal Éksperimentalnoi i Teoreticheskoi Fiziki;Zh. Eksp. Teor. Fiz
 Zhurnal Eksperimentalnoi i Teoreticheskoi Fiziki [Soviet Physics–JETP];Zh. Eksp. Teor. Fiz. [Sov. Phys. JETP]
 Zhurnal Fizicheskoi Khimii [Russian Journal of Physical Chemistry];Zh. Fiz. Khim. [Russ. J. Phys. Chem.]
 Zhurnal Prikladnoi Spektroskopii [Journal of Applied Spectroscopy (USSR)];Zh. Prikl. Spektrosk. [J. Appl. Spectrosc. (USSR)]
