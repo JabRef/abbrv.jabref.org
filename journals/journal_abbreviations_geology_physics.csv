@@ -188,7 +188,7 @@ Chinese Astronomy and Astrophysics;Chin. Astron. Astrophy
 Chinese Journal of Aeronautics;Chin. J. Aeronaut.
 Chinese Journal of Astronomy and Astrophysics;Chin. J. Astron. Astrophys.
 Chinese Journal of Geochemistry;Chin. J. Geochem.
-Chinese Journal of Physics [translation of Wuli Xuebao (Acta Physica Sinica)];Chin. J. Phys.
+Chinese Journal of Physics;Chin. J. Phys.
 Chinese Physics B;Chin. Phys. B
 Chinese Physics C;Chin. Phys. C
 Chinese Physics Letters;Chin. Phys. Lett.
@@ -243,7 +243,17 @@ Doklady Akademii Nauk SSSR [Soviet Physics–Doklady];Dokl. Akad. Nauk SSSR [Sov
 ECS Electrochemistry Letters;ECS Electrochem. Lett.
 ECS Journal of Solid State Science and Technology;ECS J. Solid State Sci. Technol.
 ECS Transactions;ECS Trans.
-EPL (Europhysics Letters);EPL
+EPJ Applied Metamaterials;EPJ Appl. Metamater.
+EPJ Data Science;EPJ Data Sci.
+EPJ Nuclear Sciences and Technologies;EPJ Nucl. Sci. Technol.
+EPJ Nonlinear Biomedical Physics;EPJ Nonlinear Biomed. Phys.
+EPJ Photovoltaics;EPJ Photovolt.
+EPJ Plus;EPJ Plus
+EPJ Quantum Technology;EPJ Quantum Technol.
+EPJ Special Topics;EPJ Special Topics
+EPJ Techniques and Instrumentation;EPJ Tech. Instrum.
+EPJ Web of Conferences;EPJ Web Conf.
+EPL (Europhysics Letters);EPL (Europhys. Lett.)
 e-Journal of Surface Science and Nanotechnology;E-J. Surf. Sci. Nanotechnol.
 Earth Planets Space [formerly Journal of Geomagnetism and Geoelectricity];Earth Planets Space
 Earth Science Frontiers;Earth Sci. Front.
@@ -264,23 +274,6 @@ European Journal of Mechanics - B/Fluids;Eur. J. Mech. B. Fluids
 European Journal of Mineralogy;Eur. J. Mineral.
 European Journal of Phycology;Eur. J. Phycol.
 European Journal of Physics;Eur. J. Phys.
-European Physical Journal A: Hadrons and Nuclei;Eur. Phys. J. A
-European Physical Journal AM: Applied Metamaterials;Eur. Phys. J. AM
-European Physical Journal AP: Applied Physics;Eur. Phys. J. AP
-European Physical Journal B: Condensed Matter and Complex Systems;Eur. Phys. J. B
-European Physical Journal C: Particles and Fields;Eur. Phys. J. C
-European Physical Journal D: Atomic, Molecular, Optical and Plasma Physics;Eur. Phys. J. D
-European Physical Journal DS: Data Science;Eur. Phys. J. DS
-European Physical Journal E: Soft Matter and Biological Physics;Eur. Phys. J. E
-European Physical Journal H: Historical Perspectives on Contemporary Physics;Eur. Phys. J. H
-European Physical Journal N: Nuclear Sciences and Technologies;Eur. Phys. J. N
-European Physical Journal NBP: Nonlinear Biomedical Physics;Eur. Phys. J. NBP
-European Physical Journal Plus;Eur. Phys. J. Plus
-European Physical Journal PV: Photovoltaics;Eur. Phys. J. PV
-European Physical Journal QT: Quantum Technology;Eur. Phys. J. QT
-European Physical Journal ST: Special Topics;Eur. Phys. J. ST
-European Physical Journal TI: Techniques and Instrumentation;Eur. Phys. J. TI
-European Physical Journal WOC: Web of Conferences;Eur. Phys. J. WOC
 Europhysics Letters;Europhys. Lett.
 Experimental Astronomy;Exp. Astron.
 Experimental Heat Transfer;Exp. Heat Transfer
@@ -534,7 +527,7 @@ Izvestiya Physics of the Solid Earth;Izv. Phys. Solid Earth
 Izvestiya Vysshikh Uchebnykh Zavedenii, Fizika [Soviet Physics Journal];Izv. Vyssh. Uchebn. Zavad. Fiz. [Sov. Phys. J.]
 Izvestiya Vysshikh Uchebnykh Zavedenii, Radiofizika [Soviet Radiophysics];Izv. Vyssh. Uchebn. Zaved. Radiofiz. [Sov. Radiophys.]
 Izvestiya: Mathematics;Izv. Math.
-JETP Letters [translation of Pisma v Zhurnal Eksperimentalnoi i Teoreticheskoi Fiziki];JETP Lett.
+JETP Letters;JETP Lett.
 Jahrbuch Oberflachentechnik;Jahrb. Oberflachentech.
 Japanese Journal of Applied Physics, Part 1;Jpn. J. Appl. Phys., Part 1
 Japanese Journal of Applied Physics, Part 2: Letters and Express Letters;Jpn. J. Appl. Phys. Part 2 Lett. Express Lett.
@@ -1187,9 +1180,13 @@ The Astrophysical Journal Letters;Astrophys. J. Lett.
 The Astrophysical Journal Supplement Series;Astrophys. J. Suppl. Ser.
 The Astrophysical Journal;Astrophys. J.
 The Electrochemical Society Interface;Electrochem. Soc. Interface
+The European Physical Journal A;Eur. Phys. J. A
+The European Physical Journal AP;Eur. Phys. J. AP
+The European Physical Journal B;Eur. Phys. J. B
+The European Physical Journal C;Eur. Phys. J. C
+The European Physical Journal D;Eur. Phys. J. D
+The European Physical Journal E;Eur. Phys. J. E
 The European Physical Journal H;Eur. Phys. J. H
-The European Physical Journal Plus;Eur. Phys. J. Plus
-The European Physical Journal Special Topics;Eur. Phys. J. Special Topics
 The Journal of Chemical Physics;J. Chem. Phys.
 The London, Edinburgh and Dublin philosophical magazine and journal of science;Lond. Edinb. Dublin Philos. Mag. J. Sci.
 The Planetary Science Journal;Planet. Sci. J.
