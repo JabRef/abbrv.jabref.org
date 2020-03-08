@@ -1,10 +1,12 @@
 ACS Applied Materials & Interfaces;ACS Appl. Mater. Interfaces
+ACS Applied Nano Materials;ACS Appl. Nano Mater.
 ACS Biomaterials Science & Engineering;ACS Biomater. Sci. Eng.
 ACS Catalysis;ACS Catal.
 ACS Central Science;ACS Cent. Sci.
 ACS Chemical Biology;ACS Chem. Biol.
 ACS Chemical Neuroscience;ACS Chem. Neurosci.
 ACS Combinatorial Science;ACS Comb. Sci.
+ACS Energy Letters;ACS Energy Lett.
 ACS Infectious Diseases;ACS Infect. Dis.
 ACS Macro Letters;ACS Macro Lett.
 ACS Medicinal Chemistry Letters;ACS Med. Chem. Lett.
@@ -15,7 +17,6 @@ ACS Sustainable Chemistry & Engineering;ACS Sustainable Chem. Eng.
 ACS Symposium Series;ACS Symp. Ser.
 ACS Synthetic Biology;ACS Synth. Biol.
 AIChE Journal;AIChE J.
-APL Materials;APL Mater.
 ARKIVOC (Gainesville, FL, United States);ARKIVOC (Gainesville, FL, U. S.)
 Accounts of Chemical Research;Acc. Chem. Res.
 Acta Biochimica Polonica;Acta Biochim. Pol.
@@ -39,7 +40,9 @@ Advanced Electronic Materials;Adv. Electron. Mater.
 Advanced Energy Materials;Adv. Energy Mater.
 Advanced Functional Materials;Adv. Funct. Mater.
 Advanced Healthcare Materials;Adv. Healthcare Mater.
+Advanced Materials;Adv. Mater.
 Advanced Materials (Weinheim, Germany);Adv. Mater. (Weinheim, Ger.)
+Advances Materials Technologies;Adv. Mat. Technol.
 Advanced Optical Materials;Adv. Opt. Mater.
 Advanced Synthesis & Catalysis;Adv. Synth. Catal.
 Advances in Applied Ceramics;Adv. Appl. Ceram.
@@ -75,7 +78,6 @@ Annales Pharmaceutiques Francaises;Ann. Pharm. Fr.
 Annales de Chimie (Cachan, France);Ann. Chim. (Cachan, Fr.)
 Annals of Nuclear Energy;Ann. Nucl. Energy
 Annals of Nutrition & Metabolism;Ann. Nutr. Metab.
-Annals of Physics (Amsterdam, Netherlands);Ann. Phys. (Amsterdam, Neth.)
 Annals of Plastic Surgery;Ann. Plast. Surg.
 Annual Review of Biochemistry;Annu. Rev. Biochem.
 Annual Review of Biomedical Engineering;Annu. Rev. Biomed. Eng.
@@ -863,7 +865,7 @@ Journal of Chemical Ecology;J. Chem. Ecol.
 Journal of Chemical Education;J. Chem. Educ.
 Journal of Chemical Engineering of Japan;J. Chem. Eng. Jpn.
 Journal of Chemical Information and Modeling;J. Chem. Inf. Model.
-Journal of Chemical Physics;J. Chem. Phys.
+The Journal of Chemical Physics;J. Chem. Phys.
 Journal of Chemical Research;J. Chem. Res.
 Journal of Chemical Sciences (Berlin, Germany);J. Chem. Sci. (Berlin, Ger.)
 Journal of Chemical Technology and Biotechnology;J. Chem. Technol. Biotechnol.
@@ -1015,7 +1017,6 @@ Journal of Physical Chemistry C;J. Phys. Chem. C
 Journal of Physical Chemistry Letters;J. Phys. Chem. Lett.
 Journal of Physical Organic Chemistry;J. Phys. Org. Chem.
 Journal of Physical and Chemical Reference Data;J. Phys. Chem. Ref. Data
-Journal of Physics B: Atomic, Molecular and Optical Physics;J. Phys. B: At., Mol. Opt. Phys.
 Journal of Physics D: Applied Physics;J. Phys. D: Appl. Phys.
 Journal of Physics G: Nuclear and Particle Physics;J. Phys. G: Nucl. Part. Phys.
 Journal of Physics and Chemistry of Solids;J. Phys. Chem. Solids
@@ -1249,7 +1250,10 @@ Mutation Research, Genetic Toxicology and Environmental Mutagenesis;Mutat. Res.,
 Mutation Research, Reviews in Mutation Research;Mutat. Res., Rev. Mutat. Res.
 Nano;Nano
 Nano Energy;Nano Energy
+Nano Express;Nano Express
+Nano Futures;Nano Futures
 Nano Letters;Nano Lett.
+Nano Research;Nano Res.
 Nano Science and Nano Technology: An Indian Journal;Nano Sci. Nano Technol.: Indian J.
 Nanomaterials;Nanomaterials
 Nanomedicine (London, United Kingdom);Nanomedicine (London, U. K.)
@@ -1261,12 +1265,14 @@ Natural Product Sciences;Nat. Prod. Sci.
 Natural Products Journal;Nat. Prod. J.
 Nature (London, United Kingdom);Nature (London, U. K.)
 Nature Biotechnology;Nat. Biotechnol.
+Nature Catalysis;Nat. Catal.
 Nature Cell Biology;Nat. Cell Biol.
 Nature Chemical Biology;Nat. Chem. Biol.
 Nature Chemistry;Nat. Chem.
 Nature Communications;Nat. Commun.
 Nature Genetics;Nat. Genet.
 Nature Geoscience;Nat. Geosci.
+Nature Energy;Nat. Energy
 Nature Immunology;Nat. Immunol.
 Nature Materials;Nat. Mater.
 Nature Medicine (New York, NY, United States);Nat. Med. (N. Y., NY, U. S.)
@@ -1280,6 +1286,7 @@ Nature Reviews Cancer;Nat. Rev. Cancer
 Nature Reviews Drug Discovery;Nat. Rev. Drug Discovery
 Nature Reviews Genetics;Nat. Rev. Genet.
 Nature Reviews Immunology;Nat. Rev. Immunol.
+Nature Reviews Materials;Nat. Rev. Mater.
 Nature Reviews Microbiology;Nat. Rev. Microbiol.
 Nature Reviews Molecular Cell Biology;Nat. Rev. Mol. Cell Biol.
 Nature Reviews Neuroscience;Nat. Rev. Neurosci.
@@ -1381,9 +1388,13 @@ Physica C: Superconductivity and Its Applications (Amsterdam, Netherlands);Phys.
 Physica Scripta;Phys. Scr.
 Physica Scripta, T;Phys. Scr., T
 Physica Status Solidi A: Applications and Materials Science;Phys. Status Solidi A
+physica status solidi (a);Phys. Status Solidi B
 Physica Status Solidi B: Basic Solid State Physics;Phys. Status Solidi B
+physica status solidi (b);Phys. Status Solidi C
 Physica Status Solidi C: Current Topics in Solid State Physics;Phys. Status Solidi C
+physica status solidi (c);Phys. Status Solidi C
 Physica Status Solidi RRL: Rapid Research Letters;Phys. Status Solidi RRL
+physica status solidi (RRL) – Rapid Research Letters;Phys. Status Solidi RRL
 Physical Chemistry Chemical Physics;Phys. Chem. Chem. Phys.
 Physical Review A: Atomic, Molecular, and Optical Physics;Phys. Rev. A: At., Mol., Opt. Phys.
 Physical Review Applied;Phys. Rev. Appl.
