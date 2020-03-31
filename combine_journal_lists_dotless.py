@@ -20,7 +20,7 @@ import_order = [
   'journals/journal_abbreviations_medicus.csv',
 ]
 
-out_file = 'journalList_dotless.csv'
+out_file = sys.argv[1]
 
 journal_dict = {}
 
