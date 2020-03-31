@@ -27,7 +27,11 @@ import_order = [
   'journals/journal_abbreviations_general.csv',
 ]
 
-out_file = 'journalList_dots.csv'
+if len(sys.argv) == 1:
+    out_file = 'journalList_dots.csv'
+else:
+   out_file = sys.argv[1]
+print(f"Writing : {out_file}")
 
 journal_dict = {}
 
