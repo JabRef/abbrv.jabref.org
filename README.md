@@ -25,4 +25,4 @@ To set up these lists, choose Options -> Manage journal abbreviations.
 See <https://docs.jabref.org/fields/journalabbreviations> for an extensive documentation.
 
 At each release of JabRef, all available journal lists are combined into one and made available to the users.
-For more inforamtion see https://app.gitbook.com/@jabref/s/jabref/~/drafts/-LwFEP7BAMSOI10uPlmB/fields/journalabbreviations
+For more information see https://app.gitbook.com/@jabref/s/jabref/~/drafts/-LwFEP7BAMSOI10uPlmB/fields/journalabbreviations
