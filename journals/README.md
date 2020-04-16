@@ -2,7 +2,7 @@
 
 * [General](journal_abbreviations_general.csv)
 * [American Chemical Society](journal_abbreviations_acs.csv) by J. Gutow
-* [American Mathematical Society](journal_abbreviations_ams.csv) by Tzu-Hao Wei.
+* [American Mathematical Society](journal_abbreviations_ams.csv) by Tzu-Hao Wei, minor additions by Matthias Mayr.
 * [Année philologique](journal_abbreviations_annee-philologique.csv) by Domenico Cufalo. _Note: provides non-ISO abbreviations only._
 * [Astronomy](https://raw.githubusercontent.com/timstaley/jabref-astro-abbreviations/master/MNRAS_abbreviations.txt) by Tim Staley. _Note: Please contribute using [github](https://github.com/timstaley/jabref-astro-abbreviations)._
 * [Deutsches Archäologisches Institut](journal_abbreviations_dainst.csv) by [Lukas C. Bossert](http://digitales-altertum.de). _Note: provides non-ISO abbreviations only._
