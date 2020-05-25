@@ -8,7 +8,7 @@
 * [Deutsches Archäologisches Institut](journal_abbreviations_dainst.csv) by [Lukas C. Bossert](http://digitales-altertum.de). _Note: provides non-ISO abbreviations only._
 * [Economics](https://raw.github.com/jrnold/jabref-econ-journal-abbrevs/master/aea-abbrevs.txt) by Jeff Arnold (as as posted on the AEA website).
 * [Entrez](journal_abbreviations_entrez.csv) by Emmanuel Charpentier. _Note: provides Medline (dotless) abbr. only._
-* [Geology and Physics](journal_abbreviations_geology_physics.csv) by an [anonymous user](https://sourceforge.net/p/jabref/patches/164/).
+* [Geology and Physics](journal_abbreviations_geology_physics.csv) by an [anonymous user](https://sourceforge.net/p/jabref/patches/164/) and Jonas Lähnemann.
 * [IEEE](journal_abbreviations_ieee.csv) by Thomas Arildsen and “eyliu”.
 * [Index Medicus](journal_abbreviations_medicus.csv) by Guy Tsafnat. _Note: provides Medline (dotless) abbr. only._
 * [ISI Web of Science (with dots)](journal_abbreviations_webofscience-dots.csv) by Alistair Auffret.
