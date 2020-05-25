@@ -17,10 +17,11 @@ import sys
 
 import_order = [
   'journals/journal_abbreviations_acs.csv',
+  'journals/journal_abbreviations_mathematics.csv',
   'journals/journal_abbreviations_ams.csv',
   'journals/journal_abbreviations_geology_physics.csv',
+  'journals/journal_abbreviations_ieee.csv',
   'journals/journal_abbreviations_lifescience.csv',
-  'journals/journal_abbreviations_mathematics.csv',
   'journals/journal_abbreviations_mechanical.csv',
   'journals/journal_abbreviations_meteorology.csv',
   'journals/journal_abbreviations_sociology.csv',
