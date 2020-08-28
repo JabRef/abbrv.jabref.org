@@ -6,10 +6,6 @@ on:
       - master
   pull_request:
     # always run on pull requests
-  schedule:
-    # External links have to be checked regularly
-    # Run on the first of each month at 9:00 AM (See https://pubs.opengroup.org/onlinepubs/9699919799/utilities/crontab.html#tag_20_25_07)
-    - cron: "0 9 1 * *"
 jobs:
   markdown-check:
     name: Check markdown
@@ -21,10 +17,3 @@ jobs:
         uses: avto-dev/markdown-lint@v1
         with:
           config: '.markdownlint.yml'
-      - name: Check links
-        uses: gaurav-nelson/github-action-markdown-link-check@v1
-        with:
-          use-quiet-mode: 'yes'
-          use-verbose-mode: 'no'
-          config-file: 'mlc_config.json'
-        
