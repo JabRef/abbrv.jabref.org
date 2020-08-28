@@ -1,0 +1,27 @@
+name: Tests
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    # always run on pull requests
+
+jobs:
+  markdown-check:
+    name: Check markdown
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v2
+      - name: Lint markdown
+        uses: avto-dev/markdown-lint@v1
+        with:
+          config: '.markdownlint.yml'
+      - name: Check links
+        - uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          use-quiet-mode: 'yes'
+          use-verbose-mode: 'no'
+          config-file: 'mlc_config.json'
+        
