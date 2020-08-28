@@ -11,7 +11,7 @@ Since October 2019, the data files are in CSV format (using semicolons as separa
 <full name>;<abbreviation>[;<shortest unique abbreviation>[;<frequency>]]
 ```
 
-The abbreviation should follow the ISO4 standard, see <https://marcinwrochna.github.io/abbrevIso/> for details on the abbreviation rules and a search form for title word abbreviations. 
+The abbreviation should follow the ISO4 standard, see <https://marcinwrochna.github.io/abbrevIso/> for details on the abbreviation rules and a search form for title word abbreviations.
 The last two fields are optional, and you can safely omit them.
 JabRef supports the third field, which contains the "shortest unique abbreviation".
 The last field is not currently used; its intention is to give publication frequency (e.g., `M` for monthly).
