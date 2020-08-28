@@ -7,7 +7,9 @@ Currently, a number of [journal lists](journals/) are offered.
 
 Since October 2019, the data files are in CSV format (using semicolons as separators):
 
-    <full name>;<abbreviation>[;<shortest unique abbreviation>[;<frequency>]]
+ ```csv
+<full name>;<abbreviation>[;<shortest unique abbreviation>[;<frequency>]]
+```
 
 The abbreviation should follow the ISO4 standard, see <https://marcinwrochna.github.io/abbrevIso/> for details on the abbreviation rules and a search form for title word abbreviations. 
 The last two fields are optional, and you can safely omit them.
@@ -16,7 +18,9 @@ The last field is not currently used; its intention is to give publication frequ
 
 For instance:
 
-    Accounts of Chemical Research;Acc. Chem. Res.;ACHRE4;M
+```csv
+Accounts of Chemical Research;Acc. Chem. Res.;ACHRE4;M
+```
 
 *If you want to **add a list or submit corrections**, see the [contribution guidelines](CONTRIBUTING.md).*
 
@@ -28,6 +32,7 @@ To set up these lists, choose Options -> Manage journal abbreviations.
 See <https://docs.jabref.org/fields/journalabbreviations> for an extensive documentation.
 
 At each release of JabRef, the available journal lists are combined into two lists that are made available to the users:
+
 * ``journalList.csv`` - contains all lists that follow the ISO4 standard with dots (currently ``acs``, ``ams``, ``geology_physics``, ``mathematics``, ``mechanical``, ``meteorology``, ``sociology``, and ``general``)
 * ``journalList_dotless.csv`` - contains all lists that follow the ISO4 standard without dots (currently ``entrez`` and ``medicus``)
 
