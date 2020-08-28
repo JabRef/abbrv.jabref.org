@@ -1,6 +1,6 @@
 # Abbreviations
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A repository of abbreviations for references, e.g., for conferences, journals, institutes, etc.
@@ -52,6 +52,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/jlaehne"><img src="https://avatars1.githubusercontent.com/u/7076057?v=4" width="100px;" alt=""/><br /><sub><b>Jonas Lähnemann</b></sub></a><br /><a href="#content-jlaehne" title="Content">🖋</a> <a href="https://github.com/JabRef/abbrv.jabref.org/commits?author=jlaehne" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/dominicelse"><img src="https://avatars0.githubusercontent.com/u/17165189?v=4" width="100px;" alt=""/><br /><sub><b>dominicelse</b></sub></a><br /><a href="#content-dominicelse" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/wolfgang-noichl"><img src="https://avatars0.githubusercontent.com/u/294780?v=4" width="100px;" alt=""/><br /><sub><b>Wolfgang Noichl</b></sub></a><br /><a href="#content-wolfgang-noichl" title="Content">🖋</a></td>
   </tr>
 </table>
 
