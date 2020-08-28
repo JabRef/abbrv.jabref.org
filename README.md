@@ -1,4 +1,7 @@
 # Abbreviations
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A repository of abbreviations for references, e.g., for conferences, journals, institutes, etc.
 Currently, a number of [journal lists](journals/) are offered.
@@ -37,3 +40,22 @@ At each release of JabRef, the available journal lists are combined into two lis
 * ``journalList_dotless.csv`` - contains all lists that follow the ISO4 standard without dots (currently ``entrez`` and ``medicus``)
 
 In case of duplicate appearances in the journal lists, the last occuring abbreviation is chosen.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/jlaehne"><img src="https://avatars1.githubusercontent.com/u/7076057?v=4" width="100px;" alt=""/><br /><sub><b>Jonas Lähnemann</b></sub></a><br /><a href="https://github.com/JabRef/abbrv.jabref.org/commits?author=jlaehne" title="Documentation">📖</a> <a href="https://github.com/JabRef/abbrv.jabref.org/commits?author=jlaehne" title="Tests">⚠️</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
