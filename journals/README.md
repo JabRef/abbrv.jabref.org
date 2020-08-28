@@ -19,4 +19,4 @@
 * [Meteorology](journal_abbreviations_meteorology.csv) by Thijs Heus.
 * [Sociology](journal_abbreviations_sociology.csv) by Ronggui Huang.
 
-*For importing TXT data files, you should use [this script](../convert_txt2csv.py) before.*
+*If you want to **add a list or submit corrections**, see the [contribution guidelines](../CONTRIBUTING.md). For importing TXT data files, you should use [this script](../convert_txt2csv.py) before.*

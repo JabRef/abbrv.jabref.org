@@ -18,6 +18,8 @@ For instance:
 
     Accounts of Chemical Research;Acc. Chem. Res.;ACHRE4;M
 
+*If you want to **add a list or submit corrections**, see the [contribution guidelines](CONTRIBUTING.md).*
+
 ## Relation to JabRef
 
 JabRef can help you refactor your reference list by automatically abbreviating or unabbreviating journal names.
