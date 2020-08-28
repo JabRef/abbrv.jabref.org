@@ -6,7 +6,10 @@ on:
       - master
   pull_request:
     # always run on pull requests
-
+  schedule:
+    # External links have to be checked regularly
+    # Run on the first of each month at 9:00 AM (See https://pubs.opengroup.org/onlinepubs/9699919799/utilities/crontab.html#tag_20_25_07)
+    - cron: "0 9 1 * *"
 jobs:
   markdown-check:
     name: Check markdown
