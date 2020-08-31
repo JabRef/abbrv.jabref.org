@@ -17,7 +17,7 @@ With a little extra effort you can directly edit one of the journal abbreviation
 5. Create a pull request for your changes.
 6. You should now find it in the list of [pull requests](https://github.com/JabRef/abbrv.jabref.org/pulls).
 
-**Note:** For use in JabRef, the topical lists are merged alphabetically with preference given to the last occurence of duplicate journal titles. The general list currently overrides all other lists. Also, an abbreviation might be present in several lists. If you are submitting a correction, check if it exists in several lists due to overlapping subjects or in the general list and make sure all occurences are corrected.*
+**Note:** *For use in JabRef, the topical lists are merged alphabetically with preference given to the last occurence of duplicate journal titles. The general list currently overrides all other lists. Also, an abbreviation might be present in several lists. If you are submitting a correction, check if it exists in several lists due to overlapping subjects or in the general list and make sure all occurences are corrected.*
 
 ## Adding a journal list
 
