@@ -4,7 +4,8 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A repository of abbreviations for references, e.g., for conferences, journals, institutes, etc.
-Currently, a number of [journal lists](journals/) are offered.
+
+Currently, a number of **[journal lists](journals/)** are offered.
 
 ## Format of the file
 
