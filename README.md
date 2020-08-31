@@ -42,6 +42,18 @@ At each release of JabRef, the available journal lists are combined into two lis
 
 In case of duplicate appearances in the journal lists, the last occuring abbreviation is chosen.
 
+## Other projects
+
+### abbrevIso
+
+- Homepage: https://github.com/marcinwrochna/abbrevIso
+- Frontend: https://marcinwrochna.github.io/abbrevIso/
+- API: https://tools.wmflabs.org/abbreviso/
+
+It takes the official list of ISO4 abbreviations of single words, plus the general rules defined in the ISO4 specifications to deduce the abbreviation for any journal name you input. 
+
+Could be an alternative or complementary (when missing in the lists) approach to abbreviate journal names. But of course, it does not handle unabbreviation, for which there is no alternative to lists. It can also be a way to check the consistency of existing lists and it might make sense to link to the frontend on the abbrv.jabref website, so that people who want to add abbreviations can check for the correct one.
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
