@@ -1,4 +1,0 @@
-language: bash
-
-script:
-    - ./check.sh
