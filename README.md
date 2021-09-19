@@ -46,31 +46,10 @@ In case of duplicate appearances in the journal lists, the last occuring abbrevi
 
 ### abbrevIso
 
-- Homepage: https://github.com/marcinwrochna/abbrevIso
-- Frontend: https://marcinwrochna.github.io/abbrevIso/
-- API: https://tools.wmflabs.org/abbreviso/
+* Homepage: <https://github.com/marcinwrochna/abbrevIso>
+* Frontend: <https://marcinwrochna.github.io/abbrevIso/>
+* API: <https://tools.wmflabs.org/abbreviso/>
 
 It takes the official list of ISO4 abbreviations of single words, plus the general rules defined in the ISO4 specifications to deduce the abbreviation for any journal name you input. 
 
 Could be an alternative or complementary (when missing in the lists) approach to abbreviate journal names. But of course, it does not handle unabbreviation, for which there is no alternative to lists. It can also be a way to check the consistency of existing lists and it might make sense to link to the frontend on the abbrv.jabref website, so that people who want to add abbreviations can check for the correct one.
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/jlaehne"><img src="https://avatars1.githubusercontent.com/u/7076057?v=4" width="100px;" alt=""/><br /><sub><b>Jonas Lähnemann</b></sub></a><br /><a href="#content-jlaehne" title="Content">🖋</a> <a href="https://github.com/JabRef/abbrv.jabref.org/commits?author=jlaehne" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/dominicelse"><img src="https://avatars0.githubusercontent.com/u/17165189?v=4" width="100px;" alt=""/><br /><sub><b>dominicelse</b></sub></a><br /><a href="#content-dominicelse" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/wolfgang-noichl"><img src="https://avatars0.githubusercontent.com/u/294780?v=4" width="100px;" alt=""/><br /><sub><b>Wolfgang Noichl</b></sub></a><br /><a href="#content-wolfgang-noichl" title="Content">🖋</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
