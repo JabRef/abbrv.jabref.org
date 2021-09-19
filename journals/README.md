@@ -13,7 +13,7 @@
 * [Index Medicus](journal_abbreviations_medicus.csv) by Guy Tsafnat. _Note: provides Medline (dotless) abbr. only._
 * [ISI Web of Science (with dots)](journal_abbreviations_webofscience-dots.csv) by Alistair Auffret.
 * [ISI Web of Science (dotless)](journal_abbreviations_webofscience.csv) by Alistair Auffret.
-* [Journal Citation Reports](journal_abbreviations_jcr.csv) by Billy Moon.
+* [Journal Citation Reports](journal_abbreviations_jcr.csv) from [Journal Citation Reports](https://jcr.clarivate.com/JCRLandingPageAction.action).
 * [Life Science](journal_abbreviations_lifescience.csv) by Zé Roberto Ribeiro.
 * [Mathematics](journal_abbreviations_mathematics.csv) from [MathSciNet](https://mathscinet.ams.org/msnhtml/annser.csv).
 * [Mechanical and biomechanical](journal_abbreviations_mechanical.csv) by an [anonymous user](https://sourceforge.net/p/jabref/patches/151/).
