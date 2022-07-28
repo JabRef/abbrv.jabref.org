@@ -33,7 +33,7 @@ Accounts of Chemical Research;Acc. Chem. Res.;ACHRE4;M
 JabRef can help you refactor your reference list by automatically abbreviating or unabbreviating journal names.
 This requires that you keep one or more lists of journal names and their respective abbreviations.
 To set up these lists, choose Options -> Manage journal abbreviations.
-See <https://docs.jabref.org/fields/journalabbreviations> for an extensive documentation.
+See [https://docs.jabref.org/advanced/journalabbreviations](https://docs.jabref.org/advanced/journalabbreviations) for an extensive documentation.
 
 At each release of JabRef, the available journal lists are combined into two lists that are made available to the users:
 
