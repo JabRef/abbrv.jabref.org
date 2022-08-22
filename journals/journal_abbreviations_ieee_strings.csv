@@ -110,6 +110,7 @@ IEEE Transactions on Airborne Electronics;#IEEE_J_AIRE#
 IEEE Transactions on Antennas and Propagation;#IEEE_J_AP#
 IEEE Transactions on Applications and Industry;#IEEE_J_APPIND#
 IEEE Transactions on Applied Superconductivity;#IEEE_J_ASC#
+IEEE Transactions on Artificial Intelligence;#IEEE_J_AI#
 IEEE Transactions on Audio;#IEEE_J_AU#
 IEEE Transactions on Audio and Electroacoustics;#IEEE_J_AUEA#
 IEEE Transactions on Audio, Speech, and Language Processing;#IEEE_J_ASL#
@@ -123,6 +124,7 @@ IEEE Transactions on Biomedical Circuits and Systems;#IEEE_J_BCAS#
 IEEE Transactions on Biomedical Engineering;#IEEE_J_BME#
 IEEE Transactions on Broadcast and Television Receivers;#IEEE_J_BCTV#
 IEEE Transactions on Broadcasting;#IEEE_J_BC#
+IEEE Transactions on Cable Television;#IEEE_J_CATV#
 IEEE Transactions on Circuit Theory;#IEEE_J_CT#
 IEEE Transactions on Circuits and Systems;#IEEE_J_CAS#
 IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications;#IEEE_J_CASI#
@@ -135,6 +137,7 @@ IEEE Transactions on Cognitive Communications and Networking;#IEEE_J_CCN#
 IEEE Transactions on Cognitive and Developmental Systems;#IEEE_J_CDS#
 IEEE Transactions on Communication Technology;#IEEE_J_COMT#
 IEEE Transactions on Communications;#IEEE_J_COM#
+IEEE Transactions on Communications Systems;#IEEE_J_COMS#
 IEEE Transactions on Component Parts;#IEEE_J_CPART#
 IEEE Transactions on Components and Packaging Technologies;#IEEE_J_CAPTS#
 IEEE Transactions on Components and Packaging Technology;#IEEE_J_CAPT#
@@ -143,6 +146,7 @@ IEEE Transactions on Components, Packaging and Manufacturing Technology;#IEEE_J_
 IEEE Transactions on Components, Packaging and Manufacturing Technology A;#IEEE_J_CPMTA#
 IEEE Transactions on Components, Packaging and Manufacturing Technology B: Advanced Packaging;#IEEE_J_CPMTB#
 IEEE Transactions on Components, Packaging and Manufacturing Technology C: Manufacturing;#IEEE_J_CPMTC#
+IEEE Transactions on Computational Imaging;#IEEE_J_CI#
 IEEE Transactions on Computational Intelligence and AI in Games;#IEEE_J_CIAIG#
 IEEE Transactions on Computational Social Systems;#IEEE_J_CSS#
 IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems;#IEEE_J_CAD#
@@ -160,6 +164,7 @@ IEEE Transactions on Electromagnetic Compatibility;#IEEE_J_EMC#
 IEEE Transactions on Electron Devices;#IEEE_J_ED#
 IEEE Transactions on Electronic Computers;#IEEE_J_ECOMP#
 IEEE Transactions on Electronics Packaging Manufacturing;#IEEE_J_EPM#
+IEEE Transactions on Emerging Topics in Computiational Intelligence;#IEEE_J_ETCI#
 IEEE Transactions on Emerging Topics in Computing;#IEEE_J_ETC#
 IEEE Transactions on Emerging and Selected Topics in Circuits and Systems;#IEEE_J_ETCAS#
 IEEE Transactions on Emerging and Selected Topics in Power Electronics;#IEEE_J_ESTPE#
@@ -170,6 +175,7 @@ IEEE Transactions on Evolutionary Computation;#IEEE_J_EVC#
 IEEE Transactions on Fuzzy Systems;#IEEE_J_FUZZ#
 IEEE Transactions on Geoscience Electronics;#IEEE_J_GE#
 IEEE Transactions on Geoscience and Remote Sensing;#IEEE_J_GRS#
+IEEE Transactions on Green Communications and Networking;#IEEE_J_GCN#
 IEEE Transactions on Haptics;#IEEE_J_H#
 IEEE Transactions on Human Factors in Electronics;#IEEE_J_HFE#
 IEEE Transactions on Human-Machine Systems;#IEEE_J_HMS#
@@ -192,6 +198,7 @@ IEEE Transactions on Man-Machine Systems;#IEEE_J_MMS#
 IEEE Transactions on Manufacturing Technology;#IEEE_J_MFT#
 IEEE Transactions on Medical Electronics;#IEEE_J_ME#
 IEEE Transactions on Medical Imaging;#IEEE_J_MI#
+IEEE Transactions on Medical Robotics and Bionics;#IEEE_J_MRB#
 IEEE Transactions on Microwave Theory and Techniques;#IEEE_J_MTT#
 IEEE Transactions on Military Electronics;#IEEE_J_MIL#
 IEEE Transactions on Mobile Computing;#IEEE_J_MC#
@@ -216,19 +223,24 @@ IEEE Transactions on Power Delivery;#IEEE_J_PWRD#
 IEEE Transactions on Power Electronics;#IEEE_J_PWRE#
 IEEE Transactions on Power Systems;#IEEE_J_PWRS#
 IEEE Transactions on Professional Communication;#IEEE_J_PC#
+IEEE Transactions on Quantum Engineering;#IEEE_J_QE#
 IEEE Transactions on Radio Frequency Interference;#IEEE_J_RFI#
 IEEE Transactions on Rehabilitation Engineering;#IEEE_J_RE#
 IEEE Transactions on Reliability;#IEEE_J_R#
 IEEE Transactions on Robotics;#IEEE_J_RO#
 IEEE Transactions on Robotics and Automation;#IEEE_J_RA#
 IEEE Transactions on Semiconductor Manufacturing;#IEEE_J_SM#
+IEEE Transactions on Semiconductor Technology Modeling and Simulation;#IEEE_J_STMS#
 IEEE Transactions on Services Computing;#IEEE_J_SC#
 IEEE Transactions on Signal Processing;#IEEE_J_SP#
 IEEE Transactions on Signal and Information Processing over Networks;#IEEE_J_SIPN#
+IEEE Transactions on Signal and Power Integrity;#IEEE_J_SIPI#
 IEEE Transactions on Smart Grid;#IEEE_J_SG#
 IEEE Transactions on Software Engineering;#IEEE_J_SE#
 IEEE Transactions on Sonics and Ultrasonics;#IEEE_J_SU#
+IEEE Transactions on Space Electronics and Telemetry;#IEEE_J_SET#
 IEEE Transactions on Speech and Audio Processing;#IEEE_J_SAP#
+IEEE Transactions on Sustainable Computing;#IEEE_J_SUSC#
 IEEE Transactions on Sustainable Energy;#IEEE_J_STE#
 IEEE Transactions on Systems Science and Cybernetics;#IEEE_J_SSC#
 IEEE Transactions on Systems, Man, and Cybernetics;#IEEE_J_SMC#
@@ -236,6 +248,7 @@ IEEE Transactions on Systems, Man, and Cybernetics A: Systems and Humans;#IEEE_J
 IEEE Transactions on Systems, Man, and Cybernetics B: Cybernetics;#IEEE_J_SMCB#
 IEEE Transactions on Systems, Man, and Cybernetics C: Applications and Reviews;#IEEE_J_SMCC#
 IEEE Transactions on Systems, Man, and Cybernetics: Systems;#IEEE_J_SMCS#
+IEEE Transactions on Technology and Society;#IEEE_J_TS#
 IEEE Transactions on Terahertz Science and Technology;#IEEE_J_TTHZ#
 IEEE Transactions on Transportation Electrification;#IEEE_J_TTE#
 IEEE Transactions on Ultrasonics Engineering;#IEEE_J_UE#
