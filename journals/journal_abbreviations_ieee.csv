@@ -112,6 +112,7 @@ IEEE Transactions on Airborne Electronics;IEEE Trans. Airborne Electron.
 IEEE Transactions on Antennas and Propagation;IEEE Trans. Antennas Propag.
 IEEE Transactions on Applications and Industry;IEEE Trans. Appl. Ind.
 IEEE Transactions on Applied Superconductivity;IEEE Trans. Appl. Supercond.
+IEEE Transactions on Artificial Intelligence;IEEE Trans. Artif. Intell.
 IEEE Transactions on Audio;IEEE Trans. Audio
 IEEE Transactions on Audio and Electroacoustics;IEEE Trans. Audio Electroacoust.
 IEEE Transactions on Audio, Speech, and Language Processing;IEEE Audio, Speech, Language Process.
@@ -125,6 +126,7 @@ IEEE Transactions on Biomedical Circuits and Systems;IEEE Trans. Biomed. Circuit
 IEEE Transactions on Biomedical Engineering;IEEE Trans. Biomed. Eng.
 IEEE Transactions on Broadcast and Television Receivers;IEEE Trans. Broadcast Television Receivers
 IEEE Transactions on Broadcasting;IEEE Trans. Broadcast.
+IEEE Transactions on Cable Television;IEEE Trans. Cable Telev.
 IEEE Transactions on Circuit Theory;IEEE Trans. Circuit Theory
 IEEE Transactions on Circuits and Systems;IEEE Trans. Circuits Syst.
 IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications;IEEE Trans. Circuits Syst. I
@@ -137,6 +139,7 @@ IEEE Transactions on Cognitive Communications and Networking;IEEE Trans. on Cogn
 IEEE Transactions on Cognitive and Developmental Systems;IEEE Trans. Cogn. Develop. Syst.
 IEEE Transactions on Communication Technology;IEEE Trans. Commun. Technol.
 IEEE Transactions on Communications;IEEE Trans. Commun.
+IEEE Transactions on Communications Systems;IEEE Trans. Commun. Syst.
 IEEE Transactions on Component Parts;IEEE Trans. Compon. Parts
 IEEE Transactions on Components and Packaging Technologies;IEEE Trans. Compon. Packag. Technol.
 IEEE Transactions on Components and Packaging Technology;IEEE Trans. Compon. Packag. Technol.
@@ -145,6 +148,7 @@ IEEE Transactions on Components, Packaging and Manufacturing Technology;IEEE Tra
 IEEE Transactions on Components, Packaging and Manufacturing Technology A;IEEE Trans. Compon., Packag., Manuf. Technol. A
 IEEE Transactions on Components, Packaging and Manufacturing Technology B: Advanced Packaging;IEEE Trans. Compon., Packag., Manuf. Technol. B
 IEEE Transactions on Components, Packaging and Manufacturing Technology C: Manufacturing;IEEE Trans. Compon., Packag., Manuf. Technol. C
+IEEE Transactions on Computational Imaging;IEEE Trans. Comput. Imaging
 IEEE Transactions on Computational Intelligence and AI in Games;IEEE Trans. Comput. Intell. AI in Games
 IEEE Transactions on Computational Social Systems;IEEE Trans. Comput. Social Syst.
 IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems;IEEE Trans. Comput.-Aided Design Integr. Circuits Syst.
@@ -163,6 +167,7 @@ IEEE Transactions on Electron Devices;IEEE Trans. Electron Devices
 IEEE Transactions on Electronic Computers;IEEE Trans. Electron. Comput.
 IEEE Transactions on Electronics Packaging Manufacturing;IEEE Trans. Electron. Packag. Manuf.
 IEEE Transactions on Emerging Topics in Computing;IEEE Trans. Emerg. Topics Comput.
+IEEE Transactions on Emerging Topics in Computational Intelligence; IEE Trans. Emerg. Topics Comput. Intell.
 IEEE Transactions on Emerging and Selected Topics in Circuits and Systems;IEEE Trans. Emerg. Sel. Topics Circuits Syst.
 IEEE Transactions on Emerging and Selected Topics in Power Electronics;IEEE Trans. Emerg. Sel. Topics Power Electron.
 IEEE Transactions on Energy Conversion;IEEE Trans. Energy Convers.
@@ -172,6 +177,7 @@ IEEE Transactions on Evolutionary Computation;IEEE Trans. Evol. Comput.
 IEEE Transactions on Fuzzy Systems;IEEE Trans. Fuzzy Syst.
 IEEE Transactions on Geoscience Electronics;IEEE Trans. Geosci. Electron.
 IEEE Transactions on Geoscience and Remote Sensing;IEEE Trans. Geosci. Remote Sens.
+IEEE Transactions on Green Communications and Networking;IEEE Trans. Green Commun. Netw.
 IEEE Transactions on Haptics;IEEE Trans. Haptics
 IEEE Transactions on Human Factors in Electronics;IEEE Trans. Hum. Factors Electron.
 IEEE Transactions on Human-Machine Systems;IEEE Trans. Human-Mach. Syst.
@@ -194,6 +200,7 @@ IEEE Transactions on Man-Machine Systems;IEEE Trans. Man-Mach. Syst.
 IEEE Transactions on Manufacturing Technology;IEEE Trans. Manuf. Technol.
 IEEE Transactions on Medical Electronics;IEEE Trans. Med. Electron.
 IEEE Transactions on Medical Imaging;IEEE Trans. Med. Imag.
+IEEE Transactions on Medical Robotics and Bionics; IEEE. Trans. Med. Robot. Bionics
 IEEE Transactions on Microwave Theory and Techniques;IEEE Trans. Microw. Theory Techn.
 IEEE Transactions on Military Electronics;IEEE Trans. Mil. Electron.
 IEEE Transactions on Mobile Computing;IEEE Trans. Mobile Comput.
@@ -218,19 +225,24 @@ IEEE Transactions on Power Delivery;IEEE Trans. Power Del.
 IEEE Transactions on Power Electronics;IEEE Trans. Power Electron.
 IEEE Transactions on Power Systems;IEEE Trans. Power Syst.
 IEEE Transactions on Professional Communication;IEEE Trans. Prof. Commun.
+IEEE Transactions on Quantum Engineering;IEEE Trans. Quantum Eng.
 IEEE Transactions on Radio Frequency Interference;IEEE Trans. Radio Freq. Interference
 IEEE Transactions on Rehabilitation Engineering;IEEE Trans. Rehabil. Eng.
 IEEE Transactions on Reliability;IEEE Trans. Rel.
 IEEE Transactions on Robotics;IEEE Trans. Robot.
 IEEE Transactions on Robotics and Automation;IEEE Trans. Robot. Autom.
 IEEE Transactions on Semiconductor Manufacturing;IEEE Trans. Semicond. Manuf.
+IEEE Transactions on Semiconductor Technology Modeling and Simulation;IEEE Trans. Semicond. Technol. Model. Simul.
 IEEE Transactions on Services Computing;IEEE Trans. Serv. Comput.
 IEEE Transactions on Signal Processing;IEEE Trans. Signal Process.
 IEEE Transactions on Signal and Information Processing over Networks;IEEE Trans. Signal Inf. Process. Netw.
+IEEE Transactions on Signal and Power Integrity;IEEE Trans. Signal Power Integr.
 IEEE Transactions on Smart Grid;IEEE Trans. Smart Grid
 IEEE Transactions on Software Engineering;IEEE Trans. Softw. Eng.
 IEEE Transactions on Sonics and Ultrasonics;IEEE Trans. Sonics Ultrason.
+IEEE Transactions on Space Electronics and Telemetry;IEEE Trans. Space Electron. Telem.
 IEEE Transactions on Speech and Audio Processing;IEEE Trans. Speech Audio Process.
+IEEE Transactions on Sustainable Computing;IEEE Trans. Sustain. Comput.
 IEEE Transactions on Sustainable Energy;IEEE Trans. Sustain. Energy
 IEEE Transactions on Systems Science and Cybernetics;IEEE Trans. Syst. Sci. Cybern.
 IEEE Transactions on Systems, Man, and Cybernetics;IEEE Trans. Syst., Man, Cybern.
@@ -238,6 +250,7 @@ IEEE Transactions on Systems, Man, and Cybernetics A: Systems and Humans;IEEE Tr
 IEEE Transactions on Systems, Man, and Cybernetics B: Cybernetics;IEEE Trans. Syst., Man, Cybern. B
 IEEE Transactions on Systems, Man, and Cybernetics C: Applications and Reviews;IEEE Trans. Syst., Man, Cybern. C
 IEEE Transactions on Systems, Man, and Cybernetics: Systems;IEEE Trans. Syst., Man, Cybern., Syst.
+IEEE Transactions on Technology and Society;IEEE Trans. Technol. Soc.
 IEEE Transactions on Terahertz Science and Technology;IEEE Trans. THz Sci. Technol.
 IEEE Transactions on Transportation Electrification;IEEE Trans. Transport. Electrific.
 IEEE Transactions on Ultrasonics Engineering;IEEE Trans. Ultrason. Eng.
