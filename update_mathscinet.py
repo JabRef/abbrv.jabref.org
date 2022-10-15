@@ -19,3 +19,4 @@ df = df[df["Full Title"].str.lower() != df["Abbrev"].str.lower()]
 
 # Save the end file in the same path as the old one
 df.to_csv(file_out, sep=";", escapechar="\\", index=False, header=False)
+
