@@ -8,7 +8,7 @@ on:
     # always run on pull requests
 jobs:
   markdown-check:
-    name: Check markdown
+    name: Check Markdown
     runs-on: ubuntu-latest
     steps:
       - name: Checkout source
@@ -18,3 +18,13 @@ jobs:
         with:
           config: './.markdownlint.yml'
           args: . 
+
+  ampersands-check:
+    name: Check Ampersands are Unescaped
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v2
+      - name: Run Python Ampersands Script
+        run: python3 check_ampersands.py
+      
