@@ -3,14 +3,11 @@
 All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [UNRELEASED]
-
 ## 2022-10
-
-Added Escaped Ampersands Checker
 
 ### Added
 
+- Added Escaped Ampersands Checker
 - check_ampersands.py which checks all csv journals in the journals folder to make
 sure all instances of ampersands are unescaped
 
@@ -24,6 +21,4 @@ sure all instances of ampersands are unescaped
 ## 2021-09
 
 Initial tagged release
-
-
 <!-- markdownlint-disable-file MD012 MD024 MD033 -->
