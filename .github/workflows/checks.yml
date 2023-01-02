@@ -25,4 +25,4 @@ jobs:
       - name: Checkout source
         uses: actions/checkout@v2
       - name: Run Python Ampersands Script
-        run: python3 check_ampersands.py
+        run: python3 scripts/check_ampersands.py
