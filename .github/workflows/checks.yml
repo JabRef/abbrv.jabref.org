@@ -1,7 +1,8 @@
 name: Checks
 
 on:
-  push
+  - push
+  - pull_request
 jobs:
   markdown-check:
     name: Check Markdown
