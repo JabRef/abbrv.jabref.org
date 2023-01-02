@@ -4,13 +4,13 @@
 | -- | -- | -- | -- |
 | General | [`journal_abbreviations_general.csv`](journal_abbreviations_general.csv) | | |
 | American Chemical Society | [`journal_abbreviations_acs.csv`](journal_abbreviations_acs.csv) | J. Gutow |
+| American Economic Association | [`journal_abbreviations_aea.csv`](journal_abbreviations_aea.csv) | Jeff Arnold (as posted on the [AEA website](https://www.aeaweb.org/)) | [Source](https://raw.github.com/jrnold/jabref-econ-journal-abbrevs/master/aea-abbrevs.txt). [GitHub](https://github.com/jrnold/jabref-econ-journal-abbrevs/). |
 | American Mathematical Society | [`journal_abbreviations_ams.csv`](journal_abbreviations_ams.csv) | Tzu-Hao Wei, minor additions by Matthias Mayr. |
 | Année philologique | [`journal_abbreviations_annee-philologique.csv`](journal_abbreviations_annee-philologique.csv) | Domenico Cufalo | Provides non-ISO abbreviations only. |
-| Astronomy | | Tim Staley | [Source](https://raw.githubusercontent.com/timstaley/jabref-astro-abbreviations/master/MNRAS_abbreviations.txt). Please contribute using [GitHub](https://github.com/timstaley/jabref-astro-abbreviations). |
+| Astronomy | [`journal_abbreviations_astronomy.csv`](journal_abbreviations_astronomy.csv) | Tim Staley | [Source](https://raw.githubusercontent.com/timstaley/jabref-astro-abbreviations/master/MNRAS_abbreviations.txt). Please contribute using [GitHub](https://github.com/timstaley/jabref-astro-abbreviations). |
 | Deutsches Archäologisches Institut | [`journal_abbreviations_dainst.csv`](journal_abbreviations_dainst.csv) | [Lukas C. Bossert](http://digitales-altertum.de). _Note: provides non-ISO abbreviations only._ |
-| Economics | | Jeff Arnold (as as posted on the AEA website) | <https://raw.github.com/jrnold/jabref-econ-journal-abbrevs/master/aea-abbrevs.txt> |
 | Entrez | [`journal_abbreviations_entrez.csv`](journal_abbreviations_entrez.csv) | Emmanuel Charpentier | Provides Medline (dotless) abbreviations only. |
-| Geology and Physics | [`journal_abbreviations_geology_physics.csv`](journal_abbreviations_geology_physics.csv) | an [anonymous user](https://sourceforge.net/p/jabref/patches/164/) and Jonas Lähnemann. |
+| Geology and Physics | [`journal_abbreviations_geology_physics.csv`](journal_abbreviations_geology_physics.csv) | [anonymous user](https://sourceforge.net/p/jabref/patches/164/) and Jonas Lähnemann. |
 | IEEE | [`journal_abbreviations_ieee.csv`](journal_abbreviations_ieee.csv) | Thomas Arildsen and “eyliu” | |
 | Index Medicus | [`journal_abbreviations_medicus.csv`](journal_abbreviations_medicus.csv) | Guy Tsafnat | Provides Medline (dotless) abbreviations only. |
 | ISI Web of Science (with dots) | [`journal_abbreviations_webofscience-dots.csv`](journal_abbreviations_webofscience-dots.csv) | Alistair Auffret | |
