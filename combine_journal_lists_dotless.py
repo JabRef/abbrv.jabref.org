@@ -18,7 +18,7 @@ import sys
 import_order = [
   'journals/journal_abbreviations_entrez.csv',
   'journals/journal_abbreviations_medicus.csv',
-  'journals/journal_abbreviations_webofscience-dots.csv'
+  'journals/journal_abbreviations_webofscience-dotless.csv'
 ]
 
 if len(sys.argv) == 1:
