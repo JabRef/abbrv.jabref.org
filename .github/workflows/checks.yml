@@ -1,11 +1,7 @@
 name: Checks
 
 on:
-  push:
-    branches:
-      - main
-  pull_request:
-    # always run on pull requests
+  push
 jobs:
   markdown-check:
     name: Check Markdown
