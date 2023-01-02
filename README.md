@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-A repository of abbreviations for references, e.g., for conferences, journals, institutes, etc.
+A repository of abbreviations for references, e.g., for conferences, journals, and institutes.
 
 Currently, a number of **[journal lists](journals/)** are offered.
 
@@ -26,6 +26,8 @@ For instance:
 Accounts of Chemical Research;Acc. Chem. Res.;ACHRE4;M
 ```
 
+The list should follow the ISO4 standard with dots.
+
 *If you want to **add a list or submit corrections**, see the [contribution guidelines](CONTRIBUTING.md).*
 
 ## Relation to JabRef
@@ -33,23 +35,17 @@ Accounts of Chemical Research;Acc. Chem. Res.;ACHRE4;M
 JabRef can help you refactor your reference list by automatically abbreviating or unabbreviating journal names.
 This requires that you keep one or more lists of journal names and their respective abbreviations.
 To set up these lists, choose Options -> Manage journal abbreviations.
-See [https://docs.jabref.org/advanced/journalabbreviations](https://docs.jabref.org/advanced/journalabbreviations) for an extensive documentation.
+See <https://docs.jabref.org/advanced/journalabbreviations> for an extensive documentation.
 
-At each release of JabRef, the available journal lists are combined into two lists that are made available to the users:
-
-* ``journalList.csv`` - contains all lists that follow the ISO4 standard with dots (currently ``acs``, ``ams``, ``geology_physics``, ``mathematics``, ``mechanical``, ``meteorology``, ``sociology``, and ``general``)
-* ``journalList_dotless.csv`` - contains all lists that follow the ISO4 standard without dots (currently ``entrez`` and ``medicus``)
-
-In case of duplicate appearances in the journal lists, the last occuring abbreviation is chosen.
+At each release of JabRef all available journal lists using dots [are combined](https://github.com/JabRef/jabref/blob/main/.github/workflows/refresh-journal-lists.yml) and made available to the users.
+In case of duplicate appearances in the journal lists, the last occurring abbreviation is chosen.
 
 ## Other projects
 
 ### abbrevIso
 
-* Homepage: <https://github.com/marcinwrochna/abbrevIso>
-* Frontend: <https://marcinwrochna.github.io/abbrevIso/>
-* API: <https://tools.wmflabs.org/abbreviso/>
-
+[`abbrevIso`](https://marcinwrochna.github.io/abbrevIso/) is an online service abbreviation a single journal title by using heuristics.
 It takes the official list of ISO4 abbreviations of single words, plus the general rules defined in the ISO4 specifications to deduce the abbreviation for any journal name you input.
+However, it does not handle unabbreviation, for which there is no alternative to lists.
 
-Could be an alternative or complementary (when missing in the lists) approach to abbreviate journal names. But of course, it does not handle unabbreviation, for which there is no alternative to lists. It can also be a way to check the consistency of existing lists and it might make sense to link to the frontend on the abbrv.jabref website, so that people who want to add abbreviations can check for the correct one.
+Its source is available at <https://github.com/marcinwrochna/abbrevIso> and the API at <https://tools.wmflabs.org/abbreviso/>.
