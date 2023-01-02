@@ -1,5 +1,7 @@
-"30$\sp {\rm o}$ Coloquio Brasileiro de Matematica";"30$\sp {\rm o}$ Coloq. Bras. Mat."
-"31$\sp {\rm o}$ Coloquio Brasileiro de Matematica";"31$\sp {\rm o}$ Coloq. Bras. Mat."
+30$\\sp {\\rm o}$ Coloquio Brasileiro de Matematica;30$\\sp {\\rm o}$ Coloq. Bras. Mat.
+31$\\sp {\\rm o}$ Coloquio Brasileiro de Matematica;31$\\sp {\\rm o}$ Coloq. Bras. Mat.
+32 $\\sp {\\rm o}$ Coloquio Brasileiro de Matematica;32 $\\sp {\\rm o}$ Coloq. Bras. Mat.
+33 $\\sp {\\rm o}$ Coloquio Brasileiro de Matematica;33 $\\sp {\\rm o}$ Coloq. Bras. Mat.
 4OR. A Quarterly Journal of Operations Research;4OR
 A Chartwell-Bratt Student Text;Chartwell-Bratt Student Text
 A Comprehensive Course in Analysis;Compr. Course Anal.
@@ -17,16 +19,21 @@ ACM Transactions on Computational Logic;ACM Trans. Comput. Log.
 ACM Transactions on Database Systems;ACM Trans. Database Syst.
 ACM Transactions on Economics and Computation;ACM Trans. Econ. Comput.
 ACM Transactions on Modeling and Computer Simulation;ACM Trans. Model. Comput. Simul.
+ACM Transactions on Parallel Computing;ACM Trans. Parallel Comput.
+ACM Transactions on Quantum Computing;ACM Trans. Quantum Comput.
 ACTEX Academic Series;ACTEX Acad. Ser.
 ACTEX Professional Series;ACTEX Prof. Ser.
 AFIPS Conference Proceedings;AFIPS Conf. Proc.
 AI Communications. The European Journal on Artificial Intelligence;AI Commun.
+AIMS Mathematics;AIMS Math.
 AIMS Series on Applied Mathematics;AIMS Ser. Appl. Math.
 AIMS Series on Differential Equations & Dynamical Systems;AIMS Ser. Differ. Equ. Dyn. Syst.
 AIMS Series on Random and Computational Dynamics;AIMS Ser. Random Comput. Dyn.
 AIRO Springer Series;AIRO Springer Ser.
+AK Peters/CRC Recreational Mathematics Series;AK Peters/CRC Recreat. Math. Ser.
 AKCE International Journal of Graphs and Combinatorics;AKCE Int. J. Graphs Comb.
 ALEA. Latin American Journal of Probability and Mathematical Statistics;ALEA Lat. Am. J. Probab. Math. Stat.
+AMS/MAA Problem Books Series;AMS/MAA Probl. Books Ser.
 AMS/MAA Spectrum;AMS/MAA Spectr.
 AMS/MAA Textbooks;AMS/MAA Textb.
 APPS. Applied Sciences;Appl. Sci.
@@ -42,6 +49,7 @@ Abhandlungen der Akademie der Wissenschaften zu Gottingen. Neue Folge;Abh. Akad.
 Abhandlungen der Sachsischen Akademie der Wissenschaften zu Leipzig. Mathematisch-Naturwissenschaftliche Klasse;Abh. Sachs. Akad. Wiss. Leipzig Math.-Nat.wiss. Kl.
 Abhandlungen zur Philosophie und ihrer Geschichte;Abh. Philos. Gesch.
 Abstract and Applied Analysis;Abstr. Appl. Anal.
+Academia Brasileira de Filosofia;Acad. Bras. Filos.
 Academia Colombiana de Ciencias Exactas, Fisicas y Naturales. Revista;Rev. Acad. Colombiana Cienc. Exact. Fis. Natur.
 Academia Romana. Memoriile Sectiilor Stiintifice. Seria IV. Memoirs of the Scientific Sections. Romanian Academy. Series IV;Mem. Sect. Stiint. Acad. Romana Ser. IV
 Academiae Scientiarum Fennicae. Annales. Mathematica. Dissertationes;Ann. Acad. Sci. Fenn. Math. Diss.
@@ -59,9 +67,11 @@ Acta Cybernetica;Acta Cybernet.
 Acta Informatica;Acta Inform.
 Acta Mathematica;Acta Math.
 Acta Mathematica Hungarica;Acta Math. Hungar.
+Acta Mathematica Scientia. Series A. Shuxue Wuli Xuebao. Chinese Edition;Acta Math. Sci. Ser. A (Chinese Ed.)
 Acta Mathematica Scientia. Series A. Shuxue Wuli Xuebao. Chinese Edition;Acta Math. Sci. Ser. A (Chin. Ed.)
 Acta Mathematica Scientia. Series B. English Edition;Acta Math. Sci. Ser. B (Engl. Ed.)
 Acta Mathematica Sinica (English Series);Acta Math. Sin. (Engl. Ser.)
+Acta Mathematica Sinica. Chinese Series;Acta Math. Sinica (Chinese Ser.)
 Acta Mathematica Sinica. Chinese Series;Acta Math. Sinica (Chin. Ser.)
 Acta Mathematica Universitatis Comenianae. New Series;Acta Math. Univ. Comenian. (N.S.)
 Acta Mathematica Vietnamica;Acta Math. Vietnam.
@@ -72,6 +82,7 @@ Acta Mechanica;Acta Mech.
 Acta Mechanica Sinica;Acta Mech. Sin.
 Acta Numerica;Acta Numer.
 Acta Scientiarum Naturalium Universitatis Sunyatseni. Zhongshan Daxue Xuebao. Ziran Kexue Ban;Acta Sci. Natur. Univ. Sunyatseni
+Acta Scientiarum Naturalium Universitatis Sunyatseni. Zhongshan Daxue Xuebao. Ziran Kexue Ban. (Zheng Ying Wen);Acta Sci. Natur. Univ. Sunyatseni
 Acta Technica;Acta Tech.
 Acta Universitatis Apulensis. Mathematics. Informatics;Acta Univ. Apulensis Math. Inform.
 Acta Universitatis Matthiae Belii. Series Mathematics;Acta Univ. M. Belii Ser. Math.
@@ -99,23 +110,28 @@ Advanced Series in Nonlinear Dynamics;Adv. Ser. Nonlinear Dynam.
 Advanced Series on Directions in High Energy Physics;Adv. Ser. Dir. High Energy Phys.
 Advanced Series on Mathematical Psychology;Adv. Ser. Math. Psychol.
 Advanced Series on Statistical Science & Applied Probability;Adv. Ser. Stat. Sci. Appl. Probab.
+Advanced Series on Theoretical Physical Science;Adv. Ser. Theoret. Phys. Sci.
 Advanced Structured Materials;Adv. Struct. Mater.
 Advanced Studies in Pure Mathematics;Adv. Stud. Pure Math.
 Advanced Studies in Theoretical and Applied Econometrics;Adv. Stud. Theoret. Appl. Econometrics
+Advanced Studies. Euro-Tbilisi Mathematical Journal;Adv. Stud. Euro-Tbil. Math. J.
 Advanced Textbooks in Control and Signal Processing;Adv. Textb. Control Signal Process.
 Advanced Textbooks in Mathematics;Adv. Textb. Math.
+Advanced Textbooks in Physics;Adv. Textb. Phys.
 Advanced Texts in Econometrics;Adv. Texts Econometrics
 Advanced Topics in Mechanical Engineering Series;Adv. Topics Mech. Engrg. Ser.
 Advances and Applications in Mathematical Sciences;Adv. Appl. Math. Sci.
 Advances and Applications in Statistical Sciences;Adv. Appl. Stat. Sci.
 Advances in Analysis and Geometry;Adv. Anal. Geom.
 Advances in Applied Clifford Algebras;Adv. Appl. Clifford Algebr.
-Advances in Applied Mathematics;Adv. in Appl. Math.
 Advances in Applied Mathematics;Adv. Appl. Math.
+Advances in Applied Mathematics;Adv. in Appl. Math.
 Advances in Applied Mathematics and Mechanics;Adv. Appl. Math. Mech.
 Advances in Applied Probability;Adv. in Appl. Probab.
 Advances in CAD for VLSI;Adv. CAD VLSI
 Advances in Calculus of Variations;Adv. Calc. Var.
+Advances in Cognitive Neurodynamics;Adv. Cogn. Neurodyn.
+Advances in Combinatorics;Adv. Comb.
 Advances in Complex Systems. A Multidisciplinary Journal;Adv. Complex Syst.
 Advances in Computational Fluid Dynamics;Adv. Comput. Fluid Dyn.
 Advances in Computational Intelligence and Robotics (ACIR) Book Series;Adv. Comput. Intell. Robot. ACIR Book Ser.
@@ -124,7 +140,10 @@ Advances in Computational Mathematics;Adv. Comput. Math.
 Advances in Computer Science and Technology;Adv. Comput. Sci. Technol.
 Advances in Computer Vision and Pattern Recognition;Adv. Comput. Vis. Pattern Recognit.
 Advances in Computer and Electrical Engineering (ACEE) Book Series;Adv. Comput. Electr. Eng. (ACEE) Book Ser.
+Advances in Continuous and Discrete Models. Theory and Modern Applications;Adv. Contin. Discrete Models
+Advances in Continuum Mechanics;Adv. Contin. Mech.
 Advances in Data Analysis and Classification. ADAC;Adv. Data Anal. Classif.
+Advances in Data Analysis and Classification. ADAC. Theory, Methods, and Applications in Data Science;Adv. Data Anal. Classif.
 Advances in Data Science and Adaptive Analysis;Adv. Data Sci. Adapt. Anal.
 Advances in Decision Sciences;Adv. Decis. Sci.
 Advances in Delays and Dynamics;Adv. Delays Dyn.
@@ -133,6 +152,7 @@ Advances in Difference Equations;Adv. Difference Equ.
 Advances in Differential Equations;Adv. Differential Equations
 Advances in Dynamical Systems and Applications;Adv. Dyn. Syst. Appl.
 Advances in Econometrics;Adv. Econom.
+Advances in Evolution Equations;Adv. Evol. Equ.
 Advances in Experimental Medicine and Biology;Adv. Exp. Med. Biol.
 Advances in Experimental Philosophy;Adv. Exp. Philos.
 Advances in Finance, Accounting, and Economics (AFAE) Book Series;Adv. Finance Account. Econ. (AFAE) Book Ser.
@@ -144,6 +164,7 @@ Advances in Group Theory and Applications;Adv. Group Theory Appl.
 Advances in High Energy Physics;Adv. High Energy Phys.
 Advances in Image Communication;Adv. Image Comm.
 Advances in Industrial Control;Adv. Ind. Control
+Advances in Information Security;Adv. Inf. Secur.
 Advances in Intelligent Systems and Computing;Adv. Intell. Syst. Comput.
 Advances in Japanese Business and Economics;Adv. Jpn. Bus. Econ.
 Advances in Mathematical Economics;Adv. Math. Econ.
@@ -170,6 +191,7 @@ Advances in Spatial Science;Adv. Spat. Sci.
 Advances in Theoretical and Mathematical Physics;Adv. Theor. Math. Phys.
 Advances in the Mathematical Sciences;Adv. Math. Sci.
 Aequationes Mathematicae;Aequationes Math.
+Aerospace Series;Aerosp. Ser.
 Afdeling Informatica;Afd. Inform.
 Afdeling Numerieke Wiskunde;Afd. Numer. Wisk.
 Africa Mathematics Annals. AFMA. A Pan African Journal of Mathematics;Afr. Math. Ann. AFMA
@@ -189,6 +211,7 @@ Algebra i Logika. Institut Diskretnoi Matematiki i Informatiki;Algebra Logika
 Algebraic & Geometric Topology;Algebr. Geom. Topol.
 Algebraic Combinatorics;Algebr. Comb.
 Algebraic Geometry;Algebr. Geom.
+Algebraic Statistics;Algebr. Stat.
 Algebras and Representation Theory;Algebr. Represent. Theory
 Algorithmica. An International Journal in Computer Science;Algorithmica
 Algorithms and Combinatorics;Algorithms Combin.
@@ -207,6 +230,7 @@ An Advanced Course in Nuclear Engineering;Adv. Course Nucl. Eng.
 An International Journal of Optimization and Control. Theories & Applications. IJOCTA;Int. J. Optim. Control. Theor. Appl. IJOCTA
 Anais da Academia Brasileira de Ciencias. Annals of the Brazilian Academy of Sciences;An. Acad. Brasil. Cienc.
 Analele Stiintifice ale Universitatii ``Al. I. Cuza'' din Iasi. Serie Noua. Matematica. Annals of the Alexandru Cuza University. Mathematics;An. Stiint. Univ. Al. I. Cuza Iasi. Mat. (N.S.)
+"Analele Stiintifice ale Universitatii ``Al. I. Cuza'' din Iasi. Serie Noua. Matematica. Annals of the ``Alexandru Ioan Cuza University. New Series. Mathematics""";An. Stiint. Univ. Al. I. Cuza Iasi. Mat. (N.S.)
 Analele Stiintifice ale Universitatii ``Ovidius'' Constanta. Seria Matematica. Mathematical Journal of the Ovidius University of Constantza;An. Stiint. Univ. ``Ovidius'' Constanta Ser. Mat.
 Analele Universitatii Bucuresti. Informatica;An. Univ. Bucur. Inform.
 Analele Universitatii Spiru Haret. Seria Matematica-Informatica. Annals of Spiru Haret University. Mathematics-Informatics Series;An. Univ. Spiru Haret. Ser. Mat.-Inform.
@@ -224,11 +248,13 @@ Analysis and Mathematical Physics;Anal. Math. Phys.
 Analysis in Theory and Applications;Anal. Theory Appl.
 Analysis, Geometry and Number Theory. An International Journal;Anal. Geom. Number Theory
 Analysis. International Mathematical Journal of Analysis and its Applications;Analysis (Berlin)
+Analytic Philosophy;Anal. Philos.
 Analytical Methods for Social Research;Anal. Methods Soc. Res.
 Analytical Spectroscopy Library;Anal. Spectrosc. Lib.
 Ancient Mediterranean and Medieval Texts and Contexts;Anc. Mediterr. Mediev. Texts Contexts
 Annalen der Physik;Ann. Phys.
 Annales Academiae Scientiarum Fennicae. Mathematica;Ann. Acad. Sci. Fenn. Math.
+Annales Fennici Mathematici;Ann. Fenn. Math.
 Annales Henri Lebesgue;Ann. H. Lebesgue
 Annales Henri Poincare. A Journal of Theoretical and Mathematical Physics;Ann. Henri Poincare
 Annales Mathematicae Silesianae;Ann. Math. Sil.
@@ -242,6 +268,7 @@ Annales Universitatis Paedagogicae Cracoviensis. Studia Mathematica;Ann. Univ. P
 Annales Universitatis Scientiarum Budapestinensis de Rolando Eotvos Nominatae. Sectio Computatorica;Ann. Univ. Sci. Budapest. Sect. Comput.
 Annales Universitatis Scientiarum Budapestinensis de Rolando Eotvos Nominatae. Sectio Mathematica;Ann. Univ. Sci. Budapest. Eotvos Sect. Math.
 Annales de l'I.S.U.P.;Ann. I.S.U.P.
+Annales de l'Institut Henri Poincare C. Analyse Non Lineaire;Ann. Inst. H. Poincare C Anal. Non Lineaire
 Annales de l'Institut Henri Poincare D. Combinatorics, Physics and their Interactions;Ann. Inst. Henri Poincare D
 Annales de l'Institut Henri Poincare Probabilites et Statistiques;Ann. Inst. Henri Poincare Probab. Stat.
 Annales de l'Institut Henri Poincare. Analyse Non Lineaire;Ann. Inst. H. Poincare Anal. Non Lineaire
@@ -267,6 +294,7 @@ Annals of Physics;Ann. Physics
 Annals of Pure and Applied Logic;Ann. Pure Appl. Logic
 Annals of Science;Ann. of Sci.
 Annals of the Academy of Romanian Scientists. Series on Mathematics and its Applications;Ann. Acad. Rom. Sci. Ser. Math. Appl.
+Annals of the Canadian Society for History and Philosophy of Mathematics/Societe Canadienne d'Histoire et de Philosophie des Mathematiques;Ann. Can. Soc. Hist. Philos. Math./Soc. Can. Hist. Philos. Math.
 Annals of the Institute of Statistical Mathematics;Ann. Inst. Statist. Math.
 Annals of the International Society of Dynamic Games;Ann. Internat. Soc. Dynam. Games
 Annals of the Japan Association for Philosophy of Science;Ann. Japan Assoc. Philos. Sci.
@@ -308,6 +336,7 @@ Applied Mathematics and Computation;Appl. Math. Comput.
 Applied Mathematics and Mechanics. English Edition;Appl. Math. Mech. (English Ed.)
 Applied Mathematics and Nonlinear Sciences;Appl. Math. Nonlinear Sci.
 Applied Mathematics and Optimization;Appl. Math. Optim.
+Applied Mathematics in Science and Engineering;Appl. Math. Sci. Eng.
 Applied Mathematics, Informatics and Mechanics;Appl. Math. Inform. Mech.
 Applied Mathematics. A Journal of Chinese Universities. Ser. B;Appl. Math. J. Chinese Univ. Ser. B
 Applied Mathematics. A Journal of Chinese Universities. Series A. Gaoxiao Yingyong Shuxue Xuebao;Appl. Math. J. Chinese Univ. Ser. A
@@ -328,6 +357,7 @@ Arab Journal of Mathematical Sciences;Arab J. Math. Sci.
 Arabian Journal of Mathematics;Arab. J. Math. (Springer)
 Arabic Sciences and Philosophy. A Historical Journal;Arabic Sci. Philos.
 Arbeitsberichte des Instituts fur Mathematische Maschinen und Datenverarbeitung, Band 15;Arbeitsber. Inst. Math. Masch. Datenverarb., Band 15
+Arbor Scientiarum: Beitrage zur Wissenschaftsgeschichte, Reihe A: Abhandlungen;Arbor Scientiarum: Beitrage Wissenschaftsgeschichte, Reihe A: Abhandlungen
 Archimedes: New Studies in the History and Philosophy of Science and Technology;Archimedes
 Archiv der Mathematik;Arch. Math. (Basel)
 Archive for History of Exact Sciences;Arch. Hist. Exact Sci.
@@ -343,6 +373,7 @@ Arne Ryde Memorial Lectures Series;Arne Ryde Meml. Lect. Ser.
 Arnold Applications of Statistics;Arnold Appl. Stat.
 Arnold Mathematical Journal;Arnold Math. J.
 Ars Combinatoria;Ars Combin.
+Ars Inveniendi Analytica;Ars Inven. Anal.
 Ars Mathematica Contemporanea;Ars Math. Contemp.
 Artech House Telecommunications Library;Artech House Telecommun. Libr.
 Artificial Intelligence: Foundations, Theory, and Algorithms;Artif. Intell. Found. Theory Algorithms
@@ -406,6 +437,7 @@ Banach Journal of Mathematical Analysis;Banach J. Math. Anal.
 Basics of;Basics
 Basiswissen Statistik fur Wirtschaftswissenschaftler;Basiswissen Statist. Wirtschaftswiss.
 Bayesian Analysis;Bayesian Anal.
+Behaviormetrics: Quantitative Approaches to Human Behavior;Behaviormetr. Quant. Approaches Hum. Behav.
 Beijing Daxue Xuebao. Ziran Kexue Ban. Acta Scientiarum Naturalium Universitatis Pekinensis;Beijing Daxue Xuebao Ziran Kexue Ban
 Beijing Shifan Daxue Xuebao. Ziran Kexue Ban. Journal of Beijing Normal University (Natural Science);Beijing Shifan Daxue Xuebao
 Beitrage Datenverarbeitung und Unternehmensforschung;Beitr. Datenverarb. Unternehmensforsch.
@@ -430,9 +462,12 @@ Biblioteka ``Znanie'';Bibl. ``Znanie''
 Biblioteka po Avtomatike;Bibl. Avtomat.
 Bibliothek des Technischen Allgemeinwissens;Bibl. Techn. Allgemeinwiss.
 Bibliotheque Scientifique;Bibl. Sci.
+Big Data Management;Big Data Manag.
+Big and Integrated Artificial Intelligence;Big Integr. Artif. Intell.
 Bihar Mathematical Society. Journal;J. Bihar Math. Soc.
 Biological Cybernetics;Biol. Cybernet.
 Biological and Medical Physics, Biomedical Engineering;Biol. Med. Phys. Biomed. Eng.
+Biologically-Inspired Systems;Biol.-Inspired Syst.
 Biomedizinische Technik;Biomed. Tech.
 Biometrical Journal;Biom. J.
 Biometrics. Journal of the International Biometric Society;Biometrics
@@ -473,6 +508,7 @@ Bulletin of International Mathematical Virtual Institute;Bull. Int. Math. Virtua
 Bulletin of Kerala Mathematics Association;Bull. Kerala Math. Assoc.
 Bulletin of Mathematical Analysis and Applications;Bull. Math. Anal. Appl.
 Bulletin of Mathematical Biology;Bull. Math. Biol.
+Bulletin of Mathematical Biology. A Journal Devoted to Research at the Interface of the Life and Mathematical Sciences;Bull. Math. Biol.
 Bulletin of Mathematical Sciences;Bull. Math. Sci.
 Bulletin of Nara University of Education. Natural Science;Bull. Nara Univ. Ed. Natur. Sci.
 Bulletin of Osaka Prefectural University College of Technology;Bull. Osaka Prefect. Univ. Coll. Technol.
@@ -498,6 +534,7 @@ Bulletin of the London Mathematical Society;Bull. Lond. Math. Soc.
 Bulletin of the Malaysian Mathematical Sciences Society;Bull. Malays. Math. Sci. Soc.
 Bulletin of the Polish Academy of Sciences. Mathematics;Bull. Pol. Acad. Sci. Math.
 Bulletin of the Russian Academy of Sciences. Physics;Bull. Russ. Acad. Sci. Phys.
+Bulletin of the Transilvania University of Brasov. Series III. Mathematics and Computer Science;Bull. Transilv. Univ. Brasov Ser. III. Math. Comput. Sci.
 Bulletin of the Transilvania University of Brasov. Series III. Mathematics, Informatics, Physics;Bull. Transilv. Univ. Brasov Ser. III
 Bulletin. Classe des Sciences Mathematiques et Naturelles. Sciences Mathematiques;Bull. Cl. Sci. Math. Nat. Sci. Math.
 Bulletin. Tbilisi International Centre of Mathematics and Informatics;Bull. TICMI
@@ -509,13 +546,16 @@ CEMPI Series;CEMPI Ser.
 CIM Series in Mathematical Sciences;CIM Ser. Math. Sci.
 CIRM Jean-Morlet Series;CIRM Jean-Morlet Ser.
 CISM International Centre for Mechanical Sciences. Courses and Lectures;CISM Courses and Lect.
+CMI Lecture Series in Mathematics;CMI Lect. Ser. Math.
 CMS Books in Mathematics/Ouvrages de Mathematiques de la SMC;CMS Books Math./Ouvrages Math. SMC
+CMS/CAIMS Books in Mathematics;CMS/CAIMS Books Math.
 CPSS Power Electronics Series;CPSS Power Electron. Ser.
 CRC Mathematical Modelling Series;CRC Math. Model. Ser.
 CRC Press/Chapman and Hall Handbooks in Mathematics Series;CRC Press/Chapman Hall Handb. Math. Ser.
 CRC Series in Applied and Computational Mechanics;CRC Ser. Applied Comput. Mech.
 CRM Monograph Series;CRM Monogr. Ser.
 CRM Series in Mathematical Physics;CRM Ser. Math. Phys.
+CSIAM Transactions on Applied Mathematics;CSIAM Trans. Appl. Math.
 CTM. Classical Topics in Mathematics;CTM. Class. Top. Math.
 Cadernos de Logica e Computacao;Cad. Log. Comput.
 Cadernos de Logica e Filosofia;Cad. Log. Filos.
@@ -529,9 +569,11 @@ Calcutta Mathematical Society. Review Bulletin;Rev. Bull. Calcutta Math. Soc.
 Calcutta Statistical Association Bulletin;Calcutta Stat. Assoc. Bull.
 Cambridge Aerospace Series;Camb. Aerosp. Ser.
 Cambridge Companions to Philosophy;Camb. Companions Philos.
+Cambridge Elements. Elements in Applied Category Theory;Cambridge Elem. Elem. Appl. Categ. Theory
 Cambridge Introductions to Philosophy;Camb. Introd. Philos.
 Cambridge Journal of Mathematics;Camb. J. Math.
 Cambridge Library Collection;Camb. Libr. Collect.
+Cambridge Mathematical Library;Cambridge Math. Lib.
 Cambridge Mathematical Textbooks;Cambridge Math. Textbooks
 Cambridge Monographs on Applied and Computational Mathematics;Cambridge Monogr. Appl. Comput. Math.
 Cambridge Monographs on Mathematical Physics;Cambridge Monogr. Math. Phys.
@@ -561,14 +603,15 @@ Caspian Journal of Mathematical Sciences;Casp. J. Math. Sci.
 Categories and General Algebraic Structures with Applications;Categ. Gen. Algebr. Struct. Appl.
 Celestial Mechanics & Dynamical Astronomy. An International Journal of Space Dynamics;Celestial Mech. Dynam. Astronom.
 Centaurus. An International Journal of the History of Science and its Cultural Aspects;Centaurus
+Centaurus. Journal of the European Society for the History of Science;Centaurus
 Central European Journal of Operations Research (CEJOR);CEJOR Cent. Eur. J. Oper. Res.
 Centre de Recherches Mathematiques Proceedings;Centre Rech. Math. Proc.
 Centro Internazionale Matematico Estivo (C.I.M.E.) Summer Schools;C.I.M.E. Summer Sch.
 Centro di Ricerca Matematica Ennio De Giorgi (CRM) Series;CRM Series
 Challenges and Advances in Computational Chemistry and Physics;Chall. Adv. Comput. Chem. Phys.
 Chamchuri Journal of Mathematics;Chamchuri J. Math.
-Chaos, Solitons & Fractals;Chaos Solitons Fractals
 Chaos, Solitons & Fractals;Chaos Soliton Fract.
+Chaos, Solitons & Fractals;Chaos Solitons Fractals
 Chaos. An Interdisciplinary Journal of Nonlinear Science;Chaos
 Chapman & Hall/CRC Big Data Series;Chapman & Hall/CRC Big Data Ser.
 Chapman & Hall/CRC Biostatistics Series;Chapman & Hall/CRC Biostat. Ser.
@@ -594,7 +637,9 @@ Chemometrics Research Studies Series;Chemometrics Res. Stud. Ser.
 Chicago Journal of Theoretical Computer Science;Chic. J. Theoret. Comput. Sci.
 Chilean Journal of Statistics;Chil. J. Stat.
 China Center of Advanced Science and Technology (World Laboratory) Symposium/Workshop Proceedings;China Center Adv. Sci. Tech. World Lab. Sympos. Workshop Proc.
+Chinese Annals of History of Science and Technology;Chinese Ann. Hist. Sci. Tech.
 Chinese Annals of Mathematics. Series A. Shuxue Niankan. A Ji;Chinese Ann. Math. Ser. A
+Chinese Annals of Mathematics. Series B;Chinese Ann. Math. Ser. B
 Chinese Annals of Mathematics. Series B;Chin. Ann. Math. Ser. B
 Chinese Journal of Applied Probability and Statistics. Yingyong Gailu Tongji;Chinese J. Appl. Probab. Statist.
 Chinese Journal of Computers. Jisuanji Xuebao;Chinese J. Comput.
@@ -608,6 +653,7 @@ Classic Texts in the Sciences;Class. Texts Sci.
 Classical and Quantum Gravity;Classical Quantum Gravity
 Classici dell'Economia;Classici Econom.
 Classics in Applied Mathematics;Classics Appl. Math.
+Classroom Companion. Economics;Classr. Companion. Econ.
 Classroom Resource Materials;Classr. Resour. Mater.
 Classroom Resource Materials Series;Classr. Res. Mater. Ser.
 Clay Lecture Notes;Clay Lect. Notes
@@ -616,6 +662,8 @@ Clustering Phenomena in Nuclei;Clustering Phenom. Nuclei
 Cogent Mathematics & Statistics;Cogent Math. Stat.
 Cognitive Intelligence and Robotics;Cogn. Intell. Robot.
 Cognitive Science and Technology;Cogn. Sci. Technol.
+Cognitive Systems Monographs;Cogn. Syst. Monogr.
+Coimbra Mathematical Texts;Coimbra Math. Texts
 Colecao Matematica e Aplicacoes;Colec. Mat. Apl.
 Coleccion Estudio;Colecc. Estud.
 Coleccion Julio Carrizosa Valenzuela;Colecc. Julio Carrizosa Valenzuela
@@ -638,11 +686,13 @@ Collection Sciences dans L'Histoire;Collect. Sci. Hist.
 Collection Sciences dans l'Histoire;Collect. Sci. Hist.
 Collection Seminaires INRIA;Collect. Sem. INRIA
 Collection Visions des Sciences;Collect. Vis. Sci.
+Collection ``Didactiques''. Mathematiques;Collect. Didact. Math.
 Collection de Notes Internes de la Direction des Etudes et Recherches: Mathematiques, Informatique, Telecommunications;Collect. Notes Internes Dir. Etudes Rech. Math. Inform. Telecomm.
 Collection de l'I.M.E.;Collect. I.M.E.
 Collection des Industries Mecaniques;Collect. Indust. Mec.
 Colloques Nationaux du Centre National de la Recherche Scientifique;Colloq. Nat. CNRS
 Colloquium Mathematicum;Colloq. Math.
+Combinatorial Theory;Comb. Theory
 Combinatorica. An International Journal on Combinatorics and the Theory of Computing;Combinatorica
 Combinatorics, Probability and Computing;Combin. Probab. Comput.
 Combustion Theory and Modelling;Combust. Theory Model.
@@ -674,6 +724,7 @@ Communications in Partial Differential Equations;Comm. Partial Differential Equa
 Communications in Statistics. Simulation and Computation;Comm. Statist. Simulation Comput.
 Communications in Statistics. Theory and Methods;Comm. Statist. Theory Methods
 Communications in Theoretical Physics;Commun. Theor. Phys. (Beijing)
+Communications of the American Mathematical Society;Comm. Amer. Math. Soc.
 Communications on Applied Mathematics and Computation;Commun. Appl. Math. Comput.
 Communications on Applied Nonlinear Analysis;Comm. Appl. Nonlinear Anal.
 Communications on Pure and Applied Analysis;Commun. Pure Appl. Anal.
@@ -696,6 +747,7 @@ Computational Biology and Chemistry;Comput. Biol. Chem.
 Computational Complexity;Comput. Complexity
 Computational Geometry. Theory and Applications;Comput. Geom.
 Computational Geosciences;Comput. Geosci.
+Computational Geosciences. Modeling, Simulation and Data Analysis;Comput. Geosci.
 Computational Imaging and Vision;Comput. Imaging Vision
 Computational Intelligence. An International Journal;Comput. Intell.
 Computational Linguistics;Comput. Linguist.
@@ -707,16 +759,20 @@ Computational Methods and Function Theory;Comput. Methods Funct. Theory
 Computational Methods for Differential Equations;Comput. Methods Differ. Equ.
 Computational Methods in Applied Mathematics;Comput. Methods Appl. Math.
 Computational Methods in Applied Sciences;Comput. Methods Appl. Sci.
+Computational Methods in Engineering & the Sciences;Comput. Methods Eng. Sci.
 Computational Music Science;Comput. Music Sci.
 Computational Optimization and Applications. An International Journal;Comput. Optim. Appl.
 Computational Science & Engineering;Comput. Sci. Eng.
 Computational Social Sciences;Comput. Soc. Sci.
 Computational Statistics;Comput. Statist.
 Computational Statistics & Data Analysis;Comput. Statist. Data Anal.
+Computational Synthesis and Creative Systems;Comp. Synth. Creat. Sys.
 Computational and Experimental Methods in Structures;Comput. Exp. Methods Struct.
 Computational and Mathematical Biophysics;Comput. Math. Biophys.
+Computational and Mathematical Methods;Comput. Math. Methods
 Computational and Mathematical Methods in Medicine;Comput. Math. Methods Med.
 Computer Aided Geometric Design;Comput. Aided Geom. Des.
+Computer Aided Geometric Design;Comput. Aided Geom. Design
 Computer Communications and Networks;Comput. Commun. Netw.
 Computer Engineering Series;Comput. Eng. Ser.
 Computer Life;Comput. Life
@@ -747,6 +803,7 @@ Congressus Numerantium. A Conference Journal on Numerical Themes;Congr. Numer.
 Connaissance de l'Egypte Ancienne;Connaiss. Egypte Anc.
 Constraints. An International Journal;Constraints
 Constructive Approximation. An International Journal for Approximations and Expansions;Constr. Approx.
+Constructive Mathematical Analysis;Constr. Math. Anal.
 Contemporary Analysis and Applied Mathematics;Contemp. Anal. Appl. Math.
 Contemporary Evaluation Research;Contemp. Evaluation Res.
 Contemporary Mathematicians;Contemp. Mathematicians
@@ -762,8 +819,8 @@ Contributions to Discrete Mathematics;Contrib. Discrete Math.
 Contributions to Economics;Contrib. Econ.
 Contributions to Management Science;Contrib. Manag. Sci.
 Contributions to Phenomenology;Contrib. Phenomenol.
-Contributions to Statistics;Contrib. Stat.
 Contributions to Statistics;Contrib. Statist.
+Contributions to Statistics;Contrib. Stat.
 Control Engineering;Control Eng.
 Control Theory and Technology;Control Theory Technol.
 Control and Cybernetics;Control Cybernet.
@@ -778,6 +835,7 @@ Croatian Operational Research Review. CRORR;Croat. Oper. Res. Rev. CRORR
 Croom Helm Series in Geography and Environment;Croom Helm Ser. Geogr. Environment
 Cryogenic Materials Series;Cryogenic Materials Ser.
 Cryptography and Communications;Cryptogr. Commun.
+Cryptography and Communications. Discrete Structures, Boolean Functions and Sequences;Cryptogr. Commun.
 Cuadernos de Logica, Epistemologia y Lenguaje;Cuad. Log. Epistemol. Leng.
 Cubo. A Mathematical Journal;Cubo
 Culture and Civilization in the Middle East;Cult. Civiliz. Middle East
@@ -790,6 +848,7 @@ DIMACS Series in Discrete Mathematics and Theoretical Computer Science;DIMACS Se
 DISKI. Dissertationen zur Kunstlichen Intelligenz;DISKI
 Dalnevostochnyi Matematicheskii Zhurnal. Far Eastern Mathematical Journal;Dalnevost. Mat. Zh.
 Data Mining and Knowledge Discovery;Data Min. Knowl. Discov.
+Data Science;Data Sci.
 David Hilbert's Lectures on the Foundations of Mathematics and Physics 1891--1933;David Hilbert's Lect. Found. Math. Phys. 1891--1933
 De Gruyter Expositions in Mathematics;De Gruyter Exp. Math.
 De Gruyter Graduate;De Gruyter Grad.
@@ -799,6 +858,8 @@ De Gruyter Series in Discrete Mathematics and Applications;De Gruyter Ser. Discr
 De Gruyter Series in Logic and its Applications;De Gruyter Ser. Log. Appl.
 De Gruyter Series in Mathematics and Life Sciences;De Gruyter Ser. Math. Life Sci.
 De Gruyter Series in Nonlinear Analysis and Applications;De Gruyter Ser. Nonlinear Anal. Appl.
+De Gruyter Series in Probability and Stochastics;De Gruyter Ser. Probab. Stoch.
+De Gruyter Series on the Applications of Mathematics in Engineering and Information Sciences;De Gruyter Ser. Appl. Math. Eng. Inf. Sci.
 De Gruyter Studies in Mathematical Physics;De Gruyter Stud. Math. Phys.
 De Gruyter Studies in Mathematics;De Gruyter Stud. Math.
 De Gruyter Studium;De Gruyter Stud.
@@ -822,6 +883,7 @@ Didattica: Proposte ed Esperienze;Didatt. Propos. Esper.
 Differential Equations;Differ. Equ.
 Differential Equations & Applications;Differ. Equ. Appl.
 Differential Equations and Dynamical Systems;Differ. Equ. Dyn. Syst.
+Differential Equations and Dynamical Systems. International Journal for Theory, Real World Modelling and Simulations;Differ. Equ. Dyn. Syst.
 Differential Geometry and its Applications;Differential Geom. Appl.
 Differential Geometry---Dynamical Systems;Differ. Geom. Dyn. Syst.
 Differential and Integral Equations. An International Journal for Theory & Applications;Differential Integral Equations
@@ -838,6 +900,7 @@ Discrete Event Dynamic Systems: Theory and Applications;Discrete Event Dyn. Syst
 Discrete Mathematics;Discrete Math.
 Discrete Mathematics & Theoretical Computer Science Proceedings;Discrete Math. Theor. Comput. Sci. Proc.
 Discrete Mathematics & Theoretical Computer Science. DMTCS.;Discrete Math. Theor. Comput. Sci.
+Discrete Mathematics Letters;Discrete Math. Lett.
 Discrete Mathematics and Applications;Discrete Math. Appl.
 Discrete Mathematics and its Applications (Boca Raton);Discrete Math. Appl. (Boca Raton)
 Discrete Mathematics, Algorithms and Applications;Discrete Math. Algorithms Appl.
@@ -885,6 +948,7 @@ EMS Surveys in Mathematical Sciences;EMS Surv. Math. Sci.
 EMS Textbooks in Mathematics;EMS Textbk. Math.
 EMS Tracts in Mathematics;EMS Tracts Math.
 EPiC Series in Computing;EPiC Ser. Comput.
+ERCOFTAC Series;ERCOFTAC Ser.
 ESAIM Proceedings;ESAIM Proc.
 ESAIM. Control, Optimisation and Calculus of Variations;ESAIM Control Optim. Calc. Var.
 ESAIM. Mathematical Modelling and Numerical Analysis;ESAIM Math. Model. Numer. Anal.
@@ -897,6 +961,7 @@ East Asian Journal on Applied Mathematics;East Asian J. Appl. Math.
 East-West Journal of Mathematics;East-West J. Math.
 Eco-Efficiency in Industry and Science;Eco-Effic. Ind. Sci.
 Ecole d'Ete de Probabilites de Saint-Flour;Ec. Ete Probab. St.-Flour
+Ecological Research Monographs;Ecol. Res. Monogr.
 Econometric Reviews;Econometric Rev.
 Econometric Society Monographs;Econom. Soc. Monogr.
 Econometric and Tinbergen Institutes Lectures;Econom. Tinbergen Inst. Lect.
@@ -946,12 +1011,15 @@ Elements in the Philosophy of Mathematics;Elem. Philos. Math.
 Ellis Horwood Series in Physics and its Applications;Ellis Horwood Ser. Phys. Appl.
 Elsevier Oceanography Series;Elsevier Oceanogr. Ser.
 Emergence, Complexity and Computation;Emerg. Complex. Comput.
+Emerging Methodologies and Applications in Modelling, Identification and Control;Emerg. Methodol. Appl. Model. Identif. Control
+Emerging Topics in Statistics and Biostatistics;Emerg. Top. Stat. Biostat.
 Encyclopaedia of Mathematical Sciences;Encyclopaedia Math. Sci.
 Encyclopedia of Complexity and Systems Science;Encycl. Complex. Syst. Sci.
 Encyclopedia of Mathematics and its Applications;Encyclopedia Math. Appl.
 Energy Systems;Energy Syst.
 Energy Systems in Electrical Engineering;Energy Syst. Electr. Eng.
 Engineering Analysis with Boundary Elements;Eng. Anal. Bound. Elem.
+Engineering Applications of Computational Methods;Eng. Appl. Comput. Methods
 Engineering Materials;Eng. Mater.
 Engineering Materials and Processes;Eng. Mater. Process.
 Engineering Optimization;Eng. Optim.
@@ -959,15 +1027,18 @@ Engineering Systems and Sustainability Series;Eng. Syst. Sustain. Ser.
 Enke Reihe zur AO[A];Enke Reihe AO[A]
 Ensaios Matematicos;Ensaios Mat.
 Enseignement Assiste par Ordinateur;Enseign. Assiste Ordinateur
+Enseignement SUP-Maths;Enseign. SUP-Maths
 Enseignement des Mathematiques;Enseign. Math.
 Entropy Production in Everyday Live;Entropy Prod. Everyday Live
 Entropy. An International and Interdisciplinary Journal of Entropy and Information Studies;Entropy
+Enumerative Combinatorics and Applications;Enumer. Comb. Appl.
 Environmental Monographs & Symposia;Environmental Monogr. Sympos.
 Environmental and Ecological Statistics;Environ. Ecol. Stat.
 Epijournal de Geometrie Algebrique. EPIGA;Epijournal Geom. Algebrique
 Ergebnisse der Mathematik und ihrer Grenzgebiete. 3. Folge. A Series of Modern Surveys in Mathematics;Ergeb. Math. Grenzgeb. (3)
 Ergodic Theory and Dynamical Systems;Ergodic Theory Dynam. Systems
 Erkenntnis. An International Journal of Analytic Philosophy;Erkenntnis
+Erkenntnis. An International Journal of Scientific Philosophy;Erkenntnis
 Esercitazioni di Matematica;Esercit. Mat.
 Esquisses Mathematiques;Esquisses Math.
 Essays in Cognitive Psychology;Essays Cogn. Psych.
@@ -988,7 +1059,9 @@ European Journal of Mathematics;Eur. J. Math.
 European Journal of Mechanics. A. Solids;Eur. J. Mech. A Solids
 European Journal of Mechanics. B. Fluids;Eur. J. Mech. B Fluids
 European Journal of Operational Research;Eur. J. Oper. Res.
+European Journal of Operational Research;European J. Oper. Res.
 European Journal of Pure and Applied Mathematics;Eur. J. Pure Appl. Math.
+European Mathematical Society Magazine;Eur. Math. Soc. Mag.
 European Mathematical Society. Newsletter;Eur. Math. Soc. Newsl.
 European Studies in Philosophy of Science;Eur. Stud. Philos. Sci.
 European University Institute. Series D: Economics;European Univ. Inst. Ser. D: Econom.
@@ -1017,8 +1090,10 @@ Finance and Stochastics;Finance Stoch.
 Financial Engineering Explained;Financ. Eng. Explain.
 Financial Mathematics;Financ. Math.
 Financial Mathematics and Applications;Financ. Math. Appl.
+Financial Mathematics and Fintech;Financ. Math. Fintech
 Finite Elements in Analysis and Design;Finite Elem. Anal. Des.
 Finite Fields and their Applications;Finite Fields Appl.
+Fixed Point Theory and Algorithms for Sciences and Engineering;Fixed Point Theory Algorithms Sci. Eng.
 Fixed Point Theory and Applications;Fixed Point Theory Appl.
 Fixed Point Theory. An International Journal on Fixed Point Theory, Computation and Applications;Fixed Point Theory
 Fizika Plazmy;Fiz. Plazmy
@@ -1026,6 +1101,7 @@ Fiziko-Matematicheskoe Nasledie;Fiz.-Mat. Nasled.
 Fluid Dynamics;Fluid Dyn.
 Fluid Dynamics Research. An International Journal;Fluid Dyn. Res.
 Fluid Mechanics and its Applications;Fluid Mech. Appl.
+FoLLI Publications on Logic, Language and Information;FoLLI Publ. Log. Lang. Inf.
 Focus Series in Digital Signal and Image Processing;Focus Ser. Digit. Signal Image Process.
 Focus Series in Finance, Business and Management;Focus Ser. Finance Bus. Manag.
 Focus. Automation and Control Series;Focus Autom. Control Ser.
@@ -1042,8 +1118,8 @@ Forum for Interdisciplinary Mathematics;Forum Interdiscip. Math.
 Forum of Mathematics. Pi;Forum Math. Pi
 Forum of Mathematics. Sigma;Forum Math. Sigma
 Foundational Questions in Science;Found. Quest. Sci.
-"Foundations and Trends${}^\circledR$ in Signal Processing";Found. Trends Signal Process.
-"Foundations and Trends${}^\circledR$ in Theoretical Computer Science";Found. Trends Theor. Comput. Sci.
+Foundations and Trends${}^\\circledR$ in Signal Processing;Found. Trends Signal Process.
+Foundations and Trends${}^\\circledR$ in Theoretical Computer Science;Found. Trends Theor. Comput. Sci.
 Foundations and Trends${}^circledR$ in Signal Processing;Found. Trends Signal Process.
 Foundations and Trends${}^circledR$ in Theoretical Computer Science;Found. Trends Theor. Comput. Sci.
 Foundations for Undergraduate Research in Mathematics;Found. Undergrad. Res. Math.
@@ -1052,18 +1128,23 @@ Foundations of Computational Mathematics. The Journal of the Society for the Fou
 Foundations of Engineering Mechanics;Found. Eng. Mech.
 Foundations of Physics. An International Journal Devoted to the Conceptual Bases and Fundamental Theories of Modern Physics;Found. Phys.
 Foundations of Science;Found. Sci.
+Foundations of Science. The Official Journal of the Association for Foundations of Science, Language and Cognition;Found. Sci.
 Fractals and Dynamics in Mathematics, Science, and the Arts: Theory and Applications;Fractals Dyn. Math. Sci. Arts Theory Appl.
 Fractals. Complex Geometry, Patterns, and Scaling in Nature and Society;Fractals
 Fractional Calculus and Applied Analysis;Fract. Calc. Appl. Anal.
+Fractional Calculus and Applied Analysis. An International Journal for Theory and Applications;Fract. Calc. Appl. Anal.
 Fractional Calculus in Applied Sciences and Engineering;Fract. Calc. Appl. Sci. Eng.
 Fractional Differential Calculus;Fract. Differ. Calc.
 Frontier Research in Computation and Mechanics of Materials and Biology;Front. Res. Comput. Mech. Mater. Biol.
 Frontiers in Applied Dynamical Systems: Reviews and Tutorials;Front. Appl. Dyn. Syst. Rev. Tutor.
 Frontiers in Artificial Intelligence and Applications;Frontiers Artificial Intelligence Appl.
+Frontiers in Elliptic and Parabolic Problems;Front. Elliptic Parabol. Probl.
 Frontiers in Mathematics;Front. Math.
 Frontiers in Probability and the Statistical Sciences;Front. Probab. Stat. Sci.
+Frontiers in Statistical Quality Control;Front. Stat. Qual. Control
 Frontiers in the History of Science;Front. Hist. Sci.
 Frontiers of Biomechanics;Front. Biomech.
+Frontiers of Mathematical Finance;Front. Math. Finance
 Frontiers of Mathematics in China;Front. Math. China
 Frontiers of Operational Research and Applied Systems Analysis;Frontiers Oper. Res. Appl. Systems Anal.
 Fudan University. Journal. Natural Science. Fudan Xuebao. Ziran Kexue Ban;J. Fudan Univ. Nat. Sci.
@@ -1080,7 +1161,10 @@ Fundamental and Applied Nuclear Physics Series;Fundam. Appl. Nucl. Phys. Ser.
 Fundamentalnaya i Prikladnaya Matematika;Fundam. Prikl. Mat.
 Fundamentals of Algorithms;Fundam. Algorithms
 Funkcialaj Ekvacioj. Serio Internacia;Funkcial. Ekvac.
+Funktsionalnyi Analiz i ego Prilozheniya;Funktsional. Anal. i Prilozhen.
+Future of Business and Finance;Future Bus. Finance
 Fuzzy Information and Engineering;Fuzzy Inf. Eng.
+Fuzzy Management Methods;Fuzzy Manag. Methods
 Fuzzy Optimization and Decision Making. A Journal of Modeling and Computation Under Uncertainty;Fuzzy Optim. Decis. Mak.
 Fuzzy Sets and Systems. An International Journal in Information Science and Engineering;Fuzzy Sets and Systems
 GAKUTO International Series. Mathematical Sciences and Applications;GAKUTO Internat. Ser. Math. Sci. Appl.
@@ -1090,10 +1174,12 @@ Game Theory and Applications;Game Theory Appl.
 Games and Economic Behavior;Games Econom. Behav.
 Ganit. Journal of Bangladesh Mathematical Society;Ganit
 Ganita Bharati. Bulletin of the Indian Society for History of Mathematics;Ganita Bharati
+Ganita. A Journal devoted to Mathematical Sciences;Ganita
 Gazette des Mathematiciens;Gaz. Math.
 Gazodinamika i Teploobmen;Gazodinam. i Teploobmen
 General Relativity and Gravitation;Gen. Relativity Gravitation
 Genetic and Evolutionary Computation Series;Genet. Evol. Comput. Ser.
+GeoPlanet: Earth and Planetary Sciences;GeoPlanet Earth Planet. Sci.
 Geometriae Dedicata;Geom. Dedicata
 Geometric Flows;Geom. Flows
 Geometric and Functional Analysis;Geom. Funct. Anal.
@@ -1131,6 +1217,7 @@ Grundkurs Mathematik;Grundkurs Math.
 Grundkurs Physik;Grundkurs Phys.
 Grundlagen der Mathematik und Informatik;Grundlagen Math. Inform.
 Grundlehren der Mathematischen Wissenschaften;Grundlehren Math. Wiss.
+Grundlehren der mathematischen Wissenschaften;Grundlehren Math. Wiss.
 Gulf Journal of Mathematics;Gulf J. Math.
 HBA Lecture Notes in Mathematics;HBA Lect. Notes Math.
 Hacettepe Journal of Mathematics and Statistics;Hacet. J. Math. Stat.
@@ -1153,6 +1240,7 @@ Higher Structures;High. Struct.
 Hildesheimer Informatik-Bericht;Hildesheimer Inform.-Ber.
 Hindu Astronomical and Mathematical Text Series;Hindu Astronom. Math. Text Ser.
 Hiroshima Mathematical Journal;Hiroshima Math. J.
+Histoire des Sciences;Hist. Sci.
 Histoire des Sciences (Paris);Hist. Sci. (Paris)
 Histoire et Philosophie des Sciences (Paris);Hist. Philos. Sci. (Paris)
 Histoires de Geometries;Hist. Geom.
@@ -1166,20 +1254,25 @@ History of Mathematics;Hist. Math.
 History of Mathematics Education;Hist. Math. Educ.
 History of Mathematics Subseries;Hist. Math. Subser.
 History of Mechanism and Machine Science;Hist. Mech. Mach. Sci.
+History of Physics;Hist. Phys.
 History of Science and Technology Reprint Series;Hist. Sci. Tech. Reprint Ser.
+History of Science and Technology in China;Hist. Sci. Tech. China
 Hochschuldidaktische Materialien;Hochschuldidakt. Material.
 Hokkaido Mathematical Journal;Hokkaido Math. J.
 Homology, Homotopy and Applications;Homology Homotopy Appl.
 Honam Mathematical Journal;Honam Math. J.
 Houston Journal of Mathematics;Houston J. Math.
 Human Communication Research Series;Human Comm. Res. Ser.
+Human Perspectives in Health Sciences and Technology;Hum. Perspect. Health Sci. Tech.
 Human-Computer Interaction Series;Hum.-Comput. Interact. Ser.
 I Blu---Pagine di Scienza;Blu Pagine Sci.
 IAENG International Journal of Applied Mathematics;IAENG Int. J. Appl. Math.
 IAS/PCMI---The Teacher Program Series;IAS/PCMI Teach. Program Ser.
+IAS/Park City Mathematical Subseries;IAS/Park City Math. Subser.
 IAS/Park City Mathematics Series;IAS/Park City Math. Ser.
 IAU Symposium;IAU Symp.
 ICCM Notices. Notices of the International Congress of Chinese Mathematicians;ICCM Not.
+ICIAM 2019 SEMA SIMAI Springer Series;ICIAM 2019 SEMA SIMAI Springer Ser.
 ICM Series;ICM Ser.
 ICME-13 Monographs;ICME-13 Monogr.
 ICP Selected Papers;ICP Sel. Pap.
@@ -1187,6 +1280,7 @@ ICSA Book Series in Statistics;ICSA Book Ser. Stat.
 IDM Materialien und Studien;IDM Materialien Studien
 IEE History of Technology Series;IEE Hist. Tech. Ser.
 IEEE Control Systems;IEEE Control Syst.
+IEEE Control Systems Letters;IEEE Control Syst. Lett.
 IEEE Press Series on Computational Intelligence;IEEE Press Ser. Comput. Intell.
 IEEE Press Series on Power Engineering;IEEE Press Ser. Power Eng.
 IEEE Press Series on RF and Microwave Technology;IEEE Press Ser. RF Microw. Technol.
@@ -1223,6 +1317,7 @@ IMPAN Lecture Notes;IMPAN Lect. Notes
 IMSc Lecture Notes in Mathematics;IMSc Lect. Notes Math.
 INFOR. Information Systems and Operational Research;INFOR Inf. Syst. Oper. Res.
 INFORMS Journal on Computing;INFORMS J. Comput.
+INFORMS Journal on Optimization;INFORMS J. Optim.
 IOP Concise Physics;IOP Concise Phys.
 IOP Expanding Physics;IOP Expand. Phys.
 IOP Short Meetings Series;IOP Short Meet. Ser.
@@ -1237,6 +1332,7 @@ Illinois Journal of Mathematics;Illinois J. Math.
 Image Analysis & Stereology. Quantitative Methods and Applications;Image Anal. Stereol.
 Imhotep Mathematical Proceedings;Imhotep Math. Proc.
 Indian Academy of Sciences. Proceedings. Mathematical Sciences;Proc. Indian Acad. Sci. Math. Sci.
+Indian Journal of Discrete Mathematics;Indian J. Discrete Math.
 Indian Journal of History of Science;Indian J. Hist. Sci.
 Indian Journal of Mathematics;Indian J. Math.
 Indian Journal of Pure and Applied Mathematics;Indian J. Pure Appl. Math.
@@ -1274,6 +1370,9 @@ Integers. Electronic Journal of Combinatorial Number Theory;Integers
 Integral Equations and Operator Theory;Integral Equations Operator Theory
 Integral Transforms and Special Functions. An International Journal;Integral Transforms Spec. Funct.
 Integrated Series in Information Systems;Integr. Ser. Inf. Syst.
+Intelligent Control and Learning Systems;Intell. Control Learn. Syst.
+Intelligent Robotics Autonomous Agents;Intel. Robotics Auton. Agents
+Intelligent Robotics Autonomous Agents;Intel. Robotics Auton. Agent
 Intelligent Systems Reference Library;Intell. Syst. Ref. Libr.
 Intelligent Systems, Control and Automation: Science and Engineering;Intell. Syst. Control Autom. Sci. Eng.
 Interaction of Mechanics and Mathematics;Interact. Mech. Math.
@@ -1298,6 +1397,7 @@ International Journal for Numerical Methods in Biomedical Engineering;Int. J. Nu
 International Journal for Numerical Methods in Engineering;Internat. J. Numer. Methods Engrg.
 International Journal for Numerical Methods in Fluids;Internat. J. Numer. Methods Fluids
 International Journal for Uncertainty Quantification;Int. J. Uncertain. Quantif.
+International Journal of Adaptive Control and Signal Processing;Internat. J. Adapt. Control Signal Process.
 International Journal of Adaptive Control and Signal Processing;Int. J. Adapt. Control Signal Process.
 International Journal of Advances in Applied Mathematics and Mechanics;Int. J. Adv. Appl. Math. Mech.
 International Journal of Advances in Engineering Sciences and Applied Mathematics;Int. J. Adv. Eng. Sci. Appl. Math.
@@ -1339,6 +1439,7 @@ International Journal of Group Theory;Int. J. Group Theory
 International Journal of Image and Graphics;Int. J. Image Graph.
 International Journal of Information & Systems Sciences;Int. J. Inf. Syst. Sci.
 International Journal of Information and Coding Theory. IJICOT;Int. J. Inf. Coding Theory
+International Journal of Maps in Mathematics;Int. J. Maps Math.
 International Journal of Mathematical Education in Science and Technology;Internat. J. Math. Ed. Sci. Tech.
 International Journal of Mathematics;Internat. J. Math.
 International Journal of Mathematics and Analysis. New Series;Int. J. Math. Anal. (N.S.)
@@ -1374,6 +1475,7 @@ International Journal of Theoretical and Applied Finance;Int. J. Theor. Appl. Fi
 International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems;Internat. J. Uncertain. Fuzziness Knowledge-Based Systems
 International Journal of Wavelets, Multiresolution and Information Processing;Int. J. Wavelets Multiresolut. Inf. Process.
 International Journal on Finite Volumes;Int. J. Finite Vol.
+International Law and Economics;Int. Law Econ.
 International Mathematics Research Notices. IMRN;Int. Math. Res. Not. IMRN
 International Series in Operations Research & Management Science;Internat. Ser. Oper. Res. Management Sci.
 International Series in Pure and Applied Physics;Internat. Ser. Pure Appl. Phys.
@@ -1425,6 +1527,7 @@ Izvestiya Instituta Matematiki i Informatiki;Izv. Inst. Mat. Inform.
 Izvestiya Irkutskogo Gosudarstvennogo Universiteta. Seriya Matematika;Izv. Irkutsk. Gos. Univ. Ser. Mat.
 Izvestiya Natsionalnoi Akademii Nauk Armenii. Mekhanika. Proceedings of National Academy of Sciences of Armenia. Mechanics;Izv. Nats. Akad. Nauk Armen. Mekh.
 Izvestiya Natsionalnoi Akademii Nauk Respubliki Kazakhstan. Seriya Fiziko-Matematicheskaya;Izv. Nats. Akad. Nauk Resp. Kaz. Ser. Fiz.-Mat.
+Izvestiya Rossiiskoi Akademii Nauk. Seriya Matematicheskaya;Izv. Ross. Akad. Nauk Ser. Mat.
 Izvestiya Rossiiskoi Akademii Nauk. Teoriya i Sistemy Upravleniya;Izv. Ross. Akad. Nauk Teor. Sist. Upr.
 Izvestiya Saratovskogo Universiteta. Novaya Seriya. Seriya. Matematika. Mekhanika. Informatika;Izv. Sarat. Univ. (N.S.) Ser. Mat. Mekh. Inform.
 Izvestiya Vysshikh Uchebnykh Zavedenii. Matematika. Kazanskii Gosudarstvennyi Universitet;Izv. Vyssh. Uchebn. Zaved. Mat.
@@ -1444,6 +1547,7 @@ Japan Annual Reviews in Electronics, Computers & Telecommunications 1982;Japan A
 Japan Journal of Industrial and Applied Mathematics;Jpn. J. Ind. Appl. Math.
 Japanese Journal of Mathematics;Jpn. J. Math.
 Japanese Journal of Statistics and Data Science;Jpn. J. Stat. Data Sci.
+Jerusalem Studies in Philosophy and History of Science;Jerus. Stud. Philos. Hist. Sci.
 Johns Hopkins Studies in the History of Mathematics;Johns Hopkins Stud. Hist. Math.
 Jones and Bartlett Series in Computer Science;Jones Bartlett Ser. Comput. Sci.
 Jordan Journal of Mathematics and Statistics;Jordan J. Math. Stat.
@@ -1466,6 +1570,7 @@ Journal of Algebra and Related Topics;J. Algebra Relat. Topics
 Journal of Algebra and its Applications;J. Algebra Appl.
 Journal of Algebraic Combinatorics. An International Journal;J. Algebraic Combin.
 Journal of Algebraic Geometry;J. Algebraic Geom.
+Journal of Algebraic Hyperstructures and Logical Algebras;J. Algebr. Hyperstruct. Log. Algebras
 Journal of Algebraic Statistics;J. Algebr. Stat.
 Journal of Algebraic Systems;J. Algebr. Syst.
 Journal of Algorithms & Computational Technology;J. Algorithms Comput. Technol.
@@ -1481,6 +1586,7 @@ Journal of Applied Mathematics;J. Appl. Math.
 Journal of Applied Mathematics & Informatics;J. Appl. Math. Inform.
 Journal of Applied Mathematics and Computational Mechanics;J. Appl. Math. Comput. Mech.
 Journal of Applied Mathematics and Computing;J. Appl. Math. Comput.
+Journal of Applied Mathematics and Informatics;J. Appl. Math. Inform.
 Journal of Applied Mathematics and Mechanics;J. Appl. Math. Mech.
 Journal of Applied Mathematics, Statistics and Informatics;J. Appl. Math. Stat. Inform.
 Journal of Applied Mechanics and Technical Physics;J. Appl. Mech. Tech. Phys.
@@ -1499,6 +1605,7 @@ Journal of Biological Dynamics;J. Biol. Dyn.
 Journal of Biological Systems;J. Biol. Systems
 Journal of Biomathematics. Shengwu Shuxue Xuebao;J. Biomath.
 Journal of Business & Economic Statistics;J. Bus. Econom. Statist.
+Journal of Causal Inference;J. Causal Inference
 Journal of Cellular Automata;J. Cell. Autom.
 Journal of Central China Normal University. Natural Sciences;J. Cent. China Norm. Univ. Nat. Sci.
 Journal of Classical Analysis;J. Class. Anal.
@@ -1525,6 +1632,7 @@ Journal of Computational Mathematics;J. Comput. Math.
 Journal of Computational Multiphase Flows;J. Comput. Multiph. Flows
 Journal of Computational Neuroscience;J. Comput. Neurosci.
 Journal of Computational Physics;J. Comput. Phys.
+Journal of Computational Physics: X;J. Comput. Phys. X
 Journal of Computational Science;J. Comput. Sci.
 Journal of Computational and Applied Mathematics;J. Comput. Appl. Math.
 Journal of Computational and Engineering Mathematics;J. Comput. Eng. Math.
@@ -1536,6 +1644,7 @@ Journal of Computer and System Sciences;J. Comput. System Sci.
 Journal of Computer and Systems Sciences International;J. Comput. Syst. Sci. Int.
 Journal of Concrete and Applicable Mathematics;J. Concr. Appl. Math.
 Journal of Contemporary Mathematical Analysis;J. Contemp. Math. Anal.
+Journal of Contemporary Mathematical Analysis. Armenian Academy of Sciences;J. Contemp. Math. Anal.
 Journal of Control Science and Engineering;J. Control Sci. Eng.
 Journal of Control and Decision;J. Control Decis.
 Journal of Convex Analysis;J. Convex Anal.
@@ -1582,6 +1691,7 @@ Journal of Graph Algorithms and Applications;J. Graph Algorithms Appl.
 Journal of Graph Labeling. A Graph Theoretical Research Journal;J. Graph Label.
 Journal of Graph Theory;J. Graph Theory
 Journal of Group Theory;J. Group Theory
+Journal of Groups, Complexity, Cryptology;J. Groups Complex. Cryptol.
 Journal of Harbin Institute of Technology. Harbin Gongye Daxue Xuebao;J. Harbin Inst. Tech.
 Journal of Hefei University of Technology. Natural Science. Hefei Gongye Daxue Xuebao. Ziran Kexue Ban;J. Hefei Univ. Technol. Nat. Sci.
 Journal of High Energy Physics;J. High Energy Phys.
@@ -1642,6 +1752,7 @@ Journal of Mathematics and the Arts;J. Math. Arts
 Journal of Mathematics in Industry;J. Math. Ind.
 Journal of Mathematics. Tokushima University;J. Math. Tokushima Univ.
 Journal of Mechanics of Materials and Structures;J. Mech. Mater. Struct.
+Journal of Membrane Computing;J. Membr. Comput.
 Journal of Modern Dynamics;J. Mod. Dyn.
 Journal of Modern Mathematics and Statistics;J. Mod. Math. Stat.
 Journal of Modern Methods in Numerical Mathematics;J. Mod. Methods Numer. Math.
@@ -1663,6 +1774,7 @@ Journal of Nonlinear Sciences and Applications. JNSA;J. Nonlinear Sci. Appl.
 Journal of Nonlinear Systems and Applications;J. Nonlinear Syst. Appl.
 Journal of Nonlinear and Convex Analysis. An International Journal;J. Nonlinear Convex Anal.
 Journal of Nonparametric Statistics;J. Nonparametr. Stat.
+Journal of Nonsmooth Analysis and Optimization;J. Nonsmooth Anal. Optim.
 Journal of Northeastern University. Natural Science. Dongbei Daxue Xuebao. Ziran Kexue Ban;J. Northeast. Univ. Nat. Sci.
 Journal of Northwest University. Natural Science Edition. Xibei Daxue Xuebao. Ziran Kexue Ban;J. Northwest Univ. Nat. Sci.
 Journal of Number Theory;J. Number Theory
@@ -1673,6 +1785,7 @@ Journal of Operator Theory;J. Operator Theory
 Journal of Optimization;J. Optim.
 Journal of Optimization Theory and Applications;J. Optim. Theory Appl.
 Journal of Partial Differential Equations;J. Partial Differ. Equ.
+Journal of Peridynamics and Nonlocal Modeling;J. Peridyn. Nonlocal Model.
 Journal of Philosophical Logic;J. Philos. Logic
 Journal of Physical Science;J. Phys. Sci.
 Journal of Physical Studies. Zhurnal Fizichnykh Doslidzhen;J. Phys. Stud.
@@ -1686,6 +1799,7 @@ Journal of Pure and Applied Algebra;J. Pure Appl. Algebra
 Journal of Pure and Applied Mathematics. Advances and Applications;J. Pure Appl. Math. Adv. Appl.
 Journal of Quantitative Economics. Jingji Shuxue;J. Quant. Econ.
 Journal of Rajasthan Academy of Physical Sciences;J. Rajasthan Acad. Phys. Sci.
+Journal of Ramanujan Society of Mathematics and Mathematical Sciences;J. Ramanujan Soc. Math. Math. Sci.
 Journal of Recreational Mathematics;J. Recreational Math.
 Journal of Scheduling;J. Sched.
 Journal of Science, Engineering and Technology;J. Sci. Eng. Technol.
@@ -1709,6 +1823,7 @@ Journal of Statistical Planning and Inference;J. Statist. Plann. Inference
 Journal of Statistical Research;J. Statist. Res.
 Journal of Statistical Theory and Applications;J. Stat. Theory Appl.
 Journal of Statistical Theory and Practice;J. Stat. Theory Pract.
+Journal of Stochastic Analysis. JOSA;J. Stoch. Anal.
 Journal of Symbolic Computation;J. Symbolic Comput.
 Journal of Systems Science & Complexity;J. Syst. Sci. Complex.
 Journal of Systems Science and Mathematical Sciences. Xitong Kexue yu Shuxue;J. Systems Sci. Math. Sci.
@@ -1745,6 +1860,7 @@ Journal of the Indian Society of Agricultural Statistics;J. Indian Soc. Agricult
 Journal of the Indian Statistical Association;J. Indian Statist. Assoc.
 Journal of the Indonesian Mathematical Society;J. Indones. Math. Soc.
 Journal of the Institute of Mathematics of Jussieu. JIMJ. Journal de l'Institut de Mathematiques de Jussieu;J. Inst. Math. Jussieu
+Journal of the Iranian Mathematical Society;J. Iran. Math. Soc.
 Journal of the Iranian Statistical Society. (JIRSS);J. Iran. Stat. Soc. (JIRSS)
 Journal of the Japan Statistical Society (Nihon Tokei Gakkai Kaiho);J. Japan Statist. Soc.
 Journal of the Japan Statistical Society. Japanese Issue;J. Jpn. Stat. Soc. Jpn. Issue
@@ -1801,9 +1917,12 @@ LLULL. Revista de la Sociedad Espanola de Historia de las Ciencias y de las Tecn
 LMS Journal of Computation and Mathematics;LMS J. Comput. Math.
 LTCC Advanced Mathematics Series;LTCC Adv. Math. Ser.
 La Gaceta de la Real Sociedad Matematica Espanola;Gac. R. Soc. Mat. Esp.
+La Matematica;Matematica
 La Matematica per il 3+2;La Mat. per il 3+2
 La Serie T;Ser. T
+Landscapes in Logic;Landsc. Log
 Language, Education and Society;Lang. Ed. Soc.
+Latin American Mathematics Series;Lat. Amer. Math. Ser.
 Le Matematiche;Matematiche (Catania)
 Le Savoir de Mantice;Savoir Mantice
 Learning Materials in Biosciences;Learn. Mater. Biosci.
@@ -1817,6 +1936,7 @@ Lecture Notes in Applied and Computational Mechanics;Lect. Notes Appl. Comput. M
 Lecture Notes in Applied and Numerical Harmonic Analysis;Lect. Notes Appl. Numer. Harmon. Anal.
 Lecture Notes in Bioengineering;Lect. Notes Bioeng.
 Lecture Notes in Bioinformatics;Lect. Notes in Bioinform.
+Lecture Notes in Business Information Processing;Lect. Notes Bus. Inf. Process.
 Lecture Notes in Chemistry;Lecture Notes in Chem.
 Lecture Notes in Computational Science and Engineering;Lect. Notes Comput. Sci. Eng.
 Lecture Notes in Computational Vision and Biomechanics;Lect. Notes Comput. Vis. Biomech.
@@ -1828,12 +1948,14 @@ Lecture Notes in Economics and Mathematical Systems;Lecture Notes in Econom. and
 Lecture Notes in Electrical Engineering;Lect. Notes Electr. Eng.
 Lecture Notes in Energy;Lect. Notes Energy
 Lecture Notes in Geosystems Mathematics and Computing;Lect. Notes Geosyst. Math. Comput.
+Lecture Notes in Intelligent Transportation and Infrastructure;Lect. Notes Intell. Transp. Infrastruct.
 Lecture Notes in Logic;Lect. Notes Log.
 Lecture Notes in Logistics;Lect. Notes Logist.
 Lecture Notes in Mathematical Fluid Mechanics;Lect. Notes Math. Fluid Mech.
 Lecture Notes in Mathematics;Lecture Notes in Math.
 Lecture Notes in Mechanical Engineering;Lect. Notes Mech. Eng.
 Lecture Notes in Mechanics;Lect. Notes Mech.
+Lecture Notes in Mobility;Lect. Notes Mobil.
 Lecture Notes in Morphogenesis;Lect. Notes Morphog.
 Lecture Notes in Networks and Systems;Lect. Notes Netw. Syst.
 Lecture Notes in Nonlinear Analysis;Lect. Notes Nonlinear Anal.
@@ -1843,13 +1965,17 @@ Lecture Notes in Statistics;Lect. Notes Stat.
 Lecture Notes in Statistics---Proceedings;Lect. Notes Stat. Proc.
 Lecture Notes of Seminario Interdisciplinare di Matematica;Lect. Notes Semin. Interdiscip. Mat.
 Lecture Notes of Tbilisi International Centre of Mathematics and Informatics;Lect. Notes TICMI
+Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering;Lect. Notes Inst. Comput. Sci. Soc. Inform. Telecommun. Eng.
 Lecture Notes of the Unione Matematica Italiana;Lect. Notes Unione Mat. Ital.
+Lecture Notes on Data Engineering and Communications Technologies;Lect. Notes Data Eng. Commun. Technol.
 Lecture Notes on Mathematical Modelling in the Life Sciences;Lect. Notes Math. Model. Life Sci.
 Lecture Notes on Numerical Methods in Engineering and Sciences;Lect. Notes Numer. Methods Eng. Sci.
 Lectures in Pure and Applied Mathematics;Lect. Pure Appl. Math.
 Lehr- und Handbucher zu Geld, Borse, Bank und Versicherung;Lehr- Handb. Geld Borse Bank Versicher.
+Leibniz from Oxford;Leibniz Oxford
 Leitfaden der Angewandten Informatik;Leitfaden Angew. Inform.
 Les Cours du CIRM;Cours CIRM
+Les Grandes Voix de la Recherche;Gd. Voix Rech.
 Les Grands Noms de la Science et de la Technique;Grands Noms Sci. Tech.
 Les Nouveaux Rendez-vous d'Archimede;Nouv. Rendez-vous Archimede
 Lettera Matematica;Lett. Mat.
@@ -1874,6 +2000,7 @@ Logic Journal of the IGPL. Interest Group in Pure and Applied Logics;Log. J. IGP
 Logic PhDs;Log. PhDs
 Logic and Argumentation;Log. Argum.
 Logic and Cognitive Systems;Log. Cogn. Syst.
+Logic and Computation in Philosophy;Logic Comput. Philos.
 Logic and Logical Philosophy;Log. Log. Philos.
 Logic in Asia: Studia Logica Library;Log. Asia Stud. Log. Libr.
 Logic, Argumentation & Reasoning;Log. Argum. Reason
@@ -1893,6 +2020,7 @@ MAT. Serie A: Conferencias, Seminarios y Trabajos de Matematica;MAT Ser. A Conf.
 MATCH. Communications in Mathematical and in Computer Chemistry;MATCH Commun. Math. Comput. Chem.
 MATRIX Book Series;MATRIX Book Ser.
 MIT Lincoln Laboratory Series;MIT Linc. Lab. Ser.
+MIT Press Essential Knowledge Series;MIT Press Essent. Knowl. Ser.
 MLQ. Mathematical Logic Quarterly;MLQ Math. Log. Q.
 MOS-SIAM Series on Optimization;MOS-SIAM Ser. Optim.
 MS&A. Modeling, Simulation and Applications;MS&A. Model. Simul. Appl.
@@ -1906,10 +2034,12 @@ Malaysian Journal of Mathematical Sciences;Malays. J. Math. Sci.
 Male Monografie PWN. Technika;Male Monogr. PWN Tech.
 Management and Industrial Engineering;Manag. Ind. Eng
 Management and Information Systems;Management and Inform. Systems
+Management for Professionals;Manag. Prof.
 Manufacturing Engineering and Materials Processing;Manuf. Eng. Mater. Process.
 Manuscripta Mathematica;Manuscripta Math.
 Mario Boella Series on Electromagnetism in Information and Communication;Mario Boella Ser. Electromagn. Inf. Commun.
 Markov Processes and Related Fields;Markov Process. Related Fields
+Martin Gardner's Mathematical Games;Martin Gardner's Math. Games
 Mastering Mathematical Finance;Mastering Math. Finance
 Matematica Contemporanea;Mat. Contemp.
 Matematica, Cultura e Societa. Rivista dell'Unione Matematica Italiana. Serie I;Mat. Cult. Soc. Riv. Unione Mat. Ital. (I)
@@ -1918,13 +2048,17 @@ Matematicheskaya Fizika i Kompyuternoe Modelirovanie. Mathematical Physics and C
 Matematicheskaya Teoriya Igr i ee Prilozheniya;Mat. Teor. Igr Prilozh.
 Matematicheskie Trudy;Mat. Tr.
 Matematicheskie Voprosy Kriptografii. Mathematical Aspects of Cryptography;Mat. Vopr. Kriptografii
+Matematicheskie Zametki;Mat. Zametki
+Matematicheskii Sbornik;Mat. Sb.
 Matematichki Bilten. Bulletin Mathematique de la Societe des Mathematiciens de la Republique de Macedoine;Mat. Bilten
 Matematichki Vesnik;Mat. Vesnik
 Matematichni Studii. Pratsi Lvivskogo Matematichnogo Tovaristva;Mat. Stud.
 Matematicky Seminar SNTL;Mat. Sem. SNTL
+Matematika i Matematicheskoe Modelirovanie;Mat. Mat. Model.
 Matematika. Malaysian Journal of Industrial and Applied Mathematics;Matematika (Johor)
 Matematikai Lapok. New Series;Mat. Lapok (N.S.)
 Materials Forming, Machining and Tribology;Mater. Form. Mach. Tribol.
+Materials Horizons: From Nature to Nanomaterials;Mater. Horiz. From Nat. Nanomater.
 Materials Science Research;Materials Sci. Res.
 Materials Science Series;Mater. Sci. Ser.
 Math Horizons;Math Horiz.
@@ -1938,6 +2072,7 @@ Mathematica Montisnigri. Matematika Tsrne Gore;Math. Montisnigri
 Mathematica Moravica;Math. Morav.
 Mathematica Numerica Sinica. Jisuan Shuxue;Math. Numer. Sin.
 Mathematica Pannonica;Math. Pannon.
+Mathematica Pannonica. New Series;Math. Pannon. (N. S.)
 Mathematica Scandinavica;Math. Scand.
 Mathematica Slovaca;Math. Slovaca
 Mathematical & Computational Applications;Math. Comput. Appl.
@@ -1949,6 +2084,7 @@ Mathematical Biosciences and Engineering. MBE;Math. Biosci. Eng.
 Mathematical Communications;Math. Commun.
 Mathematical Control and Related Fields;Math. Control Relat. Fields
 Mathematical Engineering;Math. Eng.
+Mathematical Engineering, Manufacturing, and Management Sciences;Math. Eng. Manuf. Manag. Sci.
 Mathematical Finance. An International Journal of Mathematics, Statistics and Financial Economics;Math. Finance
 Mathematical Forum;Math. Forum
 Mathematical Geosciences;Math. Geosci.
@@ -1987,6 +2123,7 @@ Mathematical Sciences Professional Directory;Math. Sci. Prof. Dir.
 Mathematical Sciences Research Institute Publications;Math. Sci. Res. Inst. Publ.
 Mathematical Social Sciences;Math. Social Sci.
 Mathematical Society of Japan. Sugaku (Mathematics);Sugaku
+Mathematical Statistics and Learning;Math. Stat. Learn.
 Mathematical Structures in Computer Science. A Journal in the Applications of Categorical, Algebraic and Geometric Methods in Computer Science;Math. Structures Comput. Sci.
 Mathematical Studies Monograph Series;Math. Stud. Monogr. Ser.
 Mathematical Surveys and Monographs;Math. Surveys Monogr.
@@ -1998,8 +2135,10 @@ Mathematical and Computer Modelling of Dynamical Systems. Methods, Tools and App
 Mathematical and Information Sciences Report. Series B;Math. Inform. Sci. Rep. Ser. B
 Mathematics Magazine;Math. Mag.
 Mathematics Newsletter;Math. Newsl.
+Mathematics Online First Collections;Math. Online First Collect.
 Mathematics Research Developments;Math. Res. Dev.
 Mathematics Research Developments Series;Math. Res. Dev. Ser.
+Mathematics Research Reports;Math. Res. Rep.
 Mathematics Studies (Tartu);Math. Stud. (Tartu)
 Mathematics Textbooks for Science and Engineering;Math. Textb. Sci. Eng.
 Mathematics Today;Math. Today (Southend-on-Sea)
@@ -2018,6 +2157,7 @@ Mathematics for Applications;Math. Appl. (Brno)
 Mathematics for Industry (Tokyo);Math. Ind. (Tokyo)
 Mathematics for Teaching: A Problem-Based Approach;Math. Teach. Probl-Based Approach
 Mathematics in Computer Science;Math. Comput. Sci.
+Mathematics in Engineering;Math. Eng.
 Mathematics in Industry;Math. Ind.
 Mathematics in Industry (Philadelphia);Math. Ind. (Phila.)
 Mathematics in Mind;Math. Mind
@@ -2050,6 +2190,7 @@ Matimyas Matematika;Matimyas Mat.
 Max Planck Research Library for the History and Development of Knowledge. Textbooks;Max Planck Res. Libr. Hist. Dev. Knowl., Textb.
 McGill-Queen's Studies in the History of Ideas;McGill-Queen Stud. Hist. Ideas
 McGraw-Hill Series in Industrial Engineering and Management Science;McGraw-Hill Ser. Indust. Engrg. Management Sci.
+Meccanica. An International Journal of Theoretical and Applied Mechanics;Meccanica
 Meccanica. International Journal of Theoretical and Applied Mechanics;Meccanica
 Mechanical Engineering Research Studies;Mech. Engrg. Res. Stud.
 Mechanical Engineering Series;Mech. Engrg. Ser.
@@ -2057,14 +2198,17 @@ Mechanical Engineering and Solid Mechanics Series;Mech. Eng. Solid Mech. Ser.
 Mechanics and Mathematical Methods. A Series of Handbooks. Series II: Thermal Stresses;Mech. Math. Methods. Ser. II: Thermal Stresses
 Mechanics of Elastic and Inelastic Solids;Mech. Elastic Inelastic Solids
 Mechanics of Fracture;Mech. of Fracture
+Mechanik, Werkstoffe und Konstruktion im Bauwesen;Mech. Werkst. Konstr. Bauwes.
 Mechanisms and Machine Science;Mech. Mach. Sci.
 Mechatronic Systems and Control;Mechatron. Syst. Control
+Medical Virology from Pathogenesis to Disease Control;Med. Virol. Pathog. Dis. Control
 Mediterranean Journal of Mathematics;Mediterr. J. Math.
 Medizinische Informatik und Statistik;Med. Inform. Statist.
 Memoires de la Societe Mathematique de France. Nouvelle Serie;Mem. Soc. Math. Fr. (N.S.)
 Memoirs of Osaka Institute of Technology;Mem. Osaka Inst. Tech.
 Memoirs of Osaka Kyoiku University. Ser. III. Natural Science and Applied Science;Mem. Osaka Kyoiku Univ. Ser. III Nat. Sci. Appl. Sci.
 Memoirs of the American Mathematical Society;Mem. Amer. Math. Soc.
+Memoirs of the European Mathematical Society;Mem. Eur. Math. Soc.
 Memoirs of the Graduate School of Science and Engineering. Shimane University. Series B. Mathematics;Mem. Grad. Sch. Sci. Eng. Shimane Univ. Ser. B Math.
 Memoirs of the Institute of Science and Engineering. Ritsumeikan University;Mem. Inst. Sci. Engrg. Ritsumeikan Univ.
 Memoirs on Differential Equations and Mathematical Physics;Mem. Differ. Equ. Math. Phys.
@@ -2077,6 +2221,7 @@ Methoden der Regelungstechnik;Method. Regelungstech.
 Methodology and Computing in Applied Probability;Methodol. Comput. Appl. Probab.
 Methodology in the Social Sciences;Methodol. Soc. Sci.
 Methodology of Music Research;Methodol. Music Res.
+Methodos Series;Methodos Ser.
 Methods and Applications of Analysis;Methods Appl. Anal.
 Methods in Molecular Biology;Methods Mol. Biol.
 Methods in Statistical Ecology;Methods Stat. Ecol.
@@ -2103,6 +2248,8 @@ Modeling and Simulation in Science, Engineering and Technology;Model. Simul. Sci
 Modelirovanie i Analiz Informatsionnykh Sistem. Modeling and Analysis of Information Systems;Model. Anal. Inf. Sist.
 Modern Acoustics and Signal Processing;Modern Acoust. Signal Process.
 Modern Birkhauser Classics;Mod. Birkhauser Class.
+Modern French Identities;Mod. French Identities
+Modern Physics Letters A. Gravitation, Cosmology, Astrophysics, Nuclear Physics, Particles and Fields, Accelerator Physics, Quantum Information;Modern Phys. Lett. A
 Modern Physics Letters A. Particles and Fields, Gravitation, Cosmology, Nuclear Physics;Modern Phys. Lett. A
 Modern Physics Letters B. Condensed Matter Physics, Statistical Physics, Atomic, Molecular and Optical Physics;Modern Phys. Lett. B
 Modern Stochastics. Theory and Applications;Mod. Stoch. Theory Appl.
@@ -2140,12 +2287,14 @@ Multiple Criteria Decision Making;Mult. Criteria Decis. Mak.
 Multiscale Modeling & Simulation. A SIAM Interdisciplinary Journal;Multiscale Model. Simul.
 Munster Journal of Mathematics;Munster J. Math.
 Munster Lectures in Mathematics;Munst. Lect. Math.
+MusMat. Brazilian Journal of Music and Mathematics;MusMat Brazil. J. Music Math.
 NASA Monographs in Systems and Software Engineering;NASA Monogr. Syst. Softw. Eng.
 NATO Advanced Science Institutes Series A: Life Sciences;NATO Adv. Sci. Inst. Ser. A Life Sci.
 NATO Challenges of Modern Society;NATO Challenges Modern Soc.
 NATO Conference Series IV: Marine Sciences;NATO Conf. Ser. IV: Marine Sci.
 NATO Conference Series VI: Materials Science;NATO Conf. Ser. VI: Materials Sci.
 NATO Science for Peace and Security Series D: Information and Communication Security;NATO Sci. Peace Secur. Ser. D Inf. Commun. Secur.
+NODYCON Conference Proceedings Series;NODYCON Conf. Proc. Ser.
 NSF-CBMS Regional Conference Series in Probability and Statistics;NSF-CBMS Regional Conf. Ser. Probab. Statist.
 NTG-Fachberichte;NTG-Fachber.
 NWB-Studienbucher Wirtschaftswissenschaften;NWB-Studienbuch. Wirtschaftswissenschaft.
@@ -2157,6 +2306,7 @@ Nankai Series in Pure, Applied Mathematics and Theoretical Physics;Nankai Ser. P
 Nankai Tracts in Mathematics;Nankai Tracts Math.
 NanoScience and Technology;NanoSci. Technol.
 Nanoscale Systems. Mathematical Modeling, Theory and Applications;Nanoscale Syst. Math. Model. Theory Appl.
+Nanostructure Science and Technology;Nanostruct. Sci. and Tech.
 National Academy Science Letters;Nat. Acad. Sci. Lett.
 Natsionalna Akademiya Nauk Ukraini. Institut Matematiki. Ukrainskii Matematichnii Zhurnal;Ukrain. Mat. Zh.
 Natsionalnaya Akademiya Nauk Armenii. Izvestiya. Matematika;Izv. Nats. Akad. Nauk Armenii Mat.
@@ -2247,17 +2397,21 @@ OR Spectrum. Quantitative Approaches in Management;OR Spectrum
 Oberwolfach Reports;Oberwolfach Rep.
 Oberwolfach Seminars;Oberwolfach Semin.
 Ocean Engineering & Oceanography;Ocean Eng. Oceanogr.
+Okonomische Analyse des Rechts;Okon. Anal. Rechts
 On Thinking;On Think.
 Online Journal of Analytic Combinatorics;Online J. Anal. Comb.
 Ontos Mathematical Logic;Ontos Math. Log.
 Open Bioinformatics Journal;Open Bioinform. J.
 Open Cybernetics and Systemics Journal;Open Cybern. Syst. J.
+Open Journal of Discrete Applied Mathematics. ODAM;Open J. Discrete Appl. Math.
+Open Journal of Mathematical Optimization (OJMO);Open J. Math. Optim.
 Open Mathematics;Open Math.
 Open Mathematics Journal;Open Math. J.
 Open Numerical Methods Journal;Open Numer. Methods J.
 Open Systems & Information Dynamics;Open Syst. Inf. Dyn.
 Operating and Programming Systems Series;Oper. Program. Systems Ser.
 Operations Research;Oper. Res.
+Operations Research Forum;Oper. Res. Forum
 Operations Research Letters;Oper. Res. Lett.
 Operations Research Perspectives;Oper. Res. Perspect.
 Operations Research Proceedings;Oper. Res. Proc.
@@ -2274,8 +2428,8 @@ Optimization and Engineering. International Multidisciplinary Journal to Promote
 Optimization. A Journal of Mathematical Programming and Operations Research;Optimization
 Opuscula Mathematica;Opuscula Math.
 Order. A Journal on the Theory of Ordered Sets and its Applications;Order
-Organizatsiya Vychislitelnykh Struktur i Protsessov;Organiz. Vychisl. Struktur. Process.
 Organizatsiya Vychislitelnykh Struktur i Protsessov;Organiz. Vycisl. Struktur. Process.
+Organizatsiya Vychislitelnykh Struktur i Protsessov;Organiz. Vychisl. Struktur. Process.
 Osaka Journal of Mathematics;Osaka J. Math.
 Osnabrucker Schriften zur Mathematik. Reihe D: Mathematisch-Didaktische Manuskripte;Osnabruck. Schrift. Math. Reihe D Math.-Didakt. Manuskr.
 Osnabrucker Schriften zur Mathematik. Reihe I: Informatik;Osnabruck. Schrift. Math. Reihe I Inform.
@@ -2297,6 +2451,7 @@ Oxford Studies in Theoretical Linguistics;Oxf. Stud. Theor. Linguist.
 PAA. Pattern Analysis and Applications;PAA Pattern Anal. Appl.
 PAMM. Proceedings in Applied Mathematics and Mechanics;PAMM. Proc. Appl. Math. Mech.
 PHISPC Monograph Series on History of Philosophy, Science and Culture in India;PHISPC Monogr. Ser. Hist. Philos. Sci. Cult. India
+PNLDE Subseries in Control;PNLDE Subser. Control
 PTEP. Progress of Theoretical and Experimental Physics;PTEP. Prog. Theor. Exp. Phys.
 Pacific Journal of Applied Mathematics;Pac. J. Appl. Math.
 Pacific Journal of Mathematics;Pacific J. Math.
@@ -2306,24 +2461,33 @@ Pageoph Topical Volumes;Pageoph Top. Vol.
 Pakistan Journal of Statistics;Pakistan J. Statist.
 Pakistan Journal of Statistics and Operation Research;Pak. J. Stat. Oper. Res.
 Palestine Journal of Mathematics;Palest. J. Math.
+Palgrave Philosophy Today;Palgrave Philos. Today
+Palgrave Pivots in Sports Economics;Palgrave Pivots Sports Econ.
+Palgrave Studies in Literature, Science and Medicine;Palgrave Stud. Lit. Sci. Med.
+Palgrave Studies in Sustainability, Environment and Macroeconomics;Palgrave Stud. Sustain. Environ. Macroecon.
 Palgrave Texts in Econometrics;Palgrave Texts Econom.
 PanAmerican Mathematical Journal;PanAmer. Math. J.
 Panoramas et Syntheses;Panor. Syntheses
 Parallel Computing. Systems & Applications;Parallel Comput.
 Parallel Processing Letters;Parallel Process. Lett.
+Parallel Robots: Theory and Applications;Parallel Robots: Theory Appl.
 Parallel and Distributed Computing Series;Parallel Distrib. Comput. Ser.
+Partial Differential Equations and Applications;Partial Differ. Equ. Appl.
 Partial Differential Equations and Measure Theory;Partial Differ. Equ. Meas. Theory
 Particle Technology Series;Part. Technol. Ser.
 Particles and Fields Subseries;Particles and Fields Subser.
 Pathways in Mathematics;Pathw. Math.
+Peking Mathematical Journal;Peking Math. J.
 Peking University Series in Mathematics;Peking Univ. Ser. Math.
 Pergamon Studies in Neuroscience;Pergamon Stud. Neurosci.
 Periodica Mathematica Hungarica. Journal of the Janos Bolyai Mathematical Society;Period. Math. Hungar.
+Perspectives in Formal Induction, Revision and Evolution;Perspect. Form. Induction Revis. Evol.
 Perspectives in Logic;Perspect. Log.
 Perspectives on Science. Historical, Philosophical, Social;Perspect. Sci.
 Perspektiven der Mathematikdidaktik;Perspekt. Math.didakt.
 Perspektivy Razvitiya Vychislitelnoi Tekhniki;Perspekt. Razvit. Vychisl. Tekh.
 Petrokhimiya;Petrokhim.
+Petroleum Engineering;Pet. Eng.
 Philosophes Medievaux;Philos. Mediev.
 Philosophia Antiqua;Philos. Antiq.
 Philosophia Mathematica. Series III;Philos. Math. (3)
@@ -2333,6 +2497,7 @@ Philosophical Studies Series;Philos. Stud. Ser.
 Philosophical Studies. An International Journal for Philosophy in the Analytic Tradition;Philos. Stud.
 Philosophical Transactions of the Royal Society A. Mathematical, Physical and Engineering Sciences;Philos. Trans. Roy. Soc. A
 Philosophische Analyse/Philosophical Analysis;Philos. Anal.
+Philosophische Texte und Studien;Philos. Texte Stud.
 Philosophy of Engineering and Technology;Philos. Eng. Technol.
 Philosophy of Science;Philos. Sci.
 Physica A. Statistical Mechanics and its Applications;Phys. A
@@ -2349,6 +2514,7 @@ Physics of Earth and Space Environments;Phys. Earth Space Environ.
 Physikalische Monographien;Phys. Monogr.
 Physis---Rivista Internazionale di Storia della Scienza. Nuova Serie;Physis Riv. Internaz. Storia Sci. (N.S.)
 Pi Mu Epsilon Journal;Pi Mu Epsilon J.
+Pioneers in Arts, Humanities, Science, Engineering, Practice;Pioneers Arts Humanit. Sci. Eng. Pract.
 Pliska Studia Mathematica;Pliska Stud. Math.
 Plovdivski Universitet ``Paisii Khilendarski''. Nauchni Trudove. Matematika;Plovdiv. Univ. Paisii Khilendarski Nauchn. Trud. Mat.
 Podstawowe Algorytmy Numeryczne;Podstaw. Algorytmy Numer.
@@ -2393,6 +2559,7 @@ Princeton Series in Theoretical and Computational Biology;Princeton Ser. Theor. 
 Probability Surveys;Probab. Surv.
 Probability Theory and Related Fields;Probab. Theory Related Fields
 Probability Theory and Stochastic Modelling;Probab. Theory Stoch. Model.
+Probability and Mathematical Physics;Probab. Math. Phys.
 Probability and Mathematical Statistics;Probab. Math. Statist.
 Probability and its Applications;Probab. Appl.
 Probability and its Applications (New York);Probab. Appl. (N. Y.)
@@ -2407,6 +2574,7 @@ Problemy Analiza. Issues of Analysis;Probl. Anal. Issues Anal.
 Problemy Fiziki, Matematiki i Tekhniki;Probl. Fiz. Mat. Tekh.
 Problemy Programmirovaniya. Problems in Programming;Probl. Program.
 Proceedings A;Proc. A.
+Proceedings in Pure and Applied Mathematics;Proc. Pure Appl. Math.
 Proceedings of Ilia Vekua Institute of Applied Mathematics;Proc. I. Vekua Inst. Appl. Math.
 Proceedings of Institute of Mathematics and Mechanics. National Academy of Sciences of Azerbaijan;Proc. Inst. Math. Mech. Natl. Acad. Sci. Azerb.
 Proceedings of Machine Learning Research (PMLR);Proc. Mach. Learn. Res. (PMLR)
@@ -2455,6 +2623,7 @@ Publicationes Mathematicae Debrecen;Publ. Math. Debrecen
 Publications Mathematiques de Besancon. Algebre et Theorie des Nombres;Publ. Math. Besancon Algebre Theorie Nr.
 Publications Mathematiques. Institut de Hautes Etudes Scientifiques;Publ. Math. Inst. Hautes Etudes Sci.
 Publications des Archives Henri-Poincare;Publ. Arch. Henri-Poincare
+Publications of the Austrian Ludwig Wittgenstein Society. New Series;Publ. Austrian Ludwig Wittgenstein Soc. New Ser.
 Publications of the Research Institute for Mathematical Sciences;Publ. Res. Inst. Math. Sci.
 Publications of the University of Eastern Finland. Reports and Studies in Forestry and Natural Sciences;Publ. Univ. East. Finl. Rep. Stud. For. Nat. Sci.
 Publications of the University of Joensuu, Series BI;Publ. Univ. Joensuu, Ser. BI
@@ -2484,6 +2653,7 @@ Quantitative Economics;Quant. Econ.
 Quantitative Finance;Quant. Finance
 Quantitative Geology and Geostatistics;Quant. Geol. Geostat.
 Quantitative Methoden der Unternehmungsplanung;Quantitative Method. Unternehmungsplanung
+Quantitative Methods in the Humanities and Social Sciences;Quant. Methods Humanit. Soc. Sci.
 Quantitative Perspectives on Behavioral Economics and Finance;Quant. Perspect. Behav. Econ. Finance
 Quantitative Studies in Social Relations;Quantitative Stud. Social Relations
 Quantitative and Network Biology;Quant. Netw. Biol.
@@ -2512,6 +2682,7 @@ Ramanujan Mathematical Society Lecture Notes Series;Ramanujan Math. Soc. Lect. N
 Random Matrices. Theory and Applications;Random Matrices Theory Appl.
 Random Operators and Stochastic Equations;Random Oper. Stoch. Equ.
 Random Structures & Algorithms;Random Structures Algorithms
+Readings in Mathematics;Read. Math.
 Real Analysis Exchange;Real Anal. Exchange
 Recent Advances in Computational Chemistry;Recent Adv. Comput. Chem.
 Recent Results in Cancer Research;Recent Results Cancer Res.
@@ -2524,6 +2695,7 @@ Regular and Chaotic Dynamics. International Scientific Journal;Regul. Chaotic Dy
 Reihe Wissenschaft;Reihe Wiss.
 Reihe: Planung, Information und Unternehmungsfuhrung;Reihe: Planung, Inform. Unternehmungsfuhr.
 Reliable Computing;Reliab. Comput.
+Remaking Economics: Eminent Post-War Economists;Remaking Econ. Eminent Post-War Econ.
 Rendiconti del Circolo Matematico di Palermo. Second Series;Rend. Circ. Mat. Palermo (2)
 Rendiconti del Seminario Matematico della Universita di Padova;Rend. Semin. Mat. Univ. Padova
 Rendiconti del Seminario Matematico. Universita e Politecnico Torino;Rend. Semin. Mat. Univ. Politec. Torino
@@ -2540,8 +2712,11 @@ Representation Theory. An Electronic Journal of the American Mathematical Societ
 Reprints in Theory and Applications of Categories;Repr. Theory Appl. Categ.
 Research Reports;Res. Rep.
 Research and Exposition in Mathematics;Res. Exp. Math.
+Research in Mathematics;Res. Math.
 Research in Number Theory;Res. Number Theory
 Research in the Mathematical Sciences;Res. Math. Sci.
+Research on Intelligent Manufacturing (RIMS);Res. Intell. Manuf. (RIMS)
+Results in Applied Mathematics;Results Appl. Math.
 Results in Mathematics;Results Math.
 Review of Economic Design;Rev. Econ. Des.
 Review of Economic Studies;Rev. Econ. Stud.
@@ -2564,17 +2739,20 @@ Revista Mexicana de Fisica E. Publicacion de Ensenanza, Historia y Filosofia de 
 Revista de Matematica. Teoria y Aplicaciones;Rev. Mat. Teor. Apl.
 Revista de la Academia Canaria de Ciencias;Rev. Acad. Canaria Cienc.
 Revista de la Real Academia de Ciencias Exactas, Fisicas y Naturales (Espana);Rev. R. Acad. Cienc. Exactas Fis. Nat. (Esp.)
-Revista de la Real Academia de Ciencias Exactas, Fisicas y Naturales. Serie A. Matematicas. RACSAM;Rev. R. Acad. Cienc. Exactas Fis. Nat. Ser. A Mat. RACSAM
 Revista de la Real Academia de Ciencias Exactas, Fisicas y Naturales. Serie A. Matematicas. RACSAM;Rev. R. Acad. Cienc. Exactas Fis. Nat. Ser. A Math. RACSAM
+Revista de la Real Academia de Ciencias Exactas, Fisicas y Naturales. Serie A. Matematicas. RACSAM;Rev. R. Acad. Cienc. Exactas Fis. Nat. Ser. A Mat. RACSAM
 Revista de la Real Academia de Ciencias Exactas, Fisicas, Quimicas y Naturales de Zaragoza. Serie 2;Rev. R. Acad. Cienc. Exactas Fis. Quim. Nat. Zaragoza (2)
 Revista de la Union Matematica Argentina;Rev. Un. Mat. Argentina
 Revue Roumaine de Mathematiques Pures et Appliquees. Romanian Journal of Pure and Applied Mathematics;Rev. Roumaine Math. Pures Appl.
 Revue d'Histoire des Mathematiques. Journal for the History of Mathematics;Rev. Histoire Math.
 Revue d'Histoire des Sciences;Rev. Hist. Sci.
 Revue de Synthese. 6e Serie;Rev. Synth. (6)
+Revue de Synthese. 7e Serie;Rev. Synth. (7)
 Rezultaty Issledovanii po Mezhdunarodnym Proektam;Rezultaty Issled. Mezhdunar. Geofiz. Proekt.
 Ricerche di Matematica;Ric. Mat.
+Ricerche di Matematica. A Journal of Pure and Applied Mathematics;Ric. Mat.
 Risk Engineering;Risk Eng.
+River Publishers Series in Mathematical and Engineering Sciences;River Publ. Ser. Math. Eng. Sci.
 River Publishers Series in Software Engineering;River Publ. Ser. Softw. Eng.
 Rivista di Matematica della Universita di Parma. New Series. A Journal of Pure and Applied Mathematics;Riv. Math. Univ. Parma (N.S.)
 Robototekhnika i Gibkie Proizvodstvennye Sistemy;Robototekhn. Gibk. Proizvod. Sist.
@@ -2640,12 +2818,15 @@ SORT. Statistics and Operations Research Transactions;SORT
 SPIE Milestone Series;SPIE Milest. Ser.
 STEAM-H: Science, Technology, Engineering, Agriculture, Mathematics & Health;STEAM-H: Sci. Technol. Eng. Agric. Math. Health
 SUT Journal of Mathematics;SUT J. Math.
+Saas-Fee Advanced Course;Saas-Fee Adv. Course
 Sadhana. Academy Proceedings in Engineering Sciences;Sadhana
 Sagamore Army Materials Research Conference Proceedings;Sagamore Army Materials Res. Conf. Proc.
 Sage Benchmarks in Social Research Methods;Sage Benchmarks Soc. Res. Methods
 Sage Focus Editions;Sage Focus Ed.
 Saitama Mathematical Journal;Saitama Math. J.
+Sammlung Tusculum;Samml. Tusculum
 Sampling Theory in Signal and Image Processing. An International Journal;Sampl. Theory Signal Image Process.
+Sampling Theory, Signal Processing, and Data Analysis;Sampl. Theory Signal Process. Data Anal.
 Sankhya A. The Indian Journal of Statistics;Sankhya A
 Sankhya B. Applied and Interdisciplinary Statistics;Sankhya B
 Sankhya B. The Indian Journal of Statistics;Sankhya B
@@ -2664,12 +2845,15 @@ Schriften zur Wirtschaftspolitik. Neue Folge;Schrift. Wirtschaftspolit. N.F.
 Schriften zur Wirtschaftswissenschaftlichen Forschung;Schriften Wirtschaftswiss. Forsch.
 Schriftenreihe ``Die Versicherung'';Schriftenreihe Versicher.
 Schriftenreihe ``Wissenschaft und Frieden'';Schriftenreihe Wiss. Frieden
+Schriftenreihe der Institute fur Systemdynamik (ISD) und optische Systeme (IOS);Schriftenr. Inst. Syst.dyn. (ISD) Opt. Syst. (IOS)
 Schriftenreihe des Instituts fur Empirische Wirtschaftsforschung der Universitat Zurich;Schriftenreihe Inst. Empirische Wirtschaftsforsch. Univ. Zurich
+SciPost Physics;SciPost Phys.
 Science & Technology Education Library;Sci. Technol. Educ. Libr.
 Science China. Information Sciences;Sci. China Inf. Sci.
 Science China. Mathematics;Sci. China Math.
 Science Networks. Historical Studies;Sci. Networks Hist. Stud.
 Science Studies/Wetenschapsstudies;Sci. Stud./Wet.
+Science and Fiction;Sci. Fict.
 Science in Context;Sci. Context
 Science, Technology, and Medicine in Ancient Cultures;Sci. Technol. Med. Anc. Cult.
 Sciences Economiques;Sci. Econom.
@@ -2685,16 +2869,20 @@ Scientific Computation;Sci. Comput.
 Scientific Issues. Jan Dlugosz University in Czestochowa. Mathematics;Sci. Issues Jan Dlugosz Univ. Czest. Math.
 Scientific Psychology;Sci. Psychol.
 Scientific Studies and Research. Series Mathematics and Informatics;Sci. Stud. Res. Ser. Math. Inform.
+Scientific Writings from the Ancient and Medieval World;Sci. Writ. Anc. Mediev. World
 Scientific and Engineering Computation;Sci. Engrg. Comput.
 Scientists of Wales;Sci. Wales
 Scottish Graduate Series;Scott. Grad. Ser.
 SeMA Journal. Boletin de la Sociedad Espannola de Matematica Aplicada;SeMA J.
+Selecciones Matematicas;Sel. Mat.
 Selecta Mathematica. New Series;Selecta Math. (N.S.)
+Selected Chapters of Number Theory: Special Numbers;Sel. Chapters Number Theory: Spec. Numbers
 Selected Works in Probability and Statistics;Sel. Works Probab. Stat.
 Self-Teaching Guides on Mathematics;Self-Teach. Guides Math.
 SemStat Elements;SemStat Elem.
 Seminaire Lotharingien de Combinatoire;Sem. Lothar. Combin.
 Seminaire de Mathematique (Nouvelle Serie);Sem. Math. (N. S.)
+Seminaire de Probabilites;Semin. Probab.
 Seminaire: Equations aux Derivees Partielles;Semin. Equ. Deriv. Partielles
 Seminaires et Congres;Semin. Congr.
 Seminar of Ilia Vekua Institute of Applied Mathematics. Reports;Semin. I. Vekua Inst. Appl. Math. Rep.
@@ -2706,13 +2894,17 @@ Seria: Konferencje;Ser. Konf. (Wroc.)
 Serie Cientifica;Ser. Cient.
 Serie Systemes Automatises;Ser. Syst. Autom.
 Serie di Matematica e Fisica;Ser. Mat. Fis.
+Series in Algebraic and Differential Geometry;Ser. Algebr. Differ. Geom.
 Series in Analysis;Ser. Anal.
 Series in Applied and Computational Mathematics;Ser. Appl. Comput. Math.
+Series in BioEngineering;Ser. BioEng.
 Series in Computer Vision;Ser. Comput. Vis.
 Series in Contemporary Applied Mathematics CAM;Ser. Contemp. Appl. Math. CAM
 Series in Contemporary Mathematics;Ser. Contemp. Math.
+Series in Display Science and Technology;Ser. Disp. Sci. Tech.
 Series in Electrical and Computer Engineering;Ser. Electr. Comput. Eng.
 Series in International Business and Economics;Ser. Internat. Bus. Econom.
+Series in Machine Perception and Artificial Intelligence;Ser. Mach. Percept. Artif. Intell.
 Series in Modern Condensed Matter Physics;Ser. Modern Condensed Matter Phys.
 Series in Optics and Optoelectronics;Ser. Opt. Optoelectron.
 Series in Pure Mathematics;Ser. Pure Math.
@@ -2727,6 +2919,7 @@ Series on Complexity Science;Ser. Complex. Sci.
 Series on Complexity, Nonlinearity and Chaos;Ser. Complex. Nonlinearity Chaos
 Series on Concrete and Applicable Mathematics;Ser. Concr. Appl. Math.
 Series on Knots and Everything;Ser. Knots Everything
+Series on Mathematics Education;Ser. Math. Educ.
 Series on Multivariate Analysis;Ser. Multivariate Anal.
 Series on Number Theory and its Applications;Ser. Number Theory Appl.
 Series on Optimization and its Applications;Ser. Optim. Appl.
@@ -2736,6 +2929,7 @@ Series on University Mathematics;Ser. Univ. Math.
 Series on the Foundations of Natural Science and Technology;Ser. Found. Nat. Sci. Tech.
 Series on the Pure and Applied Mathematics;Ser. Pure Appl. Math.
 Set-Valued and Variational Analysis;Set-Valued Var. Anal.
+Set-Valued and Variational Analysis. Theory and Applications;Set-Valued Var. Anal.
 Shaanxi Normal University. Journal. Natural Science Edition. Shaanxi Shifan Daxue Xuebao. Ziran Kexue Ban;J. Shaanxi Normal Univ. Nat. Sci. Ed.
 Shiyan Wulixeu Congshu;Shiyan Wulixue Congshu
 Shock Wave and High Pressure Phenomena;Shock Wave High Press. Phenom.
@@ -2771,7 +2965,9 @@ Soviet Scientific Reviews/Section A: Physics Reviews;Soviet Sci. Rev. Sect. A Ph
 Sovremennaya Matematika. Fundamentalnye Napravleniya;Sovrem. Mat. Fundam. Napravl.
 Sovremennye Fiziko-Tekhnicheskie Problemy;Sovrem. Fiz.-Tekh. Probl.
 Sovremennye Problemy Matematiki;Sovrem. Probl. Mat.
+Space Science and Technologies;Space Sci. Technol.
 Space Technology Library;Space Technol. Libr.
+Space Technology Proceedings;Space Technol. Proc.
 Spatial Statistics;Spat. Stat.
 Special Issue of IMVI;Spec. Issue IMVI
 Special Matrices;Spec. Matrices
@@ -2784,9 +2980,11 @@ Springer Briefs in Business;Springer Briefs Bus.
 Springer Briefs in Environmental Science;Springer Briefs Environ. Sci.
 Springer Briefs in Operations Research;Springer Briefs Oper. Res.
 Springer Briefs in Water Science and Technology;Springer Briefs Water Sci. Technol.
+Springer Climate;Springer Clim.
 Springer Collected Works in Mathematics;Springer Collect. Works Math.
 Springer Finance Lecture Notes;Springer Finance Lect. Notes
 Springer Finance Textbooks;Springer Finance Textb.
+Springer Geology;Springer Geol.
 Springer Geophysics;Springer Geophys.
 Springer Graduate Texts in Philosophy;Springer Grad. Texts Philos.
 Springer Handbooks of Computational Statistics;Springer Handb. Comput. Stat.
@@ -2794,6 +2992,9 @@ Springer INdAM Series;Springer INdAM Ser.
 Springer Monographs in Mathematics;Springer Monogr. Math.
 Springer Optimization and Its Applications;Springer Optim. Appl.
 Springer Proceedings in Advanced Robotics;Springer Proc. Adv. Robot.
+Springer Proceedings in Business and Economics;Springer Proc. Bus. Econ.
+Springer Proceedings in Complexity;Springer Proc. Complexity
+Springer Proceedings in Earth and Environmental Sciences;Springer Proc. Earth Environ. Sci.
 Springer Proceedings in Mathematics;Springer Proc. Math.
 Springer Proceedings in Mathematics & Statistics;Springer Proc. Math. Stat.
 Springer Proceedings in Physics;Springer Proc. Phys.
@@ -2806,6 +3007,8 @@ Springer Series in Materials Science;Springer Ser. Mater. Sci.
 Springer Series in Measurement Science and Technology;Springer Ser. Meas. Sci. Technol.
 Springer Series in Operations Research and Financial Engineering;Springer Ser. Oper. Res. Financ. Eng.
 Springer Series in Optical Sciences;Springer Ser. Optical Sci.
+Springer Series in Pharmaceutical Statistics;Springer Ser. Pharm. Stat.
+Springer Series in Plasma Science and Technology;Springer Ser. Plasma Sci. Technol.
 Springer Series in Reliability Engineering;Springer Ser. Reliab. Eng.
 Springer Series in Solid and Structural Mechanics;Springer Ser. Solid Struct. Mech.
 Springer Series in Solid-State Sciences;Springer Ser. Solid-State Sci.
@@ -2816,7 +3019,10 @@ Springer Series in Surface Sciences;Springer Ser. Surface Sci.
 Springer Series in Synergetics;Springer Ser. Synergetics
 Springer Series in the Data Sciences;Springer Ser. Data Sci.
 Springer Series on Atomic, Optical, and Plasma Physics;Springer Ser. At. Opt. Plasma Phys.
+Springer Series on Chemical Sensors and Biosensors;Springer Ser. Chem. Sens. Biosens.
+Springer Series on Naval Architecture, Marine Engineering, Shipbuilding and Shipping;Springer Ser. Nav. Archit. Mar. Eng. Shipbuild. Shipp.
 Springer Studium Mathematik---Master;Springer Stud. Math. Master
+Springer Textbooks in Earth Sciences, Geography and Environment;Springer Textb. Earth Sci. Geogr. Environ.
 Springer Texts in Business and Economics;Springer Texts Bus. Econ.
 Springer Texts in Statistics;Springer Texts Statist.
 Springer Topics in Signal Processing;Springer Top. Signal Process.
@@ -2824,16 +3030,21 @@ Springer Tracts in Advanced Robotics;Springer Tracts Adv. Robot.
 Springer Tracts in Civil Engineering;Springer Tracts Civ. Eng.
 Springer Tracts in Mechanical Engineering;Springer Tracts Mech. Eng.
 Springer Tracts in Modern Physics;Springer Tracts Modern Phys.
+Springer Tracts in Nature-Inspired Computing;Springer Tracts Nat.-Inspir. Comput.
 Springer Tracts on Transportation and Traffic;Springer Tracts Transp. Traffic
+Springer Transactions in Civil and Environmental Engineering;Springer Trans. Civil Environ. Eng.
 Springer Uncertainty Research;Springer Uncertain. Res.
 Springer Undergraduate Mathematics Series;Springer Undergrad. Math. Ser.
 Springer Undergraduate Textbooks in Statistics;Springer Undergrad. Textb. Stat.
 Springer Undergraduate Texts in Mathematics and Technology;Springer Undergrad. Texts Math. Technol.
 Springer Undergraduate Texts in Philosophy;Springer Undergrad. Texts Philos.
 Springer-Lehrbuch Masterclass;Springer-Lehrb. Mastercl.
+Springer-Praxis Books in Astronomy and Planetary Sciences;Springer-Praxis Books Astron. Planet. Sci.
 Springer-Praxis Books in Environmental Sciences;Springer-Praxis Books Environ. Sci.
+Springer-Praxis Books. Popular Science;Springer-Praxis Books. Pop. Sci.
 SpringerBriefs in Advanced Information and Knowledge Processing;SpringerBriefs Adv. Inf. Knowl. Process.
 SpringerBriefs in Applied Sciences and Technology;SpringerBriefs Appl. Sci. Technol.
+SpringerBriefs in Applied Statistics and Econometrics;SpringerBriefs Appl. Stat. Econom.
 SpringerBriefs in Astronomy;SpringerBriefs Astron.
 SpringerBriefs in Bioengineering;SpringerBriefs Bioeng.
 SpringerBriefs in Complexity;SpringerBriefs Complex.
@@ -2843,6 +3054,7 @@ SpringerBriefs in Computer Science;SpringerBriefs Comput. Sci.
 SpringerBriefs in Continuum Mechanics;SpringerBriefs Contin. Mech.
 SpringerBriefs in Control, Automation and Robotics;SpringerBriefs Control Autom. Robot.
 SpringerBriefs in Earth Sciences;SpringerBriefs Earth Sci.
+SpringerBriefs in Earth System Sciences;SpringerBriefs Earth Syst. Sci.
 SpringerBriefs in Ecology;SpringerBriefs Ecol.
 SpringerBriefs in Economics;SpringerBriefs Econ.
 SpringerBriefs in Electrical and Computer Engineering;SpringerBriefs Electr. Comput. Eng.
@@ -2926,6 +3138,7 @@ Studia Logica. An International Journal for Symbolic Logic;Studia Logica
 Studia Mathematica;Studia Math.
 Studia Philosophica;Stud. Philos.
 Studia Scientiarum Mathematicarum Hungarica. A Quarterly of the Hungarian Academy of Sciences;Studia Sci. Math. Hungar.
+Studia Scientiarum Mathematicarum Hungarica. Combinatorics, Geometry and Topology (CoGeTo);Studia Sci. Math. Hungar.
 Studia z Zakresu Inzynierii;Stud. Zakresu Inz.
 Studia. Universitatis Babes-Bolyai Mathematica;Stud. Univ. Babes-Bolyai Math.
 Studia. Universitatis Babes-Bolyai. Informatica;Stud. Univ. Babes-Bolyai Inform.
@@ -2971,6 +3184,7 @@ Studies of the University of Zilina. Mathematical Series;Stud. Univ. Zilina Math
 Studies on the Semantic Web;Stud. Semant. Web
 Subseries in Control;Subser. Control
 Suhayl. International Journal for the History of the Exact and Natural Sciences in Islamic Civilisation;Suhayl
+Surveys and Tutorials in the Applied Mathematical Sciences;Surv. Tutor. Appl. Math. Sci.
 Surveys in Approximation Theory;Surv. Approx. Theory
 Surveys in Differential Geometry;Surv. Differ. Geom.
 Surveys in Mathematics and its Applications;Surv. Math. Appl.
@@ -2996,6 +3210,8 @@ Systems & Control Letters;Systems Control Lett.
 Systems & Control: Foundations & Applications;Systems Control Found. Appl.
 Systems Evaluation, Prediction, and Decision-Making Series;Syst. Eval. Predict. Decis.-Mak. Ser.
 TEMA. Tendencias em Matematica Aplicada e Computacional;TEMA Tend. Mat. Apl. Comput.
+TEST. An Official Journal of the Spanish Society of Statistics and Operations Research;TEST
+TOP. An Official Journal of the Spanish Society of Statistics and Operations Research;TOP
 TWMS Journal of Pure and Applied Mathematics;TWMS J. Pure Appl. Math.
 Taiwanese Journal of Mathematics;Taiwanese J. Math.
 Tamkang Journal of Mathematics;Tamkang J. Math.
@@ -3007,7 +3223,9 @@ Techniki Tworczego Myslenia;Tech. Tworczego Myslenia
 Technology in Education Series;Tech. Ed. Ser.
 Technology, Risk, and Society;Technol. Risk Soc.
 Technometrics. A Journal of Statistics for the Physical, Chemical and Engineering Sciences;Technometrics
+Teoreticheskaya i Matematicheskaya Fizika;Teoret. Mat. Fiz.
 Teoriya Imovirnostei ta Matematichna Statistika. Kiivskii Universitet imeni Tarasa Shevchenka;Teor. Imovir. Mat. Stat.
+Teoriya Veroyatnostei i ee Primeneniya;Teor. Veroyatn. Primen.
 Tesi di Perfezionamento;Tesi Perfez.
 Tesi. Scuola Normale Superiore di Pisa (Nuova Series);Tesi Sc. Norm. Super. Pisa (N. S.)
 Teubner Studienbucher Physik/Chemie;Teubner Studienbuch. Phys./Chem.
@@ -3017,6 +3235,7 @@ Textbook Series in Physical Sciences;Textb. Ser. Phys. Sci.
 Textbooks in Electrical and Electronic Engineering;Textb. Electr. Electron. Eng.
 Textbooks in Mathematics;Textb. Math.
 Textes et Etudes du Moyen Age;Textes Etudes Moyen Age
+Textos de Matematica;Textos Mat.
 Textos de Matematica/Mathematics Texts;Textos Mat./Math. Texts
 Textos y Manuales de Ensenanza;Textos Man. Ensen.
 Texts and Monographs in Symbolic Computation;Texts Monogr. Symbol. Comput.
@@ -3030,6 +3249,7 @@ Texts in Computational Science and Engineering;Texts Comput. Sci. Eng.
 Texts in Computer Science;Texts Comput. Sci.
 Texts in Computing;Texts Comput.
 Texts in Logic and Reasoning;Texts Log. Reason.
+Texts in Mathematics;Texts Math.
 Texts in Philosophy;Texts Philos.
 Texts in Statistical Science Series;Texts Statist. Sci. Ser.
 Texts in Theoretical Computer Science. An EATCS Series;Texts Theoret. Comput. Sci. EATCS Ser.
@@ -3095,6 +3315,7 @@ The Mathematical Scientist;Math. Sci.
 The Mathematics Student;Math. Student
 The Nepali Mathematical Sciences Report;Nepali Math. Sci. Rep.
 The Open Book Series;Open Book Ser.
+The PUMP Journal of Undergraduate Research;PUMP J. Undergrad. Res.
 The Philosophy of Science in a European Perspective;Philos. Sci. Eur. Perspect.
 The Punjab University. Journal of Mathematics;Punjab Univ. J. Math. (Lahore)
 The Quarterly Journal of Mathematics;Q. J. Math.
@@ -3110,14 +3331,15 @@ The University Series in Higher Mathematics;Univ. Ser. Higher Math.
 The University of Tokyo. Journal of Mathematical Sciences;J. Math. Sci. Univ. Tokyo
 The World of Learning;World Learn.
 The Yale Leibniz;Yale Leibniz
+Themes in Economics;Themes Econ.
 Themes in Modern Econometrics;Themes Mod. Econom.
 Theologische Bibliothek Topelmann;Theol. Bibl. Topelmann
 Theoretical Biology;Theor. Biol.
 Theoretical Computer Science;Theoret. Comput. Sci.
 Theoretical Economics;Theor. Econ.
 Theoretical and Computational Fluid Dynamics;Theor. Comput. Fluid Dyn.
-Theoretical and Mathematical Physics;Theoret. Math. Phys.
 Theoretical and Mathematical Physics;Theoret. and Math. Phys.
+Theoretical and Mathematical Physics;Theoret. Math. Phys.
 Theoria. A Swedish Journal of Philosophy;Theoria
 Theoria. Revista de Teoria, Historia y Fundamentos de la Ciencia. Segunda Epoca. An International Journal for Theory, History and Foundations of Science. Second Series;Theoria (San Sebastian) (2)
 Theory and Applications of Categories;Theory Appl. Categ.
@@ -3147,6 +3369,7 @@ Topological Methods in Nonlinear Analysis;Topol. Methods Nonlinear Anal.
 Topology Proceedings;Topology Proc.
 Topology and its Applications;Topology Appl.
 Toyama Mathematical Journal;Toyama Math. J.
+Tradematic. Metodologie Matematiche e Tecnologie Informatiche per la Finanza;Tradematic
 Trajectos Ciencia;Traject. Cienc.
 Transactions of A. Razmadze Mathematical Institute;Trans. A. Razmadze Math. Inst.
 Transactions of Azerbaijan National Academy of Sciences. Series of Physical-Technical and Mathematical Sciences. Physics and Astronomy;Trans. Azerb. Natl. Acad. Sci. Ser. Phys.-Tech. Math. Sci. Phys. Astron.
@@ -3161,11 +3384,13 @@ Transactions of the New York Academy of Sciences, Series II;Trans. New York Acad
 Transactions on Combinatorics;Trans. Comb.
 Transcultural Research---Heidelberg Studies on Asia and Europe in a Global Context;Transcult. Res. Heidelb. Stud. Asia Europe Glob. Context
 Transformation Groups;Transform. Groups
+Translational Systems Sciences;Transl. Syst. Sci.
 Translations of Mathematical Monographs;Transl. Math. Monogr.
 Transport in Porous Media;Transp. Porous Media
 Travaux Mathematiques;Trav. Math.
 Trends in Abstract and Applied Analysis;Trends Abstr. Appl. Anal.
 Trends in Classics---Supplementary Volumes;Trends Class. Suppl. Vol.
+Trends in Computational and Applied Mathematics;Trends Comput. Appl. Math.
 Trends in Logic---Studia Logica Library;Trends Log. Stud. Log. Libr.
 Trends in Mathematics;Trends Math.
 Trends in Mathematics. Research Perspectives;Trends Math. Res. Perspect.
@@ -3174,6 +3399,7 @@ Trends in the History of Science;Trends Hist. Sci.
 Trudy Instituta Matematiki;Tr. Inst. Mat.
 Trudy Instituta Matematiki i Mekhaniki;Tr. Inst. Mat. Mekh.
 Trudy Instituta Prikladnoi Matematiki i Mekhaniki;Tr. Inst. Prikl. Mat. Mekh.
+Trudy Matematicheskogo Instituta Imeni V. A. Steklova;Tr. Mat. Inst. Steklova
 Trudy Matematicheskogo Instituta Imeni V. A. Steklova. Rossiiskaya Akademiya Nauk;Tr. Mat. Inst. Steklova
 Trudy Seminara S. L. Soboleva, No. 2;Trudy Sem. S. L. Soboleva, No. 2
 Tsukuba Journal of Mathematics;Tsukuba J. Math.
@@ -3182,6 +3408,7 @@ Turkish Journal of Mathematics;Turkish J. Math.
 Tutkimuksia---Research Reports;Tutkimuksia---Res. Rep.
 Tutorials, Schools, and Workshops in the Mathematical Sciences;Tutor. Sch. Workshops Math. Sci.
 UNIPA Springer Series;UNIPA Springer Ser.
+UTokyo Engineering Course/Basic Mathematics;UTokyo Eng. Course/Basic Math.
 Uchenye Zapiski Kazanskogo Universiteta. Seriya Fiziko-Matematicheskie Nauki;Uch. Zap. Kazan. Univ. Ser. Fiz.-Mat. Nauki
 Uchenye Zapiski. Artsakhskii Gosudarstvennyi Universitet;Uch. Zap. Artsakh. Gos. Univ.
 Ufa Mathematical Journal;Ufa Math. J.
@@ -3190,6 +3417,7 @@ Ukrainskii Matematichnii Visnik;Ukr. Mat. Visn.
 Uncertainty and Operations Research;Uncertain. Oper. Res.
 Undergraduate Lecture Notes in Physics;Undergrad. Lect. Notes Phys.
 Undergraduate Texts in Mathematics;Undergrad. Texts Math.
+Undergraduate Texts in Physics;Undergrad. Texts Phys.
 Undergraduate Topics in Computer Science;Undergrad. Top. Comput. Sci.
 Understanding Complex Systems;Underst. Complex Syst.
 Uniform Distribution Theory;Unif. Distrib. Theory
@@ -3202,11 +3430,14 @@ Universite de Grenoble. Annales de l'Institut Fourier;Ann. Inst. Fourier (Grenob
 University Lecture Series;Univ. Lecture Ser.
 University of Joensuu, Department of Physics and Mathematics. Report Series;Univ. Joensuu Dep. Phys. Math. Rep. Ser.
 University of Lodz. Department of Logic. Bulletin of the Section of Logic;Bull. Sect. Logic Univ. Lodz
+University of Tehran Science and Humanities Series;Univ. Tehran Sci. Humanit. Ser.
 Univerzitet u Nisu. Prirodno-Matematicki Fakultet. Filomat;Filomat
 Uniwersytet im. Adama Mickiewicza w Poznaniu. Wydzial Matematyki i Informatyki. Functiones et Approximatio Commentarii Mathematici;Funct. Approx. Comment. Math.
+Unsupervised and Semi-Supervised Learning;Unsupervised and Semi-Supervised Learn.
 Untimely Meditations;Untimely Medit.
 Upravlenie Bolshimi Sistemami;Upr. Bolsh. Sist.
 Ural Mathematical Journal;Ural Math. J.
+Uspekhi Matematicheskikh Nauk;Uspekhi Mat. Nauk
 Utilitas Mathematica;Util. Math.
 Uzbek Mathematical Journal;Uzbek Math. J.
 VLSI Design;VLSI Des.
@@ -3215,6 +3446,7 @@ Van Nostrand Reinhold Mathematics Studies;Van Nostrand Reinhold Math. Stud.
 Varahmihir Journal of Mathematical Sciences;Varahmihir J. Math. Sci.
 Variorum Collected Studies Series;Variorum Collect. Stud. Ser.
 Vector Optimization;Vector Optim.
+Veroffentlichungen des Deutschen Historischen Instituts London;Veroff. Dtsch. Hist. Inst. London
 Veroffentlichungen des Instituts fur Bibliothekswissenschaft und Bibliothekarausbildung der Freien Universitat Berlin;Veroffentl. Inst. Bibliothekswissen. Bibliothekarausbild. Freien Univ. Berlin
 Veroffentlichungen zur Geschichte der Naturwissenschaften, Mathematik und Medizin;Veroff. Gesch. Naturwiss. Math. Med.
 Very Short Introductions;Very Short Introd.
@@ -3228,7 +3460,9 @@ Vestnik Sankt-Peterburgskogo Universiteta. Prikladnaya Matematika. Informatika. 
 Vestnik St. Petersburg University. Mathematics;Vestnik St. Petersburg Univ. Math.
 Vestnik Tomskogo Gosudarstvennogo Universiteta. Matematika i Mechanika;Vestn. Tomsk. Gos. Univ. Mat. Mech.
 Vestnik Udmurtskogo Universiteta. Matematika. Mekhanika. Kompyuternye Nauki;Vestn. Udmurt. Univ. Mat. Mekh. Kompyut. Nauki
+Vestnik Voronezhskogo Gosudarstvennogo Universiteta. Seriya Fizika, Matematika;Vestn. Voronezh. Gos. Univ. Ser. Fiz., Mat.
 Vestsi Natsyyanalnai Akademii Navuk Belarusi. Seryya Fizika-Matematychnykh Navuk. Izvestiya Natsionalnoi Akademii Nauk Belarusi. Seriya Fiziko-Matematicheskikh Nauk. Proceedings of the National Academy of Sciences of Belarus. Physics and Mathematics Series;Vestsi Nats. Akad. Navuk Belarusi Ser. Fiz.-Mat. Navuk
+Vienna Circle Institute Library;Vienna Circ. Inst. Libr.
 Vienna Circle Institute Yearbook;Vienna Circ. Inst. Yearb.
 Vietnam Journal of Mathematics;Vietnam J. Math.
 Vieweg Programmbibliothek. Taschenrechner;Vieweg Programmbibl. Taschenrechner
@@ -3247,6 +3481,7 @@ WIT Transactions on Engineering Sciences;WIT Trans. Eng. Sci.
 WIT Transactions on Modelling and Simulation;WIT Trans. Model. Simul.
 Wakayama University. Faculty of Education. Bulletin. Natural Science;Bull. Fac. Ed. Wakayama Univ. Natur. Sci.
 Walter Eucken Institut. Wirtschaftswissenschaftliche und Wirtschaftsrechtliche Untersuchungen;Walter Eucken Inst. Wirtschaftswissensch. Wirtschaftsrechtl. Unters.
+Water Waves. An Interdisciplinary Journal;Water Waves
 Wave Motion. An International Journal Reporting Research on Wave Phenomena;Wave Motion
 Waves in Random and Complex Media. Propagation, Scattering and Imaging;Waves Random Complex Media
 Werkstatt Bionik und Evolutionstechnik;Werkstatt Bion. Evol.
@@ -3277,7 +3512,9 @@ Wireless Networks;Wirel. Netw.
 Wirtschaftswissenschaftliches Studium---Taschenbucher;WiSt---Taschenbucher
 Wissenschaftliche Bucherei;Wiss. Bucherei
 Women in Antiquity;Women Antiq.
+Women in the History of Philosophy and Sciences;Women Hist. Philos. Sci.
 Woodhead Publishing Series in Biomedicine;Woodhead Publ. Ser. Biomed.
+Woodhead Publishing Series in Composites Science and Engineering;Woodhead Publ. Ser. Compos. Sci. Eng.
 Woodhead Publishing in Mechanical Engineering;Woodhead Publ. Mech. Eng.
 World Scientific Handbook in Financial Economics Series;World Sci. Handb. Financ. Econ. Ser.
 World Scientific Lecture Notes in Economics and Policy;World Sci. Lect. Notes Econ. Policy
@@ -3287,6 +3524,7 @@ World Scientific Series in Economic Theory;World Sci. Ser. Econ. Theory
 World Scientific Series in Finance;World Sci. Ser. Finance
 World Scientific Series in Information Studies;World Sci. Ser. Inf. Stud.
 World Scientific Series on Nonlinear Science. Series A: Monographs and Treatises;World Sci. Ser. Nonlinear Sci. Ser. A Monogr. Treatises
+World Scientific Series on Nonlinear Science. Series B: Special Theme Issues and Proceedings;World Sci. Ser. Nonlinear Sci. Ser. B Spec. Theme Issues Proc.
 World Scientific Series on Probability Theory and Its Applications;World Sci. Ser. Probab. Theory Appl.
 World Scientific---Now Publishers Series in Business;World Sci. Now Publ. Ser. Bus.
 Wuhan University. Journal of Natural Sciences;Wuhan Univ. J. Nat. Sci.
@@ -3298,6 +3536,7 @@ Yugoslav Journal of Operations Research. An International Journal dealing with T
 ZAMM. Zeitschrift fur Angewandte Mathematik und Mechanik. Journal of Applied Mathematics and Mechanics;ZAMM Z. Angew. Math. Mech.
 Zbirka Izbranih Poglavij iz Fizike;Zbirka Izbran. Poglav. Fiz.
 Zbirka Izbranih Poglavij iz Matematike;Zbirka Izbran. Poglav. Mat.
+Zbirnik Prats Institutu Matematiki NAN Ukraini;Zb. Pr. Inst. Mat. NAN Ukr.
 Zbornik Radova. (Beograd);Zb. Rad. (Beogr.)
 Zeitschrift fur Analysis und ihre Anwendungen. Journal of Analysis and its Applications;Z. Anal. Anwend.
 Zeitschrift fur Angewandte Mathematik und Physik. ZAMP. Journal of Applied Mathematics and Physics. Journal de Mathematiques et de Physique Appliquees;Z. Angew. Math. Phys.
