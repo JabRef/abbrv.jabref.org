@@ -17,13 +17,13 @@ With a little extra effort you can directly edit one of the journal abbreviation
 5. Create a pull request for your changes.
 6. You should now find it in the list of [pull requests](https://github.com/JabRef/abbrv.jabref.org/pulls).
 
-**Note:** *For use in JabRef, the topical lists are merged alphabetically with preference given to the last occurence of duplicate journal titles. The general list currently overrides all other lists. Also, an abbreviation might be present in several lists. If you are submitting a correction, check if it exists in several lists due to overlapping subjects or in the general list and make sure all occurences are corrected.*
+**Note:** *For use in JabRef, the topical lists are merged alphabetically with preference given to the last occurrence of duplicate journal titles. The general list currently overrides all other lists. Also, an abbreviation might be present in several lists. If you are submitting a correction, check if it exists in several lists due to overlapping subjects or in the general list and make sure all occurrences are corrected.*
 
 ## Adding a journal list
 
 1. Get a [GitHub account/sign in](https://github.com/login).
-2. Add the file to <https://github.com/JabRef/abbrv.jabref.org/tree/master/journals> (make sure to use the `.csv` format [described below](#format-of-the-file); for importing TXT data files, you should use [this script](../convert_txt2csv.py) before).
-3. Add the file to <https://github.com/JabRef/abbrv.jabref.org/blob/master/journals/README.md> (sorted in alphabetically).
+2. Add the file to <https://github.com/JabRef/abbrv.jabref.org/tree/master/journals> (make sure to use the `.csv` format [described below](#format-of-the-file); for importing TXT data files, you should use [this script](../scripots/convert_txt2csv.py) before).
+3. Add the file to <https://github.com/JabRef/abbrv.jabref.org/blob/main/journals/README.md> (sorted in alphabetically).
 4. Create a pull request on this repository.
 
 ## Format of the file
