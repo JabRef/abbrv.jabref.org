@@ -1,0 +1,26 @@
+name: Refresh Journal Lists
+
+on:
+  push:
+    branches:
+      - add-update-workflow
+  schedule:
+    # Run on the first of each month at 9:00 AM (See https://pubs.opengroup.org/onlinepubs/9699919799/utilities/crontab.html#tag_20_25_07)
+    - cron: "0 9 1 * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    name: Update MathSciNet
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+      - run: pip install pandas
+      - run: python scripts/update_mathscinet.py
+      - uses: peter-evans/create-pull-request@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: update-mathscinet
+          title: "[Bot] Update MathSciNet Journal abbreviation list"
+          commit-message: "Update MathSciNet journal abbreviation list"
