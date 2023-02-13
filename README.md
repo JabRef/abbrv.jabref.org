@@ -3,11 +3,21 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-A repository of abbreviations for references, e.g., for conferences, journals, and institutes.
+A repository of abbreviations for references, e.g., for journals, conferences, and institutes.
 
-Currently, a number of **[journal lists](journals/)** are offered.
+## Journal abbreviations
 
-## Format of the file
+Currently, a number of journal lists are offered.
+Please check the direcotry [`journals`](journals/) for 
+
+- a list of abbreviations
+- an explanating [`README.md`](journals/REAMDE.md) listing the sources of the csv file. For instance, some lists are generated using Python, some are maintained manually.
+
+## Conference and institute abbreviations
+
+This is future work.
+
+## Format of the CSV files
 
 Since October 2019, the data files are in CSV format (using semicolons as separators):
 
