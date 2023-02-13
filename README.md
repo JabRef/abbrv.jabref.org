@@ -11,7 +11,7 @@ Currently, a number of journal lists are offered.
 Please check the direcotry [`journals`](journals/) for 
 
 - a list of abbreviations
-- an explanating [`README.md`](journals/REAMDE.md) listing the sources of the csv file. For instance, some lists are generated using Python, some are maintained manually.
+- an explaining [`README.md`](journals/README.md) listing the sources of the csv file. For instance, some lists are generated using Python, some are maintained manually.
 
 ## Conference and institute abbreviations
 
