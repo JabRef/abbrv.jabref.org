@@ -11,6 +11,7 @@ import_order = [
   '../journals/journal_abbreviations_geology_physics.csv',
   '../journals/journal_abbreviations_geology_physics_variations.csv',
   '../journals/journal_abbreviations_ieee.csv',
+  '../journals/journal_abbreviations_ieee_strings.csv',
   '../journals/journal_abbreviations_lifescience.csv',
   '../journals/journal_abbreviations_mathematics.csv',
   '../journals/journal_abbreviations_mechanical.csv',
