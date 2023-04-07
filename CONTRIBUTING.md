@@ -1,6 +1,7 @@
 # How to contribute to the journal abbreviation lists
 
-If you find errors or missing journals in the journal abbreviation list used by JabRef, this is the place to submit a correction. If you have an extensive list for your subject area that is not covered by the existing lists, you can consider to add a journal list.
+If you find errors or missing journals in the journal abbreviation list used by JabRef, this is the place to submit a correction.
+If you have an extensive list for your subject area that is not covered by the existing lists, you can consider adding a journal list.
 
 ## Corrections and additions to existing journal lists
 
@@ -28,19 +29,4 @@ With a little extra effort you can directly edit one of the journal abbreviation
 
 ## Format of the file
 
-Since October 2019, the data files are in CSV format (using semicolons as separators):
-
-```csv
-<full name>;<abbreviation>[;<shortest unique abbreviation>[;<frequency>]]
-```
-
-The abbreviation should follow the ISO4 standard, see <https://marcinwrochna.github.io/abbrevIso/> for details on the abbreviation rules and a search form for title word abbreviations.
-The last two fields are optional, and you can safely omit them.
-JabRef supports the third field, which contains the "shortest unique abbreviation".
-The last field is not currently used; its intention is to give publication frequency (e.g., `M` for monthly).
-
-For instance:
-
-```csv
-Accounts of Chemical Research;Acc. Chem. Res.;ACHRE4;M
-```
+Please see [`README.md`](./README.md) for the format of the file.

@@ -10,8 +10,8 @@ A repository of abbreviations for references, e.g., for journals, conferences, a
 Currently, a number of journal lists are offered.
 Please check the direcotry [`journals`](journals/) for
 
-- a list of abbreviations
-- an explaining [`README.md`](journals/README.md) listing the sources of the csv file. For instance, some lists are generated using Python, some are maintained manually.
+- A list of abbreviations
+- An explaining [`README.md`](journals/README.md) listing the sources of the CSV file. For instance, some lists are generated using Python, some are maintained manually.
 
 ## Conference and institute abbreviations
 
@@ -22,18 +22,22 @@ This is future work.
 Since October 2019, the data files are in CSV format (using semicolons as separators):
 
  ```csv
-<full name>;<abbreviation>[;<shortest unique abbreviation>[;<frequency>]]
+<full name>;<abbreviation>[;<shortest unique abbreviation>]
 ```
 
 The abbreviation should follow the ISO4 standard, see <https://marcinwrochna.github.io/abbrevIso/> for details on the abbreviation rules and a search form for title word abbreviations.
 The last two fields are optional, and you can safely omit them.
 JabRef supports the third field, which contains the "shortest unique abbreviation".
-The last field is not currently used; its intention is to give publication frequency (e.g., `M` for monthly).
+The third field is optional, one can omit it.
 
-For instance:
+For instance both formats are valid
 
 ```csv
-Accounts of Chemical Research;Acc. Chem. Res.;ACHRE4;M
+Accounts of Chemical Research;Acc. Chem. Res.
+```
+
+```csv
+Accounts of Chemical Research;Acc. Chem. Res.;ACHRE4
 ```
 
 The list should follow the ISO4 standard with dots.
