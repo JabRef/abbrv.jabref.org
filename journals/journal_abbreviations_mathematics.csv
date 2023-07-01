@@ -785,6 +785,7 @@ Computer Life;Comput. Life
 Computer Methods in Applied Mechanics and Engineering;Comput. Methods Appl. Mech. Engrg.
 Computer Physics Communications;Comput. Phys. Commun.
 Computer Science;Comput. Sci.
+Computer Science Foundations and Applied Logic;Comput. Sci. Found. Appl. Log.
 Computer Science Monographs;Comput. Sci. Monogr.
 Computer Science Review;Comput. Sci. Rev.
 Computer Science Reviews and Trends;Comput. Sci. Rev. Trends
@@ -1022,6 +1023,7 @@ Elsevier Oceanography Series;Elsevier Oceanogr. Ser.
 Emergence, Complexity and Computation;Emerg. Complex. Comput.
 Emerging Methodologies and Applications in Modelling, Identification and Control;Emerg. Methodol. Appl. Model. Identif. Control
 Emerging Topics in Statistics and Biostatistics;Emerg. Top. Stat. Biostat.
+Emerging Trends in Mechatronics;Emerg. Trends Mechatron.
 Encyclopaedia of Mathematical Sciences;Encyclopaedia Math. Sci.
 Encyclopedia of Complexity and Systems Science;Encycl. Complex. Syst. Sci.
 Encyclopedia of Mathematics and its Applications;Encyclopedia Math. Appl.
@@ -1156,6 +1158,7 @@ Frontiers in Statistical Quality Control;Front. Stat. Qual. Control
 Frontiers in the History of Science;Front. Hist. Sci.
 Frontiers of Biomechanics;Front. Biomech.
 Frontiers of Mathematical Finance;Front. Math. Finance
+Frontiers of Mathematics;Front. Math.
 Frontiers of Mathematics in China;Front. Math. China
 Frontiers of Operational Research and Applied Systems Analysis;Frontiers Oper. Res. Appl. Systems Anal.
 Fudan University. Journal. Natural Science. Fudan Xuebao. Ziran Kexue Ban;J. Fudan Univ. Nat. Sci.
@@ -1227,6 +1230,7 @@ Groups. Complexity. Cryptology;Groups Complex. Cryptol.
 Grundkurs Mathematik;Grundkurs Math.
 Grundkurs Physik;Grundkurs Phys.
 Grundlagen der Mathematik und Informatik;Grundlagen Math. Inform.
+Grundlehren Text Editions;Grundlehren Text Ed.
 Grundlehren der Mathematischen Wissenschaften;Grundlehren Math. Wiss.
 Grundlehren der mathematischen Wissenschaften;Grundlehren Math. Wiss.
 Gulf Journal of Mathematics;Gulf J. Math.
@@ -1257,15 +1261,18 @@ Histoire et Philosophie des Sciences (Paris);Hist. Philos. Sci. (Paris)
 Histoires de Geometries;Hist. Geom.
 Histoires des Institutions Scientifiques;Hist. Inst. Sci.
 Historia Mathematica;Historia Math.
+Historical & Cultural Astronomy;Hist. Cult. Astron.
 History and Philosophy of Logic;Hist. Philos. Logic
 History and Philosophy of Science---Heresy, Crossroads, and Intersections;Hist. Philos. Sci.
 History of Analytic Philosophy;Hist. Anal. Philos.
+History of Chemistry;Hist. Chem.
 History of Computing;Hist. Comput.
 History of Mathematics;Hist. Math.
 History of Mathematics Education;Hist. Math. Educ.
 History of Mathematics Subseries;Hist. Math. Subser.
 History of Mechanism and Machine Science;Hist. Mech. Mach. Sci.
 History of Physics;Hist. Phys.
+History of Science;Hist. Sci.
 History of Science and Technology Reprint Series;Hist. Sci. Tech. Reprint Ser.
 History of Science and Technology in China;Hist. Sci. Tech. China
 Hochschuldidaktische Materialien;Hochschuldidakt. Material.
@@ -2045,6 +2052,7 @@ MS&A. Modeling, Simulation and Applications;MS&A. Model. Simul. Appl.
 MSJ Memoirs;MSJ Mem.
 MSRI Mathematical Circles Library;MSRI Math. Circ. Libr.
 Machine Learning;Mach. Learn.
+Machine Learning: Foundations, Methodologies, and Applications;Mach. Learn. Found. Methodol. Appl.
 Macmillan New Electronics Series;Macmillan New Electron. Ser.
 Mala Jazykova Kniznice;Mala Jazyk. Kn.
 Malaya Journal of Matematik;Malaya J. Mat.
@@ -3047,6 +3055,7 @@ Springer Series in Synergetics;Springer Ser. Synergetics
 Springer Series in the Data Sciences;Springer Ser. Data Sci.
 Springer Series on Atomic, Optical, and Plasma Physics;Springer Ser. At. Opt. Plasma Phys.
 Springer Series on Chemical Sensors and Biosensors;Springer Ser. Chem. Sens. Biosens.
+Springer Series on Cultural Computing;Springer Ser. Cult. Comput.
 Springer Series on Naval Architecture, Marine Engineering, Shipbuilding and Shipping;Springer Ser. Nav. Archit. Mar. Eng. Shipbuild. Shipp.
 Springer Studium Mathematik---Master;Springer Stud. Math. Master
 Springer Textbooks in Earth Sciences, Geography and Environment;Springer Textb. Earth Sci. Geogr. Environ.
@@ -3093,6 +3102,7 @@ SpringerBriefs in Mathematical Methods;SpringerBriefs Math. Methods
 SpringerBriefs in Mathematical Physics;SpringerBriefs Math. Phys.
 SpringerBriefs in Mathematics;SpringerBriefs Math.
 SpringerBriefs in Mathematics of Planet Earth;SpringerBriefs Math. Planet Earth
+SpringerBriefs in Molecular Science;SpringerBriefs Mol. Sci.
 SpringerBriefs in Nonlinear Circuits;SpringerBriefs Nonlinear Circuits
 SpringerBriefs in Optimization;SpringerBriefs Optim.
 SpringerBriefs in Philosophy;SpringerBriefs Philos.
@@ -3233,6 +3243,7 @@ Synthesis Lectures on Games and Computational Intelligence;Synth. Lect. Games Co
 Synthesis Lectures on Human Language Technologies;Synth. Lect. Hum. Lang. Technol.
 Synthesis Lectures on Learning, Networks, and Algorithms;Synth. Lect. Learn. Netw. Algorithms
 Synthesis Lectures on Mathematics and Statistics;Synth. Lect. Math. Stat.
+Synthesis Lectures on Operations Research and Applications;Synth. Lect. Oper. Res. Appl.
 Synthesis Lectures on Theoretical Computer Science;Synth. Lect. Theor. Comput. Sci.
 Synthesis Lectures on Visual Computing;Synth. Lect. Vis. Comput.
 Synthesis Lectures on Wave Phenomena in the Physical Sciences;Synth. Lect. Wave Phenom. Phys. Sci.
@@ -3355,6 +3366,7 @@ The Quarterly Journal of Mechanics and Applied Mathematics;Quart. J. Mech. Appl.
 The RT-11 Technical User's Series;RT-11 Tech. User's Ser.
 The Review of Symbolic Logic;Rev. Symb. Log.
 The Rocky Mountain Journal of Mathematics;Rocky Mountain J. Math.
+The Rutgers Lectures in Philosophy;Rutgers Lect. Philos.
 The Science Reports of Kanazawa University;Sci. Rep. Kanazawa Univ.
 The Springer Series on Demographic Methods and Population Analysis;Springer Ser. Demogr. Methods Popul. Anal.
 The Tensor Society. Tensor. New Series;Tensor (N.S.)
