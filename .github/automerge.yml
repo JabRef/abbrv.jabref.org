@@ -18,6 +18,9 @@ on:
       - completed
   status: {}
   workflow_dispatch:
+  push:
+    branches:
+      - 'add-automerge'
 
 jobs:
   automerge:
