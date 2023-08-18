@@ -14,35 +14,41 @@ Output: writes file 'journalList_dotless.csv'
 """
 
 import sys
+import pandas as pd
 
+# Define the list of CSV files
 import_order = [
   'journals/journal_abbreviations_entrez.csv',
   'journals/journal_abbreviations_medicus.csv',
   'journals/journal_abbreviations_webofscience-dotless.csv'
 ]
 
-if len(sys.argv) == 1:
-    out_file = 'journalList_dotless.csv'
-else:
-   out_file = sys.argv[1]
-print(f"Writing : {out_file}")
+def main(output_filename):
+    # Read and merge CSV files
+    # dfs = [pd.read_csv(file, header=None) for file in import_order]
+    dfs = []
+    for file in import_order:
+        df = pd.read_csv(file, header=None)
+        dfs.append(df)
+        print(f"{file}: {len(df)}")
+    merged_df = pd.concat(dfs, ignore_index=True)
 
-journal_dict = {}
+    # Drop duplicates based on the first column value and keep the last one obtained
+    merged_df.drop_duplicates(subset=[0], keep='last', inplace=True)
 
-for in_file in import_order:
-    count = 0
-    f = open(in_file, "r")
-    for line in f:
-        if ";" in line and line[0] != "#":
-            count += 1
-            parts = line.partition(";")
-            journal_dict[parts[0].strip()] = line.strip()
-    f.close()
-    print(f"{in_file}: {count}")
+    # Sort alphabetically
+    sorted_df = merged_df.sort_values(by=[0])
 
-print(f"Combined key count: {len(journal_dict)}")
+    # Save the result to the specified CSV file and ensure values are quoted
+    sorted_df.to_csv(output_filename, index=False, header=False, quoting=1)
 
-f = open(out_file, "w")
-for key in sorted(journal_dict.keys()):
-    f.write(journal_dict[key]+"\n")
-f.close()
+    print(f"Write {output_filename}, Combined key count: {len(merged_df)}")
+
+
+if __name__ == "__main__":
+    if len(sys.argv) > 1:
+        filename = sys.argv[1]
+    else:
+        filename = "journalList_dotless.csv"
+    
+    main(filename)
