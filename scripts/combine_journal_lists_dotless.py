@@ -18,10 +18,11 @@ import pandas as pd
 
 # Define the list of CSV files
 import_order = [
-  'journals/journal_abbreviations_entrez.csv',
-  'journals/journal_abbreviations_medicus.csv',
-  'journals/journal_abbreviations_webofscience-dotless.csv'
+    'journals/journal_abbreviations_entrez.csv',
+    'journals/journal_abbreviations_medicus.csv',
+    'journals/journal_abbreviations_webofscience-dotless.csv'
 ]
+
 
 def main(output_filename):
     # Read and merge CSV files
@@ -50,5 +51,5 @@ if __name__ == "__main__":
         filename = sys.argv[1]
     else:
         filename = "journalList_dotless.csv"
-    
+
     main(filename)

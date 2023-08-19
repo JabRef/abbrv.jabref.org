@@ -31,6 +31,7 @@ import_order = [
     'journals/journal_abbreviations_webofscience-dots.csv'
 ]
 
+
 def main(output_filename):
     # Read and merge CSV files
     # dfs = [pd.read_csv(file, header=None) for file in import_order]
@@ -58,5 +59,5 @@ if __name__ == "__main__":
         filename = sys.argv[1]
     else:
         filename = "journalList_dots.csv"
-    
+
     main(filename)

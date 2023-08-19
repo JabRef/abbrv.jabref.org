@@ -34,7 +34,8 @@ for file in fileNames:
                 if ('\&' in line):
                     errFileNames.append(file)
                     errRows.append(i + 1)
-                    errCols.append([index + 1 for index in range(len(line)) if line.startswith('\&', index)])
+                    errCols.append(
+                        [index + 1 for index in range(len(line)) if line.startswith('\&', index)])
 
 
 # In the case where we do find escaped &, the len() will be non-zero
@@ -43,7 +44,8 @@ if (len(errFileNames) > 0):
     # For each file, append every row:col location to the error message
     for i, fname in enumerate(errFileNames):
         for col in errCols[i]:
-            err_msg += "("+ fname + ", " + str(errRows[i]) + ":" + str(col) + "), "
+            err_msg += "(" + fname + ", " + \
+                str(errRows[i]) + ":" + str(col) + "), "
     # Format end of string and return as Value Error to 'fail' GitHub Actions process
     err_msg = err_msg[:len(err_msg) - 2]
     err_msg += "]"

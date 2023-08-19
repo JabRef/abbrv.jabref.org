@@ -11,11 +11,12 @@ Usage: combine_journal_lists.py out_file in_file1 in_file2 ...
 import sys
 import pandas as pd
 
+
 def main(output_filename):
     # Read and merge CSV files
     # dfs = [pd.read_csv(file, header=None) for file in import_order]
     dfs = []
-    for file in  sys.argv[2:]:
+    for file in sys.argv[2:]:
         df = pd.read_csv(file, header=None)
         dfs.append(df)
         print(f"{file}: {len(df)}")
@@ -38,5 +39,5 @@ if __name__ == "__main__":
         filename = sys.argv[1]
     else:
         filename = "journalList.csv"
-    
+
     main(filename)
