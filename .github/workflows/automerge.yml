@@ -6,9 +6,9 @@ permissions:
   pull-requests: write
 
 jobs:
-  dependabot:
+  github-actions:
     runs-on: ubuntu-latest
-    if: ${{ github.actor == 'github-actions' }}
+    if: ${{ github.actor == 'koppor' }}
     steps:
       - name: Merge PR
         run: gh pr merge --auto --squash "$PR_URL"
