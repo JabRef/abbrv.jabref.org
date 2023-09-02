@@ -13,6 +13,7 @@ python3 convert_txt2csv.py
 import glob
 import os
 import pandas as pd
+import csv
 
 for file in glob.glob("journals/*.txt"):
     fileName, _fileExtension = os.path.splitext(file)
@@ -27,5 +28,5 @@ for file in glob.glob("journals/*.txt"):
                      engine="python", skipinitialspace=True, index_col=0, names=["Name", "Abbrev"])
     df.index = df.index.str.strip()
     df = df.Abbrev.str.split(",", expand=True)
-    df.to_csv(fileName + ".csv", sep=",", header=False)
+    df.to_csv(fileName + ".csv", sep=",", header=False, quoting=csv.QUOTE_ALL)
     print(fileName + ".csv")
