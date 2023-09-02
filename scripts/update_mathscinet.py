@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import pandas as pd
+import csv
 
 file_in = "https://mathscinet.ams.org/msnhtml/annser.csv"
 file_out = "journals/journal_abbreviations_mathematics.csv"
@@ -21,4 +22,4 @@ df = pd.concat([df_new, df_old], axis=0).drop_duplicates(
 df = df[df["Full Title"].str.lower() != df["Abbrev"].str.lower()]
 
 # Save the end file in the same path as the old one
-df.to_csv(file_out, sep=",", escapechar="\\", index=False, header=False)
+df.to_csv(file_out, sep=",", escapechar="\\", index=False, header=False, quoting=csv.QUOTE_ALL)
