@@ -10,6 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     if: ${{ github.actor == 'koppor' }}
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          show-progress: ''
       - name: Merge PR
         run: gh pr merge --auto --squash "$PR_URL"
         env:
