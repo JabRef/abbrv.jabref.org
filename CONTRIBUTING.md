@@ -23,7 +23,7 @@ With a little extra effort you can directly edit one of the journal abbreviation
 ## Adding a journal list
 
 1. Get a [GitHub account/sign in](https://github.com/login).
-2. Add the file to <https://github.com/JabRef/abbrv.jabref.org/tree/master/journals> (make sure to use the `.csv` format [described below](#format-of-the-file); for importing TXT data files, you should use [this script](../scripots/convert_txt2csv.py) before).
+2. Add the file to <https://github.com/JabRef/abbrv.jabref.org/tree/master/journals> (make sure to use the `.csv` format [described below](#format-of-the-file); for importing TXT data files, you should use [this script](scripts/convert_txt2csv.py) before).
 3. Add the file to <https://github.com/JabRef/abbrv.jabref.org/blob/main/journals/README.md> (sorted in alphabetically).
 4. Create a pull request on this repository.
 
