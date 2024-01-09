@@ -19,10 +19,10 @@ This is future work.
 
 ## Format of the CSV files
 
-Since October 2019, the data files are in CSV format (using semicolons as separators):
+Since October 2019, the data files are in CSV format (using commas as separators):
 
  ```csv
-<full name>;<abbreviation>[;<shortest unique abbreviation>]
+"<full name>","<abbreviation>"[,"<shortest unique abbreviation>"]
 ```
 
 The abbreviation should follow the ISO4 standard, see <https://marcinwrochna.github.io/abbrevIso/> for details on the abbreviation rules and a search form for title word abbreviations.
@@ -33,11 +33,11 @@ The third field is optional, one can omit it.
 For instance both formats are valid
 
 ```csv
-Accounts of Chemical Research;Acc. Chem. Res.
+"Accounts of Chemical Research","Acc. Chem. Res."
 ```
 
 ```csv
-Accounts of Chemical Research;Acc. Chem. Res.;ACHRE4
+"Accounts of Chemical Research","Acc. Chem. Res.","ACHRE4"
 ```
 
 The list should follow the ISO4 standard with dots.
