@@ -11,7 +11,7 @@ If you don't feel comfortable to touch the lists and create a pull request, [ope
 
 With a little extra effort you can directly edit one of the journal abbreviation files and create a pull request:
 
-1. Go to <https://github.com/JabRef/abbrv.jabref.org/tree/master/journals> and select the correct file that is most appropriate to your subject area. If none of the files fits your subject, edit `journal_abbreviations_general.csv`.
+1. Go to <https://github.com/JabRef/abbrv.jabref.org/tree/main/journals> and select the correct file that is most appropriate to your subject area. If none of the files fits your subject, edit `journal_abbreviations_general.csv`.
 2. Use the *pencil icon* to start editing the file.
 3. Make your corrections. If you add a journal, keep in mind that the list is ordered alphabetically. Make sure to adhere to the [format described below](#format-of-the-file).
 4. When done editing, fill out the commit description at the bottom and click *Commit changes*.
