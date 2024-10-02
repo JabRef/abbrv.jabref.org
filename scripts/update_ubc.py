@@ -31,7 +31,7 @@ def parse_html(html_content):
 
 def save_file(data, filename):
     with open(filename, "w", newline="", encoding="utf-8") as csv_file:
-        writer = csv.writer(csv_file, delimiter=",")
+        writer = csv.writer(csv_file, delimiter=",", quoting=1)
         for full_name, abbreviation in data.items():
             if full_name and abbreviation:  # Remove empty rows
                 writer.writerow([full_name, abbreviation])
