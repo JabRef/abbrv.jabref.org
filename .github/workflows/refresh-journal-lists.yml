@@ -21,7 +21,7 @@ jobs:
       - run: pip install pandas
       - run: python scripts/convert_txt2csv.py
       - run: rm journals/journal_abbreviations_aea.txt
-      - uses: peter-evans/create-pull-request@v4
+      - uses: peter-evans/create-pull-request@v7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: update-aea
@@ -37,7 +37,7 @@ jobs:
       - run: pip install pandas
       - run: python scripts/convert_txt2csv.py
       - run: rm journals/journal_abbreviations_astronomy.txt
-      - uses: peter-evans/create-pull-request@v4
+      - uses: peter-evans/create-pull-request@v7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: update-astronomy
@@ -51,7 +51,7 @@ jobs:
       - uses: actions/setup-python@v4
       - run: pip install pandas
       - run: python scripts/update_mathscinet.py
-      - uses: peter-evans/create-pull-request@v4
+      - uses: peter-evans/create-pull-request@v7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: update-mathscinet
@@ -65,7 +65,7 @@ jobs:
       - uses: actions/setup-python@v4
       - run: pip install beautifulsoup4 requests
       - run: python scripts/update_ubc.py
-      - uses: peter-evans/create-pull-request@v4
+      - uses: peter-evans/create-pull-request@v7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: update-ubc
