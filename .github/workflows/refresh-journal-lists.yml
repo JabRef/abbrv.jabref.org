@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: gautamkrishnar/keepalive-workflow@v2
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@v5
       - run: wget https://raw.github.com/jrnold/jabref-econ-journal-abbrevs/master/aea-abbrevs.txt -O journals/journal_abbreviations_aea.txt
       - run: pip install pandas
       - run: python scripts/convert_txt2csv.py
@@ -32,7 +32,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@v5
       - run: wget https://raw.githubusercontent.com/timstaley/jabref-astro-abbreviations/master/MNRAS_abbreviations.txt -O journals/journal_abbreviations_astronomy.txt
       - run: pip install pandas
       - run: python scripts/convert_txt2csv.py
@@ -48,7 +48,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@v5
       - run: pip install pandas
       - run: python scripts/update_mathscinet.py
       - uses: peter-evans/create-pull-request@v7
@@ -62,7 +62,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@v5
       - run: pip install beautifulsoup4 requests
       - run: python scripts/update_ubc.py
       - uses: peter-evans/create-pull-request@v7
