@@ -6,8 +6,7 @@ import requests
 from io import StringIO
 
 file_in = "https://mathscinet.ams.org/msnhtml/annser.csv"
-file_out = "../journals/journal_abbreviations_mathematics.csv" # given that /journals and /scripts are on same level
-
+file_out = "journals/journal_abbreviations_mathematics.csv" 
 # set headers to mimic browser request
 headers = {
     'sec-ch-ua': '"Google Chrome";v="129", "Not=A?Brand";v="8", "Chromium";v="129"',
