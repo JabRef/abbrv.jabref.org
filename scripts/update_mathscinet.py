@@ -2,13 +2,26 @@
 
 import pandas as pd
 import csv
+import requests
+from io import StringIO
 
 file_in = "https://mathscinet.ams.org/msnhtml/annser.csv"
-file_out = "journals/journal_abbreviations_mathematics.csv"
+file_out = "../journals/journal_abbreviations_mathematics.csv" # given that /journals and /scripts are on same level
 
-# Get the first two fields of the last version of MathSciNet data file, without empty values
-df_new = pd.read_csv(file_in, usecols=[0, 1]).dropna()[
-    ["Full Title", "Abbrev"]]
+# set headers to mimic browser request
+headers = {
+    'sec-ch-ua': '"Google Chrome";v="129", "Not=A?Brand";v="8", "Chromium";v="129"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"Windows"',
+    'upgrade-insecure-requests': '1',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36',
+}
+response = requests.get(file_in, headers=headers)
+
+if response.status_code == 200:
+    df_new = pd.read_csv(StringIO(response.text), usecols=[0, 1]).dropna()[["Full Title", "Abbrev"]]
+else:
+    raise Exception(f"Failed to fetch the file. Status code: {response.status_code}")
 
 # Get our last mathematics data file
 df_old = pd.read_csv(file_out, sep=",", escapechar="\\",
