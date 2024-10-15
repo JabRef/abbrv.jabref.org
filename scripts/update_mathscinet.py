@@ -4,14 +4,18 @@ import pandas as pd
 import csv
 import requests
 from io import StringIO
-import os
-print(os.getcwd())
 
 file_in = "https://mathscinet.ams.org/msnhtml/annser.csv"
-file_out = "../journals/journal_abbreviations_mathematics.csv"
+file_out = "../journals/journal_abbreviations_mathematics.csv" # given that /journals and /scripts are on same level
 
-# set user agent to mimic browser request
-headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
+# set headers to mimic browser request
+headers = {
+    'sec-ch-ua': '"Google Chrome";v="129", "Not=A?Brand";v="8", "Chromium";v="129"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"Windows"',
+    'upgrade-insecure-requests': '1',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36',
+}
 response = requests.get(file_in, headers=headers)
 
 if response.status_code == 200:
