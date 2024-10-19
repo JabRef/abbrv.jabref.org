@@ -17,16 +17,16 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install -r requirements.txt
+        pip install -r requirements.txt || true  # Only if you have dependencies listed here
 
     - name: Run Quality Check
       run: |
         python quality_checker.py
-      continue-on-error: true
+      continue-on-error: true  # Continue if there are warnings/errors, so we can log the output
 
     - name: Upload Quality Check Summary
       if: always()
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: quality-check-summary
         path: quality_check_summary.txt
@@ -34,6 +34,5 @@ jobs:
     - name: Add Quality Check Summary to Job
       if: always()
       run: |
-        echo "Generating GitHub Actions job summary..."
-        echo 'Quality Check Summary:' >> $GITHUB_STEP_SUMMARY
+        echo "### Quality Check Summary" >> $GITHUB_STEP_SUMMARY
         cat quality_check_summary.txt >> $GITHUB_STEP_SUMMARY
