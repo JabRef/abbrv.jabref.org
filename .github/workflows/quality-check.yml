@@ -35,4 +35,4 @@ jobs:
       if: always()
       run: |
         echo "### Quality Check Summary" >> $GITHUB_STEP_SUMMARY
-        cat quality_check_summary.txt >> $GITHUB_STEP_SUMMARY
+        cat check_quality_summary.txt >> $GITHUB_STEP_SUMMARY
