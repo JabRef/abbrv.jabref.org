@@ -21,15 +21,15 @@ jobs:
 
     - name: Run Quality Check
       run: |
-        python quality_checker.py
+        python ./scripts/check_quality.py
       continue-on-error: true  # Continue if there are warnings/errors, so we can log the output
 
     - name: Upload Quality Check Summary
       if: always()
       uses: actions/upload-artifact@v3
       with:
-        name: quality-check-summary
-        path: quality_check_summary.txt
+        name: check-quality-summary
+        path: ./check_quality_summary.txt
 
     - name: Add Quality Check Summary to Job
       if: always()
