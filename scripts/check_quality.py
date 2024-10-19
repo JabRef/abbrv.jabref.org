@@ -57,11 +57,35 @@ def check_wrong_escape(filepath):
 
 # Check for wrong beginning letters in journal abbreviations
 def check_wrong_beginning_letters(filepath):
+    # Words that are typically ignored when creating abbreviations
+    ignore_words = {'a', 'an', 'and', 'the', 'of', 'or', 'in', 'on', 'at', 'to', 'for', 'with', 'by', 'la', 'el', 'le', 'et'}
+    
     with open(filepath, 'r', encoding='utf-8') as f:
         reader = csv.reader(f)
         for line_number, row in enumerate(reader, start=1):
-            if row[0].startswith("\""):
-                error(f"Wrong beginning letter found in {filepath} at line {line_number}: {row[0]}", 'ERROR Wrong Starting Letter')
+            if len(row) < 2:  # Skip if row doesn't have both full name and abbreviation
+                continue
+                
+            full_name = row[0].strip()
+            abbreviation = row[1].strip()
+            
+            # Skip empty entries
+            if not full_name or not abbreviation:
+                continue
+            
+            # Get significant words from full name (ignoring articles, prepositions, etc.)
+            full_words = [word for word in full_name.split() 
+                         if word.lower() not in ignore_words]
+            abbrev_words = abbreviation.split()
+            
+            # Skip if either is empty after filtering
+            if not full_words or not abbrev_words:
+                continue
+            
+            # Check if abbreviation starts with the same letter as the first significant word
+            if not abbrev_words[0].lower().startswith(full_words[0][0].lower()):
+                error(f"Wrong beginning letter found in {filepath} at line {line_number} " f"Full: '{full_name}', Abbrev: '{abbreviation}')", 
+                      'ERROR Wrong Starting Letter')
 
 
 # Check for duplicate entries
@@ -120,36 +144,44 @@ if __name__ == "__main__":
     
     # Write the summary to a file
     total_issues = sum(error_counts.values()) + sum(warning_counts.values())
+    summary_output = []
+
+    summary_output.append("# Quality Check Summary Report\n")
+    summary_output.append("| Status        | Count |\n")
+    summary_output.append("| ------------- | ----- |\n")
+    summary_output.append(f"| 🔍 Total Issues      | {total_issues}   |\n")
+    summary_output.append(f"| ❌ Errors Found      | {sum(error_counts.values())}    |\n")
+    summary_output.append(f"| ⚠️ Warnings Found    | {sum(warning_counts.values())}   |\n\n")
+
+    # Write detailed errors and warnings
+    if errors or warnings:
+        summary_output.append("## Errors per Input File\n\n")
+        files = set([msg.split(' in ')[1].split(' at ')[0] for _, msg in errors + warnings])
+        for file in files:
+            summary_output.append(f"### Issues in file `{file}`\n")
+            file_errors = [msg for err_type, msg in errors if file in msg]
+            file_warnings = [msg for warn_type, msg in warnings if file in msg]
+            if file_errors:
+                summary_output.append("#### Errors:\n")
+                for err in file_errors:
+                    summary_output.append(f"- {err.split('ERROR: ')[1]}\n")
+            if file_warnings:
+                summary_output.append("#### Warnings:\n")
+                for warn in file_warnings:
+                    summary_output.append(f"- {warn.split('WARN: ')[1]}\n")
+            summary_output.append("\n")
+    else:
+        summary_output.append("Quality check completed with no errors or warnings.\n")
+
+    # Write to summary file
     with open(SUMMARY_FILE_PATH, 'w', encoding='utf-8') as summary_file:
-        # Write summary table with visual symbols
-        summary_file.write("# Quality Check Summary Report\n\n")
-        summary_file.write("| Status        | Count |\n")
-        summary_file.write("| ------------- | ----- |\n")
-        summary_file.write(f"| 🔍 Total Issues      | {total_issues}   |\n")
-        summary_file.write(f"| ❌ Errors Found      | {sum(error_counts.values())}    |\n")
-        summary_file.write(f"| ⚠️ Warnings Found    | {sum(warning_counts.values())}   |\n\n")
+        summary_file.writelines(summary_output)
 
-        # Write detailed errors and warnings
-        if errors or warnings:
-            summary_file.write("## Errors per Input File\n\n")
-            files = set([msg.split(' in ')[1].split(' at ')[0] for _, msg in errors + warnings])
-            for file in files:
-                summary_file.write(f"### Issues in file `{file}`\n")
-                file_errors = [msg for err_type, msg in errors if file in msg]
-                file_warnings = [msg for warn_type, msg in warnings if file in msg]
-                if file_errors:
-                    summary_file.write("#### Errors:\n")
-                    for err in file_errors:
-                        summary_file.write(f"- {err.split('ERROR: ')[1]}\n")
-                if file_warnings:
-                    summary_file.write("#### Warnings:\n")
-                    for warn in file_warnings:
-                        summary_file.write(f"- {warn.split('WARN: ')[1]}\n")
-                summary_file.write("\n")
-        else:
-            summary_file.write("Quality check completed with no errors or warnings.\n")
+    # Print the summary to console
+    for line in summary_output:
+        print(line, end='')
 
-    # Print summary and set exit code
+    # Set exit code based on errors
     if sum(error_counts.values()) > 0:
         sys.exit(1)  # Fail with an exit code if errors are found
     else:
