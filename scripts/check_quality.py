@@ -7,10 +7,10 @@ import csv
 # Path to the journals folder (change this path accordingly)
 JOURNALS_FOLDER_PATH = "./journals/"
 
+errors = []
 # Error tracking
 def error(message):
-    print(f"ERROR: {message}")
-    sys.exit(1)
+    errors.append(f"ERROR: {message}")
 
 # Warning tracking
 def warning(message):
@@ -31,7 +31,7 @@ def check_wrong_escape(filepath):
         for line_number, row in enumerate(reader, start=1):
             for field in row:
                 if re.search(r"[a-zA-Z]*\\[,\"]", field):
-                    error(f"Wrong escape character found in file {filepath} at line {line_number}: {field}")
+                    error(f"Wrong escape character found in {filepath} at line {line_number}: {field}")
 
 # Check for wrong beginning letters in journal abbreviations
 def check_wrong_beginning_letters(filepath):
@@ -39,19 +39,19 @@ def check_wrong_beginning_letters(filepath):
         reader = csv.reader(f)
         for line_number, row in enumerate(reader, start=1):
             if row[0].startswith("\""):
-                error(f"Wrong beginning letter found in file {filepath} at line {line_number}: {row[0]}")
+                error(f"Wrong beginning letter found in {filepath} at line {line_number}: {row[0]}")
 
 # Check for duplicate entries
 def check_duplicates(filepath):
-    entries = set()
+    entries = {}
     with open(filepath, 'r', encoding='utf-8') as f:
         reader = csv.reader(f)
         for line_number, row in enumerate(reader, start=1):
             line = ','.join(row)
             if line in entries:
-                warning(f"Duplicate entry found in file {filepath} at line {line_number}: {line}")
+                warning(f"Duplicate found in {filepath} at line {line_number}: {line}, first instance seen at line {entries[line]}")
             else:
-                entries.add(line)
+                entries[line] = line_number
 
 # Check if abbreviation and full form are the same
 def check_full_form_identical_to_abbreviation(filepath):
@@ -59,7 +59,7 @@ def check_full_form_identical_to_abbreviation(filepath):
         reader = csv.reader(f)
         for line_number, row in enumerate(reader, start=1):
             if len(row) == 2 and row[0].strip() == row[1].strip():
-                warning(f"Abbreviation is the same as full form in file {filepath} at line {line_number}: {row[0]}")
+                warning(f"Abbreviation is the same as full form in {filepath} at line {line_number}: {row[0]}")
 
 # Check for outdated abbreviations
 def check_outdated_abbreviations(filepath):
@@ -67,7 +67,7 @@ def check_outdated_abbreviations(filepath):
         reader = csv.reader(f)
         for line_number, row in enumerate(reader, start=1):
             if "Manage." in row and "Manag." not in row:
-                warning(f"Outdated abbreviation used in file {filepath} at line {line_number}: {','.join(row)}")
+                warning(f"Outdated abbreviation used in {filepath} at line {line_number}: {','.join(row)}")
 
 if __name__ == "__main__":
     if not os.path.exists(JOURNALS_FOLDER_PATH):
@@ -87,4 +87,10 @@ if __name__ == "__main__":
             check_full_form_identical_to_abbreviation(filepath)
             check_outdated_abbreviations(filepath)
     
-    print("Quality check completed.")
+    # Print all errors at the end
+    if errors:
+        for err in errors:
+            print(err)
+        sys.exit(1)
+    else:
+        print("Quality check completed with no errors.")
