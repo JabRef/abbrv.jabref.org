@@ -28,10 +28,6 @@ jobs:
         name: check-quality-summary
         path: ./check_quality_summary.txt
 
-    - name: Print Errors and Warnings Summary
-      if: always()
-      run: cat ./check_quality_summary.txt
-
     - name: Fail on Errors
       if: steps.quality_check.outcome == 'failure'
       run: |
