@@ -35,38 +35,79 @@ def warning(message, warning_type):
 def check_non_utf8_characters(filepath):
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
-            f.read()
-    except UnicodeDecodeError:
-        error(f"File {filepath} contains non-UTF8 characters", 'ERROR Non-UTF8')
+            for line_number, line in enumerate(f, start=1):
+                try:
+                    line.encode('utf-8')
+                except UnicodeEncodeError as e:
+                    error(f"Non-UTF8 character found in {filepath} at line {line_number}: {e}", 'ERROR Non-UTF8')
+    except UnicodeDecodeError as e:
+        error(f"File {filepath} contains non-UTF-8 characters: {e}", 'ERROR Non-UTF8')
 
 # Check if there are wrong escape characters in abbreviation entries
 def check_wrong_escape(filepath):
+    valid_escapes = {'\\', '\n', '\t', '\r', '\"'}
     with open(filepath, 'r', encoding='utf-8') as f:
         reader = csv.reader(f)
         for line_number, row in enumerate(reader, start=1):
             for field in row:
-                if re.search(r"[a-zA-Z]*\\[,\"]", field):
-                    error(f"Wrong escape character found in {filepath} at line {line_number}: {field}", 'ERROR Wrong Escape')
+                matches = re.findall(r"\\.", field)
+                for match in matches:
+                    if match not in valid_escapes:
+                        error(f"Wrong escape character found in {filepath} at line {line_number}: {field}", 'ERROR Wrong Escape')
 
 # Check for wrong beginning letters in journal abbreviations
 def check_wrong_beginning_letters(filepath):
+    # Words that are typically ignored when creating abbreviations
+    ignore_words = {'a', 'an', 'and', 'the', 'of', 'or', 'in', 'on', 'at', 'to', 'for', 'with', 'by', 'la', 'el', 'le', 'et'}
+    
     with open(filepath, 'r', encoding='utf-8') as f:
         reader = csv.reader(f)
         for line_number, row in enumerate(reader, start=1):
-            if row[0].startswith("\""):
-                error(f"Wrong beginning letter found in {filepath} at line {line_number}: {row[0]}", 'ERROR Wrong Starting Letter')
+            if len(row) < 2:  # Skip if row doesn't have both full name and abbreviation
+                continue
+                
+            full_name = row[0].strip()
+            abbreviation = row[1].strip()
+            
+            # Skip empty entries
+            if not full_name or not abbreviation:
+                continue
+            
+            # Get significant words from full name (ignoring articles, prepositions, etc.)
+            full_words = [word for word in full_name.split() 
+                         if word.lower() not in ignore_words]
+            abbrev_words = abbreviation.split()
+            
+            # Skip if either is empty after filtering
+            if not full_words or not abbrev_words:
+                continue
+            
+            # Check if abbreviation starts with the same letter as the first significant word
+            if not abbrev_words[0].lower().startswith(full_words[0][0].lower()):
+                error(f"Wrong beginning letter found in {filepath} at line {line_number} " f"Full: '{full_name}', Abbrev: '{abbreviation}')", 
+                      'ERROR Wrong Starting Letter')
+
+
 
 # Check for duplicate entries
 def check_duplicates(filepath):
-    entries = {}
+    full_name_entries = {}
+    abbreviation_entries = {}
     with open(filepath, 'r', encoding='utf-8') as f:
         reader = csv.reader(f)
         for line_number, row in enumerate(reader, start=1):
-            line = ','.join(row)
-            if line in entries:
-                warning(f"Duplicate found in {filepath} at line {line_number}: {line}, first instance seen at line {entries[line]}", 'WARN Duplicate FullName/Abbreviation')
+            if len(row) < 2:
+                continue
+
+            full_name = row[0].strip()
+            abbreviation = row[1].strip()
+            
+            # Check for duplicate full names or abbreviations
+            if full_name in full_name_entries or abbreviation in abbreviation_entries:
+                warning(f"Duplicate found in {filepath} at line {line_number}: Full Name: '{full_name}', Abbreviation: '{abbreviation}', first instance seen at line {full_name_entries.get(full_name) or abbreviation_entries.get(abbreviation)}", 'WARN Duplicate FullName/Abbreviation')
             else:
-                entries[line] = line_number
+                full_name_entries[full_name] = line_number
+                abbreviation_entries[abbreviation] = line_number
 
 # Check if abbreviation and full form are the same
 def check_full_form_identical_to_abbreviation(filepath):
@@ -104,9 +145,9 @@ if __name__ == "__main__":
     
     # Write the summary to a file
     total_issues = sum(error_counts.values()) + sum(warning_counts.values())
-    with open(SUMMARY_FILE_PATH, 'w') as summary_file:
+    with open(SUMMARY_FILE_PATH, 'w', encoding='utf-8') as summary_file:
         # Write summary table with vertical headers
-        summary_file.write(f"Total: {total_issues}\n")
+        summary_file.write(f"Total vulnerabilities: {total_issues}\n")
         summary_file.write(f"ERROR Wrong Escape: {error_counts['ERROR Wrong Escape']}\n")
         summary_file.write(f"ERROR Wrong Starting Letter: {error_counts['ERROR Wrong Starting Letter']}\n")
         summary_file.write(f"ERROR Non-UTF8: {error_counts['ERROR Non-UTF8']}\n")
