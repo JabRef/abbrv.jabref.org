@@ -16,6 +16,7 @@ jobs:
         python-version: '3.x'
 
     - name: Run Quality Check
+      id: quality_check
       run: |
         python ./scripts/check_quality.py
       continue-on-error: true  # Continue if there are warnings/errors, so we can log the output
@@ -27,8 +28,8 @@ jobs:
         name: check-quality-summary
         path: ./check_quality_summary.txt
 
-    - name: Add Quality Check Summary to Job
-      if: always()
+    - name: Fail on Errors
+      if: steps.quality_check.outcome == 'failure'
       run: |
-        echo "### Quality Check Summary" >> $GITHUB_STEP_SUMMARY
-        cat check_quality_summary.txt >> $GITHUB_STEP_SUMMARY
+        echo "Quality check failed due to errors."
+        exit 1
