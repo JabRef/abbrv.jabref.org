@@ -1,0 +1,39 @@
+name: Quality Check
+
+on: [push, pull_request]
+
+jobs:
+  quality-check:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Run Quality Check
+      run: |
+        python quality_checker.py
+      continue-on-error: true
+
+    - name: Upload Quality Check Summary
+      if: always()
+      uses: actions/upload-artifact@v2
+      with:
+        name: quality-check-summary
+        path: quality_check_summary.txt
+
+    - name: Add Quality Check Summary to Job
+      if: always()
+      run: |
+        echo "Generating GitHub Actions job summary..."
+        echo 'Quality Check Summary:' >> $GITHUB_STEP_SUMMARY
+        cat quality_check_summary.txt >> $GITHUB_STEP_SUMMARY

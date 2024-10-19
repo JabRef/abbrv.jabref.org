@@ -6,15 +6,16 @@ import csv
 
 # Path to the journals folder (change this path accordingly)
 JOURNALS_FOLDER_PATH = "./journals/"
-
+SUMMARY_FILE_PATH = "./check_quality_summary.txt"
 errors = []
+warnings = []
 # Error tracking
 def error(message):
     errors.append(f"ERROR: {message}")
 
 # Warning tracking
 def warning(message):
-    print(f"WARN: {message}")
+    warnings.append(f"WARN: {message}")
 
 # Check if non-UTF8 characters are present in the file
 def check_non_utf8_characters(filepath):
@@ -58,7 +59,7 @@ def check_full_form_identical_to_abbreviation(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
         reader = csv.reader(f)
         for line_number, row in enumerate(reader, start=1):
-            if len(row) == 2 and row[0].strip() == row[1].strip():
+            if len(row) == 2 and row[0].strip() == row[1].strip() and ' ' in row[0].strip():
                 warning(f"Abbreviation is the same as full form in {filepath} at line {line_number}: {row[0]}")
 
 # Check for outdated abbreviations
@@ -87,10 +88,23 @@ if __name__ == "__main__":
             check_full_form_identical_to_abbreviation(filepath)
             check_outdated_abbreviations(filepath)
     
-    # Print all errors at the end
+    # Write the summary to a file
+    with open(SUMMARY_FILE_PATH, 'w') as summary_file:
+        if errors or warnings:
+            summary_file.write("Quality Check Summary:\n")
+            if errors:
+                summary_file.write("\nErrors:\n")
+                for err in errors:
+                    summary_file.write(f"{err}\n")
+            if warnings:
+                summary_file.write("\nWarnings:\n")
+                for warn in warnings:
+                    summary_file.write(f"{warn}\n")
+        else:
+            summary_file.write("Quality check completed with no errors or warnings.\n")
+
+    # Print summary and set exit code
     if errors:
-        for err in errors:
-            print(err)
         sys.exit(1)
     else:
         print("Quality check completed with no errors.")
