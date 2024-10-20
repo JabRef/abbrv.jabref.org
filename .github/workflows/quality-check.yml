@@ -1,0 +1,35 @@
+name: Quality Check
+
+on: [push, pull_request]
+
+jobs:
+  quality-check:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Run Quality Check
+      id: quality_check
+      run: |
+        python ./scripts/check_quality.py
+      continue-on-error: true  # Continue if there are warnings/errors, so we can log the output
+
+    - name: Upload Quality Check Summary
+      if: always()
+      uses: actions/upload-artifact@v3
+      with:
+        name: check-quality-summary
+        path: ./check_quality_summary.txt
+
+    - name: Fail on Errors
+      if: steps.quality_check.outcome == 'failure'
+      run: |
+        echo "Quality check failed due to errors."
+        exit 1
