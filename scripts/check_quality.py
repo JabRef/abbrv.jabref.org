@@ -58,34 +58,113 @@ def check_wrong_escape(filepath):
 # Check for wrong beginning letters in journal abbreviations
 def check_wrong_beginning_letters(filepath):
     # Words that are typically ignored when creating abbreviations
-    ignore_words = {'a', 'an', 'and', 'the', 'of', 'or', 'in', 'on', 'at', 'to', 'for', 'with', 'by', 'la', 'el', 'le', 'et'}
+    ignore_words = {
+        'a', 'an', 'and', 'the', 'of', 'or', 'in', 'on', 'at', 'to', 'for', 'with', 'by', 
+        'la', 'el', 'le', 'et', 'der', 'die', 'das', 'dem', 'und', 'für'  # Articles in multiple languages
+    }
     
+    # Special cases for abbreviations
+    special_cases = {
+        'proceedings': ['p', 'proc'],
+        'or': ['or'],
+        'spie': ['spie'],
+        'notes': ['notes']
+    }
+
+    def clean_text(text):
+        # Remove special characters except periods (important for compound abbreviations)
+        # and normalize spaces
+        cleaned = re.sub(r'[^\w\s\.]', ' ', text)
+        return ' '.join(filter(None, cleaned.lower().split()))
+
+    def split_compound_abbrev(abbrev):
+        # Split abbreviation that might contain compound parts (e.g., "Nat.forsch")
+        parts = []
+        for part in abbrev.split():
+            # Split on periods but keep them with the preceding part
+            subparts = [sp for sp in re.split(r'(?<=\.)(?=[^\.])', part) if sp]
+            parts.extend(subparts)
+        return parts
+
+    def get_significant_words(text):
+        # Split text into words and filter out ignore words
+        return [w for w in clean_text(text).split() if w.lower() not in ignore_words]
+
+    def is_compound_word_match(full_word, abbrev_part):
+        # Handle compound word abbreviations (e.g., "Nat.forsch" matching "Naturforschenden")
+        if '.' in abbrev_part:
+            # Split the compound abbreviation
+            abbrev_subparts = abbrev_part.split('.')
+            # Get the first few characters of the full word to match against first part
+            word_start = full_word[:len(abbrev_subparts[0])]
+            
+            # For the second part (if exists), try to find it within the remaining word
+            if len(abbrev_subparts) > 1 and abbrev_subparts[1]:
+                remaining_word = full_word[len(abbrev_subparts[0]):]
+                return (word_start.lower() == abbrev_subparts[0].lower() and 
+                       abbrev_subparts[1].lower() in remaining_word.lower())
+            
+            return word_start.lower() == abbrev_subparts[0].lower()
+        return False
+
+    def is_valid_abbreviation(full_name, abbrev):
+        # Clean and split both strings
+        full_words = get_significant_words(full_name)
+        abbrev_parts = split_compound_abbrev(clean_text(abbrev))
+        
+        # Handle cases where abbreviation is the same as full name
+        if clean_text(full_name) == clean_text(abbrev):
+            return True
+
+        # Handle special cases
+        for special_word, valid_abbrevs in special_cases.items():
+            if special_word in full_words:
+                if any(va in abbrev_parts for va in valid_abbrevs):
+                    return True
+
+        # Track matched parts and their positions
+        matched_parts = 0
+        used_full_words = set()
+        
+        for abbrev_part in abbrev_parts:
+            found_match = False
+            
+            # Try matching against each full word
+            for i, full_word in enumerate(full_words):
+                if i in used_full_words:
+                    continue
+                
+                # Check for compound word match
+                if is_compound_word_match(full_word, abbrev_part):
+                    found_match = True
+                    matched_parts += 1
+                    used_full_words.add(i)
+                    break
+                
+                # Check for regular abbreviation patterns
+                elif (full_word.lower().startswith(abbrev_part.lower()) or
+                      (len(abbrev_part) >= 2 and abbrev_part[0].lower() == full_word[0].lower())):
+                    found_match = True
+                    matched_parts += 1
+                    used_full_words.add(i)
+                    break
+
+        # Consider the abbreviation valid if we matched most parts
+        min_required_matches = max(1, len(abbrev_parts) * 0.5)
+        return matched_parts >= min_required_matches
+
     with open(filepath, 'r', encoding='utf-8') as f:
         reader = csv.reader(f)
         for line_number, row in enumerate(reader, start=1):
-            if len(row) < 2:  # Skip if row doesn't have both full name and abbreviation
-                continue
+            if len(row) >= 2:
+                full_name = row[0].strip()
+                abbreviation = row[1].strip()
                 
-            full_name = row[0].strip()
-            abbreviation = row[1].strip()
-            
-            # Skip empty entries
-            if not full_name or not abbreviation:
-                continue
-            
-            # Get significant words from full name (ignoring articles, prepositions, etc.)
-            full_words = [word for word in full_name.split() 
-                         if word.lower() not in ignore_words]
-            abbrev_words = abbreviation.split()
-            
-            # Skip if either is empty after filtering
-            if not full_words or not abbrev_words:
-                continue
-            
-            # Check if abbreviation starts with the same letter as the first significant word
-            if not abbrev_words[0].lower().startswith(full_words[0][0].lower()):
-                error(f"Wrong beginning letter found in {filepath} at line {line_number} " f"Full: '{full_name}', Abbrev: '{abbreviation}')", 
-                      'ERROR Wrong Starting Letter')
+                if not is_valid_abbreviation(full_name, abbreviation):
+                    error(
+                        f"Abbrev mismatch full name pattern in {filepath} at line {line_number}:" f"Full: '{full_name}', " f"Abbrev: '{abbreviation}'",
+                        'ERROR Wrong Starting Letter'
+                    )
 
 
 # Check for duplicate entries
