@@ -21,6 +21,7 @@ warning_counts = {
     'WARN Same Abbreviation as Full Name': 0,
     'WARN Outdated Manage Abbreviation': 0
 }
+
 # Error tracking
 def error(message, error_type):
     errors.append((error_type, f"ERROR: {message}"))
@@ -31,32 +32,44 @@ def warning(message, warning_type):
     warnings.append((warning_type, f"WARN: {message}"))
     warning_counts[warning_type] += 1
 
-# Check if non-UTF8 characters are present in the file
-def check_non_utf8_characters(filepath):
+# Perform all checks on the file's content
+def perform_checks(filepath, rows):
+    check_non_utf8_characters(filepath, rows)
+    check_wrong_escape(filepath, rows)
+    check_wrong_beginning_letters(filepath, rows)
+    check_duplicates(filepath, rows)
+    check_full_form_identical_to_abbreviation(filepath, rows)
+    check_outdated_abbreviations(filepath, rows)
+
+# Load the content of a CSV file into memory once
+def load_csv_content(filepath):
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
-            for line_number, line in enumerate(f, start=1):
-                try:
-                    line.encode('utf-8')
-                except UnicodeEncodeError as e:
-                    error(f"Non-UTF8 character found in {filepath} at line {line_number}: {e}", 'ERROR Non-UTF8')
+            return list(csv.reader(f))
     except UnicodeDecodeError as e:
         error(f"File {filepath} contains non-UTF-8 characters: {e}", 'ERROR Non-UTF8')
+        return []
+
+# Check if non-UTF8 characters are present in the file
+def check_non_utf8_characters(filepath, rows):
+    for line_number, row in enumerate(rows, start=1):
+        try:
+            str(row).encode('utf-8')
+        except UnicodeEncodeError as e:
+            error(f"Non-UTF8 character found in {filepath} at line {line_number}: {e}", 'ERROR Non-UTF8')
 
 # Check if there are wrong escape characters in abbreviation entries
-def check_wrong_escape(filepath):
+def check_wrong_escape(filepath, rows):
     valid_escapes = {'\\', '\n', '\t', '\r', '\"'}
-    with open(filepath, 'r', encoding='utf-8') as f:
-        reader = csv.reader(f)
-        for line_number, row in enumerate(reader, start=1):
-            for field in row:
-                matches = re.findall(r"\\.", field)
-                for match in matches:
-                    if match not in valid_escapes:
-                        error(f"Wrong escape character found in {filepath} at line {line_number}: {field}", 'ERROR Wrong Escape')
+    for line_number, row in enumerate(rows, start=1):
+        for field in row:
+            matches = re.findall(r"\\.", field)
+            for match in matches:
+                if match not in valid_escapes:
+                    error(f"Wrong escape character found in {filepath} at line {line_number}: {field}", 'ERROR Wrong Escape')
 
 # Check for wrong beginning letters in journal abbreviations
-def check_wrong_beginning_letters(filepath):
+def check_wrong_beginning_letters(filepath, rows):
     # Words that are typically ignored when creating abbreviations
     ignore_words = {
         'a', 'an', 'and', 'the', 'of', 'or', 'in', 'on', 'at', 'to', 'for', 'with', 'by', 
@@ -153,73 +166,67 @@ def check_wrong_beginning_letters(filepath):
         min_required_matches = max(1, len(abbrev_parts) * 0.5)
         return matched_parts >= min_required_matches
 
-    with open(filepath, 'r', encoding='utf-8') as f:
-        reader = csv.reader(f)
-        for line_number, row in enumerate(reader, start=1):
-            if len(row) >= 2:
-                full_name = row[0].strip()
-                abbreviation = row[1].strip()
-                
-                if not is_valid_abbreviation(full_name, abbreviation):
-                    error(
-                        f"Abbrev mismatch full name pattern in {filepath} at line {line_number}:" f"Full: '{full_name}', " f"Abbrev: '{abbreviation}'",
-                        'ERROR Wrong Starting Letter'
-                    )
-
-
-# Check for duplicate entries
-def check_duplicates(filepath):
-    full_name_entries = {}
-    abbreviation_entries = {}
-    with open(filepath, 'r', encoding='utf-8') as f:
-        reader = csv.reader(f)
-        for line_number, row in enumerate(reader, start=1):
-            if len(row) < 2:
-                continue
-
+    for line_number, row in enumerate(rows, start=1):
+        if len(row) >= 2:
             full_name = row[0].strip()
             abbreviation = row[1].strip()
             
-            # Check for duplicate full names or abbreviations
-            if full_name in full_name_entries or abbreviation in abbreviation_entries:
-                warning(f"Duplicate found in {filepath} at line {line_number}: Full Name: '{full_name}', Abbreviation: '{abbreviation}', first instance seen at line {full_name_entries.get(full_name) or abbreviation_entries.get(abbreviation)}", 'WARN Duplicate FullName/Abbreviation')
-            else:
-                full_name_entries[full_name] = line_number
-                abbreviation_entries[abbreviation] = line_number
+            if not is_valid_abbreviation(full_name, abbreviation):
+                error(
+                    f"Abbrev mismatch full name pattern in {filepath} at line {line_number}:"
+                    f"\nFull: '{full_name}',"
+                    f"\nAbbrev: '{abbreviation}'",
+                    'ERROR Wrong Starting Letter')
+
+
+# Check for duplicate entries
+def check_duplicates(filepath, rows):
+    full_name_entries = {}
+    abbreviation_entries = {}
+
+    for line_number, row in enumerate(rows, start=1):
+        if len(row) < 2:
+            continue
+
+        full_name = row[0].strip()
+        abbreviation = row[1].strip()
+        
+        # Check for duplicate full names or abbreviations
+        if full_name in full_name_entries or abbreviation in abbreviation_entries:
+            warning(f"Duplicate found in {filepath} at line {line_number}: Full Name: '{full_name}', Abbreviation: '{abbreviation}', first instance seen at line {full_name_entries.get(full_name) or abbreviation_entries.get(abbreviation)}", 'WARN Duplicate FullName/Abbreviation')
+        else:
+            full_name_entries[full_name] = line_number
+            abbreviation_entries[abbreviation] = line_number
 
 # Check if abbreviation and full form are the same
-def check_full_form_identical_to_abbreviation(filepath):
-    with open(filepath, 'r', encoding='utf-8') as f:
-        reader = csv.reader(f)
-        for line_number, row in enumerate(reader, start=1):
-            if len(row) == 2 and row[0].strip() == row[1].strip() and ' ' in row[0].strip():
-                warning(f"Abbreviation is the same as full form in {filepath} at line {line_number}: {row[0]}", 'WARN Same Abbreviation as Full Name')
+def check_full_form_identical_to_abbreviation(filepath, rows):
+    for line_number, row in enumerate(rows, start=1):
+        if len(row) == 2 and row[0].strip() == row[1].strip() and ' ' in row[0].strip():
+            warning(f"Abbreviation is the same as full form in {filepath} at line {line_number}: {row[0]}", 'WARN Same Abbreviation as Full Name')
 
 # Check for outdated abbreviations
-def check_outdated_abbreviations(filepath):
-    with open(filepath, 'r', encoding='utf-8') as f:
-        reader = csv.reader(f)
-        for line_number, row in enumerate(reader, start=1):
-            if "Manage." in row and "Manag." not in row:
-                warning(f"Outdated abbreviation used in {filepath} at line {line_number}: {','.join(row)}", 'WARN Outdated Manage Abbreviation')
+def check_outdated_abbreviations(filepath, rows):
+    for line_number, row in enumerate(rows, start=1):
+        if "Manage." in row and "Manag." not in row:
+            warning(f"Outdated abbreviation used in {filepath} at line {line_number}: {','.join(row)}", 'WARN Outdated Manage Abbreviation')
 
+# Main entry point
 if __name__ == "__main__":
     if not os.path.exists(JOURNALS_FOLDER_PATH):
         print("Journals folder not found. Please make sure the path is correct.")
         sys.exit(1)
-    
+
     # Iterate through all CSV files in the journals folder
     for filename in os.listdir(JOURNALS_FOLDER_PATH):
         if filename.endswith(".csv"):
             filepath = os.path.join(JOURNALS_FOLDER_PATH, filename)
             
-            # Run the checks
-            check_non_utf8_characters(filepath)
-            check_wrong_escape(filepath)
-            check_wrong_beginning_letters(filepath)
-            check_duplicates(filepath)
-            check_full_form_identical_to_abbreviation(filepath)
-            check_outdated_abbreviations(filepath)
+            # Load the CSV content once
+            rows = load_csv_content(filepath)
+
+            # Run all checks on the loaded data
+            if rows:
+                perform_checks(filepath, rows)
     
     # Write the summary to a file
     total_issues = sum(error_counts.values()) + sum(warning_counts.values())
