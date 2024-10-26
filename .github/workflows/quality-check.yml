@@ -18,15 +18,12 @@ jobs:
     - name: Run Quality Check
       id: quality_check
       run: |
-        python ./scripts/check_quality.py
-      continue-on-error: true  # Continue if there are warnings/errors, so we can log the output
+        python ./scripts/quality_checker.py
 
-    - name: Upload Quality Check Summary
+    - name: Upload Logs to GitHub Summary
       if: always()
-      uses: actions/upload-artifact@v3
-      with:
-        name: check-quality-summary
-        path: ./check_quality_summary.txt
+      run: |
+        cat ./check_quality_summary.txt >> $GITHUB_STEP_SUMMARY
 
     - name: Fail on Errors
       if: steps.quality_check.outcome == 'failure'

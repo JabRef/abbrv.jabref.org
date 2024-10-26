@@ -22,6 +22,13 @@ warning_counts = {
     'WARN Outdated Manage Abbreviation': 0
 }
 
+# After generating the summary, write to the GITHUB_STEP_SUMMARY file if available
+def write_to_github_summary():
+    github_summary_path = os.getenv('GITHUB_STEP_SUMMARY')
+    if github_summary_path:
+        with open(github_summary_path, 'w', encoding='utf-8') as summary_file:
+            summary_file.writelines(summary_output)
+
 # Error tracking
 def error(message, error_type):
     errors.append((error_type, f"ERROR: {message}"))
@@ -259,7 +266,7 @@ if __name__ == "__main__":
     else:
         summary_output.append("Quality check completed with no errors or warnings.\n")
 
-    # Write to summary file
+    # Write the summary to a file
     with open(SUMMARY_FILE_PATH, 'w', encoding='utf-8') as summary_file:
         summary_file.writelines(summary_output)
 
@@ -267,6 +274,9 @@ if __name__ == "__main__":
     for line in summary_output:
         print(line, end='')
 
+    # Write to GitHub Actions summary, if available
+    write_to_github_summary()
+    
     # Set exit code based on errors
     if sum(error_counts.values()) > 0:
         sys.exit(1)  # Fail with an exit code if errors are found
