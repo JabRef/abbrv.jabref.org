@@ -18,7 +18,7 @@ jobs:
     - name: Run Quality Check
       id: quality_check
       run: |
-        python ./scripts/quality_checker.py
+        python ./scripts/check_quality.py
 
     - name: Upload Logs to GitHub Summary
       if: always()
