@@ -20,13 +20,16 @@ jobs:
       run: |
         python ./scripts/check_quality.py
 
-    - name: Upload Logs to GitHub Summary
+    - name: Upload Quality Check Summary as Artifact
       if: always()
-      run: |
-        cat ./check_quality_summary.txt >> $GITHUB_STEP_SUMMARY
+      uses: actions/upload-artifact@v3
+      with:
+        name: check-quality-summary
+        path: ./check_quality_summary.txt
 
     - name: Fail on Errors
       if: steps.quality_check.outcome == 'failure'
       run: |
         echo "Quality check failed due to errors."
         exit 1
+
