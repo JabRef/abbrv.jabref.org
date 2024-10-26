@@ -19,9 +19,8 @@ jobs:
       id: quality_check
       run: |
         python ./scripts/check_quality.py
-      continue-on-error: true  # Continue if there are warnings/errors, so we can log the output
 
-    - name: Upload Quality Check Summary
+    - name: Upload Quality Check Summary as Artifact
       if: always()
       uses: actions/upload-artifact@v3
       with:
@@ -33,3 +32,4 @@ jobs:
       run: |
         echo "Quality check failed due to errors."
         exit 1
+
