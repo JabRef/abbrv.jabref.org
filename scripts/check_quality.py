@@ -73,7 +73,7 @@ def check_wrong_escape(filepath, rows):
             matches = re.findall(r"\\.", field)
             for match in matches:
                 if match not in valid_escapes:
-                    error(f"Wrong escape in {filepath} line {line_number}: {field}", 'ERROR Wrong Escape')
+                    error(f"Wrong escape character found in {filepath} at line {line_number}: {field}", 'ERROR Wrong Escape')
 
 # Check for wrong beginning letters in journal abbreviations
 def check_wrong_beginning_letters(filepath, rows):
@@ -180,9 +180,9 @@ def check_wrong_beginning_letters(filepath, rows):
             
             if not is_valid_abbreviation(full_name, abbreviation):
                 error(
-                    f"Wrong abbreviation in {filepath} line {line_number}:"
+                    f"Abbrev mismatch full name pattern in {filepath} at line {line_number}:"
                     f"\nFull: '{full_name}',"
-                    f"\nAbbr: '{abbreviation}'",
+                    f"\nAbbrev: '{abbreviation}'",
                     'ERROR Wrong Starting Letter')
 
 
@@ -200,7 +200,7 @@ def check_duplicates(filepath, rows):
         
         # Check for duplicate full names or abbreviations
         if full_name in full_name_entries or abbreviation in abbreviation_entries:
-            warning(f"Duplicate in {filepath} line {line_number}: Full: '{full_name}', Abbr: '{abbreviation}', first seen in line {full_name_entries.get(full_name) or abbreviation_entries.get(abbreviation)}", 'WARN Duplicate FullName/Abbreviation')
+            warning(f"Duplicate found in {filepath} at line {line_number}: Full Name: '{full_name}', Abbreviation: '{abbreviation}', first instance seen at line {full_name_entries.get(full_name) or abbreviation_entries.get(abbreviation)}", 'WARN Duplicate FullName/Abbreviation')
         else:
             full_name_entries[full_name] = line_number
             abbreviation_entries[abbreviation] = line_number
@@ -209,13 +209,13 @@ def check_duplicates(filepath, rows):
 def check_full_form_identical_to_abbreviation(filepath, rows):
     for line_number, row in enumerate(rows, start=1):
         if len(row) == 2 and row[0].strip() == row[1].strip() and ' ' in row[0].strip():
-            warning(f"Abbr same as Full in {filepath} line {line_number}: {row[0]}", 'WARN Same Abbreviation as Full Name')
+            warning(f"Abbreviation is the same as full form in {filepath} at line {line_number}: {row[0]}", 'WARN Same Abbreviation as Full Name')
 
 # Check for outdated abbreviations
 def check_outdated_abbreviations(filepath, rows):
     for line_number, row in enumerate(rows, start=1):
         if "Manage." in row and "Manag." not in row:
-            warning(f"Outdated abbr in {filepath} line {line_number}: {','.join(row)}", 'WARN Outdated Manage Abbreviation')
+            warning(f"Outdated abbreviation used in {filepath} at line {line_number}: {','.join(row)}", 'WARN Outdated Manage Abbreviation')
 
 # Main entry point
 if __name__ == "__main__":
@@ -242,9 +242,9 @@ if __name__ == "__main__":
     summary_output.append("# Quality Check Summary Report\n")
     summary_output.append("| Status        | Count |\n")
     summary_output.append("| ------------- | ----- |\n")
-    summary_output.append(f"| 🔍 Total       | {total_issues}   |\n")
-    summary_output.append(f"| ❌ Errors      | {sum(error_counts.values())}    |\n")
-    summary_output.append(f"| ⚠️ Warnings    | {sum(warning_counts.values())}   |\n\n")
+    summary_output.append(f"| 🔍 Total Issues      | {total_issues}   |\n")
+    summary_output.append(f"| ❌ Errors Found      | {sum(error_counts.values())}    |\n")
+    summary_output.append(f"| ⚠️ Warnings Found    | {sum(warning_counts.values())}   |\n\n")
 
     # Write detailed errors and warnings
     if errors or warnings:
