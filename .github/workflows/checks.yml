@@ -3,6 +3,7 @@ name: Checks
 on:
   - push
   - pull_request
+  - workflow_dispatch
 jobs:
   markdown-check:
     name: Check Markdown

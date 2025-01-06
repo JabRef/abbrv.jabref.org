@@ -8,19 +8,18 @@ The project is versioned using [CalVer](https://calver.org/).
 
 ### Added
 
-- Added checker "Escaped Ampersands": `check_ampersands.py` which checks all CSV journals in the folder `journals` to make
-sure all instances of ampersands are unescaped
+- Added checker "Escaped Ampersands": `check_ampersands.py` which checks all CSV journals in the folder `journals` to make sure all instances of ampersands are unescaped
 
 ### Changed
 
 - `.github/workflows/tests.yml` contains the script `check_ampersands.py`
 - Minor format changes in `README.md` and `LISENSE.md` as the old GitHub actions check was already failing
-- Found an escaped ampersands using the new script in `journal_abbreviations_dainst.csv` so this was amended.
-
+- Found an escaped ampersand using the new script in `journal_abbreviations_dainst.csv` so this was amended.
 
 ### Removed
 
 - `[;<frequency>]` was removed, because it was used very seldom - and the data should be collected at other places.
+- "Web of Science" abbreviation list was removed. The [data source](https://su.figshare.com/articles/dataset/Journal_abbreviations_from_Web_of_Science/3207787) is from 2016 and had serious issues. [#176](https://github.com/JabRef/abbrv.jabref.org/issues/176)
 
 ## 2021-09
 
