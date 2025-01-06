@@ -22,8 +22,7 @@ import sys
 # Define the list of CSV files
 import_order = [
     "journals/journal_abbreviations_entrez.csv",
-    "journals/journal_abbreviations_medicus.csv",
-    "journals/journal_abbreviations_webofscience-dotless.csv",
+    "journals/journal_abbreviations_medicus.csv"
 ]
 
 

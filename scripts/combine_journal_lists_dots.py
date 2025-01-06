@@ -32,8 +32,7 @@ import_order = [
     "journals/journal_abbreviations_mathematics.csv",
     "journals/journal_abbreviations_mechanical.csv",
     "journals/journal_abbreviations_meteorology.csv",
-    "journals/journal_abbreviations_sociology.csv",
-    "journals/journal_abbreviations_webofscience-dots.csv",
+    "journals/journal_abbreviations_sociology.csv"
 ]
 
 
