@@ -15,7 +15,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/keepalive-workflow@v2
       - uses: actions/setup-python@v5
       - run: wget https://raw.github.com/jrnold/jabref-econ-journal-abbrevs/master/aea-abbrevs.txt -O journals/journal_abbreviations_aea.txt
       - run: pip install pandas
