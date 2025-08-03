@@ -42,9 +42,8 @@ for file in fileNames:
                     (r'\\c(?![primeyrd])', 'incomplete LaTeX command - should be \\cyr or \\cprime'),
                     (r'\\p(?!olhk)', 'incomplete LaTeX command - should be \\polhk'),
                     (r'\\l(?!dots|asp)', 'incomplete LaTeX command'),
-                    (r'\\-', 'invalid hyphen escape - use regular hyphen'),
                     (r'\\"[^,"]', 'improper quote escaping'),
-                    (r'\\(?![\\"/nrt$&]|sp|rm|circledR|cprime|cyr|polhk|cdprime|ldots|lasp)[a-zA-Z]+', 'unknown escape sequence'),
+                    (r'\\(?![\\"/nrt$&-]|sp|rm|circledR|cprime|cyr|polhk|cdprime|ldots|lasp)[a-zA-Z]+', 'unknown escape sequence'),
                 ]
                 
                 for pattern, description in problematic_patterns:
