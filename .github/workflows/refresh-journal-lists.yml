@@ -14,7 +14,7 @@ jobs:
     name: Update AEA
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: actions/setup-python@v5
       - run: wget https://raw.github.com/jrnold/jabref-econ-journal-abbrevs/master/aea-abbrevs.txt -O journals/journal_abbreviations_aea.txt
       - run: pip install pandas
@@ -30,7 +30,7 @@ jobs:
     name: Update Astronomy
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: actions/setup-python@v5
       - run: wget https://raw.githubusercontent.com/timstaley/jabref-astro-abbreviations/master/MNRAS_abbreviations.txt -O journals/journal_abbreviations_astronomy.txt
       - run: pip install pandas
@@ -46,7 +46,7 @@ jobs:
     name: Update MathSciNet
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: actions/setup-python@v5
       - run: pip install pandas
       - run: python scripts/update_mathscinet.py
@@ -60,7 +60,7 @@ jobs:
     name: Update UBC
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: actions/setup-python@v5
       - run: pip install beautifulsoup4 requests
       - run: python scripts/update_ubc.py
