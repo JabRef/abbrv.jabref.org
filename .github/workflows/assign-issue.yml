@@ -7,12 +7,16 @@ on:
     types: [created]
   workflow_dispatch:
 
+permissions:
+  issues: write
+
 jobs:
   assign:
     runs-on: ubuntu-latest
     steps:
       - name: Assign the user or unassign stale assignments
-        uses: takanome-dev/assign-issue-action@beta
+        uses: takanome-dev/assign-issue-action@edge
         with:
           github_token: '${{ secrets.GITHUB_TOKEN }}'
           days_until_unassign: 30
+          maintainers: 'koppor'
