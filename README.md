@@ -8,7 +8,7 @@ A repository of abbreviations for references, e.g., for journals, conferences, a
 ## Journal abbreviations
 
 Currently, a number of journal lists are offered.
-Please check the direcotry [`journals`](journals/) for
+Please check the directory [`journals`](journals/) for
 
 - A list of abbreviations
 - An explaining [`README.md`](journals/README.md) listing the sources of the CSV file. For instance, some lists are generated using Python, some are maintained manually.
