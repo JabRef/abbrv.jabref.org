@@ -13,7 +13,12 @@ Please check the directory [`journals`](journals/) for
 - A list of abbreviations
 - An explaining [`README.md`](journals/README.md) listing the sources of the CSV file. For instance, some lists are generated using Python, some are maintained manually.
 
-## Conference and institute abbreviations
+## Conference abbreviations
+
+See [`conferences`](conferences/) for a small manually maintained conference list
+and its [sources and format](conferences/README.md).
+
+## Institute abbreviations
 
 This is future work.
 
